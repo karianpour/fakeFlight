@@ -42,27 +42,29 @@ console.log(`
 function left(){
   bearing = bearing - 5;
   if(bearing < 0) bearing = 360 + bearing;
+  bearing = Math.round(bearing);
   printState();
 }
 function right(){
   bearing = bearing + 5;
   if(bearing >= 360) bearing = 0 + (bearing - 360);
+  bearing = Math.round(bearing);
   printState();
 }
 function faster(){
-  speed = speed + 2;
+  speed = Math.round(speed + 2);
   printState();
 }
 function slower(){
-  speed = speed - 2;
+  speed = Math.round(speed - 2);
   printState();
 }
 function higher(){
-  vspeed = vspeed + 0.2;
+  vspeed = Math.round((vspeed + 0.2) * 10) / 10;
   printState();
 }
 function lower(){
-  vspeed = vspeed - 0.2;
+  vspeed = Math.round((vspeed - 0.2) * 10) / 10;
   printState();
 }
 function printState(){
@@ -112,10 +114,11 @@ async function run() {
 }
 
 let send = true;
-let lastP = {lat: 27.3625, lon: 56.1548, ele: 580.0}
+// let lastP = {lat: 27.3625, lon: 56.1548, ele: 580.0} // Geno
+let lastP = {lat: 32.34615, lon: 51.03927, ele: 2683.0} //Rokh
 let speed = 0;
 let vspeed = 0;
-let bearing = 270;
+let bearing = 90;
 
 function createNextPoint(p) {
 
@@ -124,7 +127,7 @@ function createNextPoint(p) {
   const distance = speed * 1000 / 3600 * t / 1000;// meter
   const lift = vspeed * t / 1000;// meter
   const p2 = p1.destinationPoint(distance, bearing);
-  console.log(p2);
+  // console.log(p2);
 
   let lat = Math.round(p2._lat * 10000000) / 10000000, lon = Math.round(p2._lon * 10000000) / 10000000, ele = Math.round((p.ele + lift) * 100) / 100;
 
