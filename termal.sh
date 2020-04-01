@@ -1,0 +1,4587 @@
+#!/bin/bash
+echo "open 127.0.0.1 5554"
+sleep 2
+echo "geo fix 56.1808333 27.3555667 698.0 12"
+sleep 0.95
+echo "geo fix 56.1807333 27.3555833 698.0 12"
+sleep 0.95
+echo "geo fix 56.1806333 27.3556 696.0 12"
+sleep 0.95
+echo "geo fix 56.1805167 27.3556 695.0 12"
+sleep 0.95
+echo "geo fix 56.1803833 27.3556167 694.0 12"
+sleep 0.95
+echo "geo fix 56.1802667 27.3556167 695.0 12"
+sleep 0.95
+echo "geo fix 56.18015 27.3556167 697.0 12"
+sleep 0.95
+echo "geo fix 56.18005 27.3556 698.0 12"
+sleep 0.95
+echo "geo fix 56.17995 27.3556 698.0 12"
+sleep 0.95
+echo "geo fix 56.17985 27.3555833 697.0 12"
+sleep 0.95
+echo "geo fix 56.17975 27.3555667 696.0 12"
+sleep 0.95
+echo "geo fix 56.17965 27.3555333 696.0 12"
+sleep 0.95
+echo "geo fix 56.17955 27.3555 696.0 12"
+sleep 0.95
+echo "geo fix 56.1794833 27.3554667 697.0 12"
+sleep 0.95
+echo "geo fix 56.1794167 27.3554167 698.0 12"
+sleep 0.95
+echo "geo fix 56.1793833 27.3553833 698.0 12"
+sleep 0.95
+echo "geo fix 56.1793833 27.3553333 698.0 12"
+sleep 0.95
+echo "geo fix 56.1794 27.3552833 698.0 12"
+sleep 0.95
+echo "geo fix 56.17945 27.3552333 698.0 12"
+sleep 0.95
+echo "geo fix 56.17955 27.3552167 699.0 12"
+sleep 0.95
+echo "geo fix 56.17965 27.35525 699.0 12"
+sleep 0.95
+echo "geo fix 56.1797167 27.3553167 699.0 12"
+sleep 0.95
+echo "geo fix 56.1797667 27.3554333 699.0 12"
+sleep 0.95
+echo "geo fix 56.1797667 27.35555 699.0 12"
+sleep 0.95
+echo "geo fix 56.1797 27.3556667 699.0 12"
+sleep 0.95
+echo "geo fix 56.1796 27.3557667 698.0 12"
+sleep 0.95
+echo "geo fix 56.1794833 27.3558333 698.0 12"
+sleep 0.95
+echo "geo fix 56.17935 27.3558667 698.0 12"
+sleep 0.95
+echo "geo fix 56.1792167 27.3558833 698.0 12"
+sleep 0.95
+echo "geo fix 56.1791 27.3558833 698.0 12"
+sleep 0.95
+echo "geo fix 56.1790167 27.3558333 699.0 12"
+sleep 0.95
+echo "geo fix 56.1789833 27.3557667 700.0 12"
+sleep 0.95
+echo "geo fix 56.1789833 27.3557 700.0 12"
+sleep 0.95
+echo "geo fix 56.1790333 27.35565 700.0 12"
+sleep 0.95
+echo "geo fix 56.1791167 27.3556167 701.0 12"
+sleep 0.95
+echo "geo fix 56.1792 27.35565 702.0 12"
+sleep 0.95
+echo "geo fix 56.1792833 27.3557167 702.0 12"
+sleep 0.95
+echo "geo fix 56.1793333 27.3558167 702.0 12"
+sleep 0.95
+echo "geo fix 56.17935 27.3559333 702.0 12"
+sleep 0.95
+echo "geo fix 56.1793 27.3560667 703.0 12"
+sleep 0.95
+echo "geo fix 56.1792167 27.3561667 701.0 12"
+sleep 0.95
+echo "geo fix 56.1790833 27.3562333 700.0 12"
+sleep 0.95
+echo "geo fix 56.17895 27.3562833 700.0 12"
+sleep 0.95
+echo "geo fix 56.1788167 27.3563 700.0 12"
+sleep 0.95
+echo "geo fix 56.1787 27.3562833 702.0 12"
+sleep 0.95
+echo "geo fix 56.1786167 27.3562333 702.0 12"
+sleep 0.95
+echo "geo fix 56.1786 27.3561667 703.0 12"
+sleep 0.95
+echo "geo fix 56.1786167 27.3561 704.0 12"
+sleep 0.95
+echo "geo fix 56.1786667 27.35605 705.0 12"
+sleep 0.95
+echo "geo fix 56.17875 27.35605 706.0 12"
+sleep 0.95
+echo "geo fix 56.17885 27.3560667 706.0 12"
+sleep 0.95
+echo "geo fix 56.1789333 27.3561333 705.0 12"
+sleep 0.95
+echo "geo fix 56.1789667 27.35625 706.0 12"
+sleep 0.95
+echo "geo fix 56.1789667 27.3563667 706.0 12"
+sleep 0.95
+echo "geo fix 56.1789333 27.3564667 705.0 12"
+sleep 0.95
+echo "geo fix 56.17885 27.3565667 703.0 12"
+sleep 0.95
+echo "geo fix 56.1787333 27.35665 702.0 12"
+sleep 0.95
+echo "geo fix 56.1786167 27.3567 701.0 12"
+sleep 0.95
+echo "geo fix 56.1784833 27.35675 701.0 12"
+sleep 0.95
+echo "geo fix 56.17835 27.3567667 702.0 12"
+sleep 0.95
+echo "geo fix 56.17825 27.3567667 703.0 12"
+sleep 0.95
+echo "geo fix 56.1781667 27.35675 704.0 12"
+sleep 0.95
+echo "geo fix 56.1781 27.3567 704.0 12"
+sleep 0.95
+echo "geo fix 56.17805 27.3566333 705.0 12"
+sleep 0.95
+echo "geo fix 56.17805 27.3565833 707.0 12"
+sleep 0.95
+echo "geo fix 56.1781 27.3565333 707.0 12"
+sleep 0.95
+echo "geo fix 56.1781667 27.3565 708.0 12"
+sleep 0.95
+echo "geo fix 56.1782667 27.3565167 709.0 12"
+sleep 0.95
+echo "geo fix 56.17835 27.3565667 710.0 12"
+sleep 0.95
+echo "geo fix 56.1784333 27.35665 710.0 12"
+sleep 0.95
+echo "geo fix 56.1784667 27.35675 710.0 12"
+sleep 0.95
+echo "geo fix 56.1784667 27.3568667 710.0 12"
+sleep 0.95
+echo "geo fix 56.17845 27.3569833 711.0 12"
+sleep 0.95
+echo "geo fix 56.1783833 27.3571 711.0 12"
+sleep 0.95
+echo "geo fix 56.1782667 27.3571833 710.0 12"
+sleep 0.95
+echo "geo fix 56.17815 27.3572333 709.0 12"
+sleep 0.95
+echo "geo fix 56.1780167 27.35725 710.0 12"
+sleep 0.95
+echo "geo fix 56.1779 27.3572667 711.0 12"
+sleep 0.95
+echo "geo fix 56.1778167 27.35725 712.0 12"
+sleep 0.95
+echo "geo fix 56.1777667 27.3572167 713.0 12"
+sleep 0.95
+echo "geo fix 56.17775 27.35715 713.0 12"
+sleep 0.95
+echo "geo fix 56.17775 27.3571 713.0 12"
+sleep 0.95
+echo "geo fix 56.17775 27.35705 714.0 12"
+sleep 0.95
+echo "geo fix 56.1778 27.357 714.0 12"
+sleep 0.95
+echo "geo fix 56.17785 27.3569667 715.0 12"
+sleep 0.95
+echo "geo fix 56.1779167 27.3569667 716.0 12"
+sleep 0.95
+echo "geo fix 56.1780167 27.3569833 716.0 12"
+sleep 0.95
+echo "geo fix 56.1781 27.3570333 717.0 12"
+sleep 0.95
+echo "geo fix 56.1781833 27.3571167 717.0 12"
+sleep 0.95
+echo "geo fix 56.1782333 27.3572167 717.0 12"
+sleep 0.95
+echo "geo fix 56.17825 27.3573333 716.0 12"
+sleep 0.95
+echo "geo fix 56.1782 27.35745 715.0 12"
+sleep 0.95
+echo "geo fix 56.1781167 27.35755 713.0 12"
+sleep 0.95
+echo "geo fix 56.1780167 27.3576333 712.0 12"
+sleep 0.95
+echo "geo fix 56.1778833 27.3576667 711.0 12"
+sleep 0.95
+echo "geo fix 56.17775 27.3576667 711.0 12"
+sleep 0.95
+echo "geo fix 56.1776333 27.3576667 712.0 12"
+sleep 0.95
+echo "geo fix 56.1775333 27.35765 714.0 12"
+sleep 0.95
+echo "geo fix 56.1774333 27.35765 715.0 12"
+sleep 0.95
+echo "geo fix 56.17735 27.35765 717.0 12"
+sleep 0.95
+echo "geo fix 56.1772667 27.3576333 717.0 12"
+sleep 0.95
+echo "geo fix 56.1771667 27.3576 718.0 12"
+sleep 0.95
+echo "geo fix 56.1771 27.35755 719.0 12"
+sleep 0.95
+echo "geo fix 56.1770333 27.3574833 722.0 12"
+sleep 0.95
+echo "geo fix 56.177 27.3574167 726.0 12"
+sleep 0.95
+echo "geo fix 56.17695 27.3573667 729.0 12"
+sleep 0.95
+echo "geo fix 56.1769 27.3573333 732.0 12"
+sleep 0.95
+echo "geo fix 56.1768667 27.3573 733.0 12"
+sleep 0.95
+echo "geo fix 56.1768333 27.35725 734.0 12"
+sleep 0.95
+echo "geo fix 56.17685 27.3572 734.0 12"
+sleep 0.95
+echo "geo fix 56.1769167 27.35715 735.0 12"
+sleep 0.95
+echo "geo fix 56.177 27.3571333 736.0 12"
+sleep 0.95
+echo "geo fix 56.1771167 27.35715 737.0 12"
+sleep 0.95
+echo "geo fix 56.1772 27.3572333 740.0 12"
+sleep 0.95
+echo "geo fix 56.1772333 27.35735 741.0 12"
+sleep 0.95
+echo "geo fix 56.1772333 27.3574667 742.0 12"
+sleep 0.95
+echo "geo fix 56.1771833 27.3575833 743.0 12"
+sleep 0.95
+echo "geo fix 56.1771167 27.3576833 744.0 12"
+sleep 0.95
+echo "geo fix 56.1770333 27.3577667 745.0 12"
+sleep 0.95
+echo "geo fix 56.1769167 27.3578167 747.0 12"
+sleep 0.95
+echo "geo fix 56.1768167 27.35785 749.0 12"
+sleep 0.95
+echo "geo fix 56.1767167 27.3578333 751.0 12"
+sleep 0.95
+echo "geo fix 56.17665 27.3578 752.0 12"
+sleep 0.95
+echo "geo fix 56.1766 27.3577333 753.0 12"
+sleep 0.95
+echo "geo fix 56.1766 27.3576667 754.0 12"
+sleep 0.95
+echo "geo fix 56.17665 27.3576167 756.0 12"
+sleep 0.95
+echo "geo fix 56.1767333 27.3575833 758.0 12"
+sleep 0.95
+echo "geo fix 56.1768333 27.3576 759.0 12"
+sleep 0.95
+echo "geo fix 56.1769167 27.35765 760.0 12"
+sleep 0.95
+echo "geo fix 56.177 27.35775 761.0 12"
+sleep 0.95
+echo "geo fix 56.177 27.3578833 762.0 12"
+sleep 0.95
+echo "geo fix 56.1769667 27.358 763.0 12"
+sleep 0.95
+echo "geo fix 56.1769 27.3581167 765.0 12"
+sleep 0.95
+echo "geo fix 56.1768 27.3581833 768.0 12"
+sleep 0.95
+echo "geo fix 56.1767 27.3582333 770.0 12"
+sleep 0.95
+echo "geo fix 56.1766 27.3582667 772.0 12"
+sleep 0.95
+echo "geo fix 56.1765 27.3582667 773.0 12"
+sleep 0.95
+echo "geo fix 56.1764167 27.3582333 775.0 12"
+sleep 0.95
+echo "geo fix 56.1763667 27.3581833 777.0 12"
+sleep 0.95
+echo "geo fix 56.17635 27.3581167 778.0 12"
+sleep 0.95
+echo "geo fix 56.1763667 27.35805 780.0 12"
+sleep 0.95
+echo "geo fix 56.1764333 27.3580167 781.0 12"
+sleep 0.95
+echo "geo fix 56.17655 27.3580167 781.0 12"
+sleep 0.95
+echo "geo fix 56.17665 27.3580667 782.0 12"
+sleep 0.95
+echo "geo fix 56.1767167 27.35815 783.0 12"
+sleep 0.95
+echo "geo fix 56.17675 27.3582667 784.0 12"
+sleep 0.95
+echo "geo fix 56.1767167 27.3584 785.0 12"
+sleep 0.95
+echo "geo fix 56.17665 27.3585167 787.0 12"
+sleep 0.95
+echo "geo fix 56.17655 27.3585833 789.0 12"
+sleep 0.95
+echo "geo fix 56.1764667 27.35865 792.0 12"
+sleep 0.95
+echo "geo fix 56.1763833 27.3586833 795.0 12"
+sleep 0.95
+echo "geo fix 56.1763 27.3587167 796.0 12"
+sleep 0.95
+echo "geo fix 56.1762167 27.3587167 797.0 12"
+sleep 0.95
+echo "geo fix 56.1761333 27.3587 798.0 12"
+sleep 0.95
+echo "geo fix 56.17605 27.3586833 798.0 12"
+sleep 0.95
+echo "geo fix 56.1759833 27.3586333 799.0 12"
+sleep 0.95
+echo "geo fix 56.17595 27.3585667 800.0 12"
+sleep 0.95
+echo "geo fix 56.17595 27.3585167 802.0 12"
+sleep 0.95
+echo "geo fix 56.1759833 27.3584667 803.0 12"
+sleep 0.95
+echo "geo fix 56.1760333 27.3584333 805.0 12"
+sleep 0.95
+echo "geo fix 56.1761167 27.3584167 806.0 12"
+sleep 0.95
+echo "geo fix 56.1762 27.35845 808.0 12"
+sleep 0.95
+echo "geo fix 56.1762833 27.3585 809.0 12"
+sleep 0.95
+echo "geo fix 56.1763333 27.3585833 811.0 12"
+sleep 0.95
+echo "geo fix 56.1763833 27.3586833 811.0 12"
+sleep 0.95
+echo "geo fix 56.1763833 27.3588 812.0 12"
+sleep 0.95
+echo "geo fix 56.1763667 27.3589 813.0 12"
+sleep 0.95
+echo "geo fix 56.1763167 27.3590167 814.0 12"
+sleep 0.95
+echo "geo fix 56.17625 27.3591 816.0 12"
+sleep 0.95
+echo "geo fix 56.1761667 27.3591667 818.0 12"
+sleep 0.95
+echo "geo fix 56.1760667 27.3592167 820.0 12"
+sleep 0.95
+echo "geo fix 56.1759667 27.3592333 821.0 12"
+sleep 0.95
+echo "geo fix 56.1758833 27.3592333 822.0 12"
+sleep 0.95
+echo "geo fix 56.1757833 27.3592333 823.0 12"
+sleep 0.95
+echo "geo fix 56.1757 27.3592167 824.0 12"
+sleep 0.95
+echo "geo fix 56.1756333 27.3591833 825.0 12"
+sleep 0.95
+echo "geo fix 56.1755667 27.35915 825.0 12"
+sleep 0.95
+echo "geo fix 56.1755333 27.3591 826.0 12"
+sleep 0.95
+echo "geo fix 56.1755167 27.35905 827.0 12"
+sleep 0.95
+echo "geo fix 56.1755167 27.359 828.0 12"
+sleep 0.95
+echo "geo fix 56.17555 27.35895 829.0 12"
+sleep 0.95
+echo "geo fix 56.1756 27.3589167 828.0 12"
+sleep 0.95
+echo "geo fix 56.1756833 27.3589167 829.0 12"
+sleep 0.95
+echo "geo fix 56.1757833 27.35895 830.0 12"
+sleep 0.95
+echo "geo fix 56.1758667 27.3590167 831.0 12"
+sleep 0.95
+echo "geo fix 56.1759 27.3591 832.0 12"
+sleep 0.95
+echo "geo fix 56.1759167 27.3592167 832.0 12"
+sleep 0.95
+echo "geo fix 56.1759 27.3593333 831.0 12"
+sleep 0.95
+echo "geo fix 56.17585 27.35945 830.0 12"
+sleep 0.95
+echo "geo fix 56.17575 27.35955 830.0 12"
+sleep 0.95
+echo "geo fix 56.17565 27.3596333 831.0 12"
+sleep 0.95
+echo "geo fix 56.1755333 27.3596833 832.0 12"
+sleep 0.95
+echo "geo fix 56.1754167 27.3597333 833.0 12"
+sleep 0.95
+echo "geo fix 56.1753167 27.3597667 834.0 12"
+sleep 0.95
+echo "geo fix 56.1752167 27.3598167 835.0 12"
+sleep 0.95
+echo "geo fix 56.1751 27.3598667 836.0 12"
+sleep 0.95
+echo "geo fix 56.1749833 27.3599 836.0 12"
+sleep 0.95
+echo "geo fix 56.1748667 27.3599333 838.0 12"
+sleep 0.95
+echo "geo fix 56.17475 27.35995 840.0 12"
+sleep 0.95
+echo "geo fix 56.1746333 27.3599667 842.0 12"
+sleep 0.95
+echo "geo fix 56.1745167 27.3599667 843.0 12"
+sleep 0.95
+echo "geo fix 56.1744 27.3599833 844.0 12"
+sleep 0.95
+echo "geo fix 56.1742833 27.3599833 845.0 12"
+sleep 0.95
+echo "geo fix 56.1741833 27.3599667 847.0 12"
+sleep 0.95
+echo "geo fix 56.1740833 27.35995 849.0 12"
+sleep 0.95
+echo "geo fix 56.174 27.3599333 851.0 12"
+sleep 0.95
+echo "geo fix 56.1739167 27.3599167 851.0 12"
+sleep 0.95
+echo "geo fix 56.1738 27.3599167 851.0 12"
+sleep 0.95
+echo "geo fix 56.1737 27.3599 851.0 12"
+sleep 0.95
+echo "geo fix 56.1735833 27.3599 853.0 12"
+sleep 0.95
+echo "geo fix 56.1734833 27.3598833 854.0 12"
+sleep 0.95
+echo "geo fix 56.1733833 27.3598833 856.0 12"
+sleep 0.95
+echo "geo fix 56.1732833 27.3598833 856.0 12"
+sleep 0.95
+echo "geo fix 56.1731833 27.3598833 857.0 12"
+sleep 0.95
+echo "geo fix 56.1730833 27.3599 857.0 12"
+sleep 0.95
+echo "geo fix 56.17295 27.3599 857.0 12"
+sleep 0.95
+echo "geo fix 56.1728167 27.3599 858.0 12"
+sleep 0.95
+echo "geo fix 56.1727 27.3599167 861.0 12"
+sleep 0.95
+echo "geo fix 56.1725833 27.3599333 866.0 12"
+sleep 0.95
+echo "geo fix 56.1724833 27.35995 869.0 12"
+sleep 0.95
+echo "geo fix 56.1723833 27.35995 870.0 12"
+sleep 0.95
+echo "geo fix 56.1722833 27.35995 871.0 12"
+sleep 0.95
+echo "geo fix 56.17215 27.35995 872.0 12"
+sleep 0.95
+echo "geo fix 56.1720167 27.3599667 874.0 12"
+sleep 0.95
+echo "geo fix 56.1719 27.3599667 876.0 12"
+sleep 0.95
+echo "geo fix 56.1717833 27.35995 878.0 12"
+sleep 0.95
+echo "geo fix 56.1716667 27.3599333 880.0 12"
+sleep 0.95
+echo "geo fix 56.17155 27.3599 882.0 12"
+sleep 0.95
+echo "geo fix 56.17145 27.3598667 883.0 12"
+sleep 0.95
+echo "geo fix 56.1713667 27.3598333 885.0 12"
+sleep 0.95
+echo "geo fix 56.1712667 27.3598167 886.0 12"
+sleep 0.95
+echo "geo fix 56.17115 27.3598167 885.0 12"
+sleep 0.95
+echo "geo fix 56.1710167 27.3598333 884.0 12"
+sleep 0.95
+echo "geo fix 56.1708667 27.3598333 883.0 12"
+sleep 0.95
+echo "geo fix 56.1707167 27.3598167 883.0 12"
+sleep 0.95
+echo "geo fix 56.1705833 27.3598 884.0 12"
+sleep 0.95
+echo "geo fix 56.1704833 27.3597833 886.0 12"
+sleep 0.95
+echo "geo fix 56.1704 27.3597833 886.0 12"
+sleep 0.95
+echo "geo fix 56.1703167 27.3597833 886.0 12"
+sleep 0.95
+echo "geo fix 56.1702333 27.3598 885.0 12"
+sleep 0.95
+echo "geo fix 56.1701333 27.3598 883.0 12"
+sleep 0.95
+echo "geo fix 56.1700333 27.3598 880.0 12"
+sleep 0.95
+echo "geo fix 56.1699167 27.3597833 878.0 12"
+sleep 0.95
+echo "geo fix 56.1698167 27.3597833 876.0 12"
+sleep 0.95
+echo "geo fix 56.1697167 27.3597667 874.0 12"
+sleep 0.95
+echo "geo fix 56.1696167 27.3597667 871.0 12"
+sleep 0.95
+echo "geo fix 56.1695167 27.3597667 869.0 12"
+sleep 0.95
+echo "geo fix 56.1694167 27.3597667 867.0 12"
+sleep 0.95
+echo "geo fix 56.1693167 27.3597667 866.0 12"
+sleep 0.95
+echo "geo fix 56.1692167 27.35975 865.0 12"
+sleep 0.95
+echo "geo fix 56.1691167 27.35975 864.0 12"
+sleep 0.95
+echo "geo fix 56.1690167 27.3597333 860.0 12"
+sleep 0.95
+echo "geo fix 56.1689 27.3597167 857.0 12"
+sleep 0.95
+echo "geo fix 56.16875 27.3597 854.0 12"
+sleep 0.95
+echo "geo fix 56.1686167 27.3596667 852.0 12"
+sleep 0.95
+echo "geo fix 56.1684833 27.3596333 851.0 12"
+sleep 0.95
+echo "geo fix 56.1683833 27.3596 851.0 12"
+sleep 0.95
+echo "geo fix 56.1683 27.3595667 850.0 12"
+sleep 0.95
+echo "geo fix 56.1682167 27.3595333 848.0 12"
+sleep 0.95
+echo "geo fix 56.1681167 27.3595 844.0 12"
+sleep 0.95
+echo "geo fix 56.1680167 27.3594667 840.0 12"
+sleep 0.95
+echo "geo fix 56.1678833 27.3594167 836.0 12"
+sleep 0.95
+echo "geo fix 56.16775 27.3593667 835.0 12"
+sleep 0.95
+echo "geo fix 56.1676167 27.3593167 837.0 12"
+sleep 0.95
+echo "geo fix 56.1675 27.3592667 838.0 12"
+sleep 0.95
+echo "geo fix 56.1674167 27.35925 837.0 12"
+sleep 0.95
+echo "geo fix 56.1673167 27.3592167 836.0 12"
+sleep 0.95
+echo "geo fix 56.1672167 27.3592 836.0 12"
+sleep 0.95
+echo "geo fix 56.1671167 27.3591667 836.0 12"
+sleep 0.95
+echo "geo fix 56.1670167 27.3591333 836.0 12"
+sleep 0.95
+echo "geo fix 56.1669167 27.3591167 835.0 12"
+sleep 0.95
+echo "geo fix 56.1668167 27.3590833 835.0 12"
+sleep 0.95
+echo "geo fix 56.1667167 27.3590667 834.0 12"
+sleep 0.95
+echo "geo fix 56.1666167 27.35905 835.0 12"
+sleep 0.95
+echo "geo fix 56.1665167 27.3590167 835.0 12"
+sleep 0.95
+echo "geo fix 56.1664167 27.359 836.0 12"
+sleep 0.95
+echo "geo fix 56.1663167 27.3589667 838.0 12"
+sleep 0.95
+echo "geo fix 56.1662333 27.35895 840.0 12"
+sleep 0.95
+echo "geo fix 56.16615 27.3589333 842.0 12"
+sleep 0.95
+echo "geo fix 56.16605 27.3589167 843.0 12"
+sleep 0.95
+echo "geo fix 56.16595 27.3589167 843.0 12"
+sleep 0.95
+echo "geo fix 56.1658333 27.3589333 844.0 12"
+sleep 0.95
+echo "geo fix 56.1657333 27.3589333 846.0 12"
+sleep 0.95
+echo "geo fix 56.1656333 27.3589333 849.0 12"
+sleep 0.95
+echo "geo fix 56.16555 27.3589333 852.0 12"
+sleep 0.95
+echo "geo fix 56.1654667 27.3589333 855.0 12"
+sleep 0.95
+echo "geo fix 56.1653667 27.35895 857.0 12"
+sleep 0.95
+echo "geo fix 56.1652667 27.35895 860.0 12"
+sleep 0.95
+echo "geo fix 56.1651667 27.35895 862.0 12"
+sleep 0.95
+echo "geo fix 56.1650667 27.35895 865.0 12"
+sleep 0.95
+echo "geo fix 56.165 27.3589167 867.0 12"
+sleep 0.95
+echo "geo fix 56.1649833 27.3588667 868.0 12"
+sleep 0.95
+echo "geo fix 56.1649833 27.3588 869.0 12"
+sleep 0.95
+echo "geo fix 56.1650167 27.3587333 871.0 12"
+sleep 0.95
+echo "geo fix 56.1651 27.3586833 872.0 12"
+sleep 0.95
+echo "geo fix 56.1652 27.3586667 875.0 12"
+sleep 0.95
+echo "geo fix 56.1653 27.3586833 878.0 12"
+sleep 0.95
+echo "geo fix 56.1654 27.3587333 880.0 12"
+sleep 0.95
+echo "geo fix 56.1654667 27.3588167 882.0 12"
+sleep 0.95
+echo "geo fix 56.1655167 27.3589167 886.0 12"
+sleep 0.95
+echo "geo fix 56.1655 27.3590167 889.0 12"
+sleep 0.95
+echo "geo fix 56.1654667 27.3591167 891.0 12"
+sleep 0.95
+echo "geo fix 56.1653833 27.3591833 893.0 12"
+sleep 0.95
+echo "geo fix 56.1653 27.3592667 896.0 12"
+sleep 0.95
+echo "geo fix 56.1651833 27.3593 898.0 12"
+sleep 0.95
+echo "geo fix 56.1650833 27.3593167 901.0 12"
+sleep 0.95
+echo "geo fix 56.165 27.3593167 904.0 12"
+sleep 0.95
+echo "geo fix 56.1649167 27.3593 907.0 12"
+sleep 0.95
+echo "geo fix 56.1648333 27.3592667 909.0 12"
+sleep 0.95
+echo "geo fix 56.1647833 27.3592167 910.0 12"
+sleep 0.95
+echo "geo fix 56.1647667 27.35915 912.0 12"
+sleep 0.95
+echo "geo fix 56.16475 27.3590667 914.0 12"
+sleep 0.95
+echo "geo fix 56.1647833 27.359 917.0 12"
+sleep 0.95
+echo "geo fix 56.16485 27.3589333 919.0 12"
+sleep 0.95
+echo "geo fix 56.16495 27.3589 921.0 12"
+sleep 0.95
+echo "geo fix 56.1650667 27.3589333 924.0 12"
+sleep 0.95
+echo "geo fix 56.1651833 27.359 927.0 12"
+sleep 0.95
+echo "geo fix 56.16525 27.3590833 930.0 12"
+sleep 0.95
+echo "geo fix 56.16525 27.3591833 932.0 12"
+sleep 0.95
+echo "geo fix 56.1652167 27.3593 933.0 12"
+sleep 0.95
+echo "geo fix 56.16515 27.3593833 936.0 12"
+sleep 0.95
+echo "geo fix 56.1650667 27.35945 938.0 12"
+sleep 0.95
+echo "geo fix 56.1649833 27.3594833 941.0 12"
+sleep 0.95
+echo "geo fix 56.1648833 27.3595167 942.0 12"
+sleep 0.95
+echo "geo fix 56.1647833 27.3595333 944.0 12"
+sleep 0.95
+echo "geo fix 56.1646667 27.3595667 946.0 12"
+sleep 0.95
+echo "geo fix 56.1645667 27.3595833 949.0 12"
+sleep 0.95
+echo "geo fix 56.1644833 27.3596 953.0 12"
+sleep 0.95
+echo "geo fix 56.1644167 27.3596 958.0 12"
+sleep 0.95
+echo "geo fix 56.1643667 27.3596 960.0 12"
+sleep 0.95
+echo "geo fix 56.1643 27.3596 961.0 12"
+sleep 0.95
+echo "geo fix 56.1642167 27.3596 963.0 12"
+sleep 0.95
+echo "geo fix 56.1641333 27.3596167 964.0 12"
+sleep 0.95
+echo "geo fix 56.16405 27.3596333 966.0 12"
+sleep 0.95
+echo "geo fix 56.1639667 27.3596333 969.0 12"
+sleep 0.95
+echo "geo fix 56.1639167 27.35965 972.0 12"
+sleep 0.95
+echo "geo fix 56.16385 27.35965 974.0 12"
+sleep 0.95
+echo "geo fix 56.1637833 27.35965 976.0 12"
+sleep 0.95
+echo "geo fix 56.1636833 27.35965 979.0 12"
+sleep 0.95
+echo "geo fix 56.1636 27.35965 982.0 12"
+sleep 0.95
+echo "geo fix 56.1635 27.3596667 986.0 12"
+sleep 0.95
+echo "geo fix 56.1634167 27.3596833 991.0 12"
+sleep 0.95
+echo "geo fix 56.16335 27.3596833 995.0 12"
+sleep 0.95
+echo "geo fix 56.1632667 27.3597 998.0 12"
+sleep 0.95
+echo "geo fix 56.1631833 27.3597 1001.0 12"
+sleep 0.95
+echo "geo fix 56.1630833 27.3597167 1004.0 12"
+sleep 0.95
+echo "geo fix 56.163 27.3597333 1007.0 12"
+sleep 0.95
+echo "geo fix 56.1629167 27.35975 1009.0 12"
+sleep 0.95
+echo "geo fix 56.16285 27.3597667 1010.0 12"
+sleep 0.95
+echo "geo fix 56.1627833 27.3598 1011.0 12"
+sleep 0.95
+echo "geo fix 56.1626833 27.3598333 1010.0 12"
+sleep 0.95
+echo "geo fix 56.1625833 27.3598667 1011.0 12"
+sleep 0.95
+echo "geo fix 56.1625 27.3599 1011.0 12"
+sleep 0.95
+echo "geo fix 56.1624 27.3599333 1011.0 12"
+sleep 0.95
+echo "geo fix 56.1623167 27.3599667 1011.0 12"
+sleep 0.95
+echo "geo fix 56.1622167 27.3599833 1011.0 12"
+sleep 0.95
+echo "geo fix 56.1621167 27.36 1010.0 12"
+sleep 0.95
+echo "geo fix 56.162 27.3600333 1008.0 12"
+sleep 0.95
+echo "geo fix 56.1618833 27.36005 1006.0 12"
+sleep 0.95
+echo "geo fix 56.16175 27.3600667 1005.0 12"
+sleep 0.95
+echo "geo fix 56.1616167 27.3600667 1004.0 12"
+sleep 0.95
+echo "geo fix 56.1615 27.3600667 1005.0 12"
+sleep 0.95
+echo "geo fix 56.1614 27.3600667 1007.0 12"
+sleep 0.95
+echo "geo fix 56.1613 27.3600833 1010.0 12"
+sleep 0.95
+echo "geo fix 56.1612333 27.3600833 1011.0 12"
+sleep 0.95
+echo "geo fix 56.16115 27.3601 1010.0 12"
+sleep 0.95
+echo "geo fix 56.16105 27.3601167 1008.0 12"
+sleep 0.95
+echo "geo fix 56.1609333 27.3601333 1006.0 12"
+sleep 0.95
+echo "geo fix 56.1608 27.36015 1005.0 12"
+sleep 0.95
+echo "geo fix 56.1606667 27.3601667 1004.0 12"
+sleep 0.95
+echo "geo fix 56.16055 27.3601833 1004.0 12"
+sleep 0.95
+echo "geo fix 56.1604333 27.3601833 1004.0 12"
+sleep 0.95
+echo "geo fix 56.1603167 27.3601833 1002.0 12"
+sleep 0.95
+echo "geo fix 56.1602167 27.3601833 1000.0 12"
+sleep 0.95
+echo "geo fix 56.1601 27.3601667 997.0 12"
+sleep 0.95
+echo "geo fix 56.1599667 27.36015 996.0 12"
+sleep 0.95
+echo "geo fix 56.1598333 27.3601333 996.0 12"
+sleep 0.95
+echo "geo fix 56.1597 27.3601167 996.0 12"
+sleep 0.95
+echo "geo fix 56.1595667 27.3600833 995.0 12"
+sleep 0.95
+echo "geo fix 56.1594333 27.3600667 994.0 12"
+sleep 0.95
+echo "geo fix 56.1593167 27.36005 993.0 12"
+sleep 0.95
+echo "geo fix 56.1592 27.3600333 993.0 12"
+sleep 0.95
+echo "geo fix 56.1591167 27.3600333 992.0 12"
+sleep 0.95
+echo "geo fix 56.1590167 27.3600167 990.0 12"
+sleep 0.95
+echo "geo fix 56.1589333 27.36 987.0 12"
+sleep 0.95
+echo "geo fix 56.1588167 27.3599833 984.0 12"
+sleep 0.95
+echo "geo fix 56.1587 27.3599667 982.0 12"
+sleep 0.95
+echo "geo fix 56.1585833 27.35995 979.0 12"
+sleep 0.95
+echo "geo fix 56.15845 27.35995 975.0 12"
+sleep 0.95
+echo "geo fix 56.1583167 27.35995 971.0 12"
+sleep 0.95
+echo "geo fix 56.1581667 27.3599333 968.0 12"
+sleep 0.95
+echo "geo fix 56.1580333 27.3599 967.0 12"
+sleep 0.95
+echo "geo fix 56.1579 27.3598833 965.0 12"
+sleep 0.95
+echo "geo fix 56.1577667 27.3598333 963.0 12"
+sleep 0.95
+echo "geo fix 56.1576167 27.3598 961.0 12"
+sleep 0.95
+echo "geo fix 56.1574833 27.3597833 959.0 12"
+sleep 0.95
+echo "geo fix 56.1573667 27.35975 959.0 12"
+sleep 0.95
+echo "geo fix 56.15725 27.3597333 957.0 12"
+sleep 0.95
+echo "geo fix 56.15715 27.3597167 956.0 12"
+sleep 0.95
+echo "geo fix 56.1570333 27.3597167 953.0 12"
+sleep 0.95
+echo "geo fix 56.1569 27.3597167 948.0 12"
+sleep 0.95
+echo "geo fix 56.15675 27.3597333 943.0 12"
+sleep 0.95
+echo "geo fix 56.1565833 27.3597167 938.0 12"
+sleep 0.95
+echo "geo fix 56.1564 27.3597167 937.0 12"
+sleep 0.95
+echo "geo fix 56.15625 27.3597 937.0 12"
+sleep 0.95
+echo "geo fix 56.1561333 27.3596833 940.0 12"
+sleep 0.95
+echo "geo fix 56.1560333 27.3596667 942.0 12"
+sleep 0.95
+echo "geo fix 56.1559333 27.35965 944.0 12"
+sleep 0.95
+echo "geo fix 56.15585 27.3596333 943.0 12"
+sleep 0.95
+echo "geo fix 56.15575 27.3596167 942.0 12"
+sleep 0.95
+echo "geo fix 56.1556333 27.3596167 942.0 12"
+sleep 0.95
+echo "geo fix 56.1555333 27.3596333 942.0 12"
+sleep 0.95
+echo "geo fix 56.1554333 27.35965 942.0 12"
+sleep 0.95
+echo "geo fix 56.1553333 27.3596667 942.0 12"
+sleep 0.95
+echo "geo fix 56.1552667 27.3596833 942.0 12"
+sleep 0.95
+echo "geo fix 56.1551667 27.3597167 942.0 12"
+sleep 0.95
+echo "geo fix 56.1550833 27.3597333 941.0 12"
+sleep 0.95
+echo "geo fix 56.1549667 27.35975 941.0 12"
+sleep 0.95
+echo "geo fix 56.15485 27.35975 941.0 12"
+sleep 0.95
+echo "geo fix 56.15475 27.3597667 941.0 12"
+sleep 0.95
+echo "geo fix 56.15465 27.3597833 941.0 12"
+sleep 0.95
+echo "geo fix 56.15455 27.3598167 941.0 12"
+sleep 0.95
+echo "geo fix 56.15445 27.3598333 941.0 12"
+sleep 0.95
+echo "geo fix 56.15435 27.3598667 940.0 12"
+sleep 0.95
+echo "geo fix 56.15425 27.3598833 940.0 12"
+sleep 0.95
+echo "geo fix 56.1541333 27.3599167 940.0 12"
+sleep 0.95
+echo "geo fix 56.1540333 27.35995 940.0 12"
+sleep 0.95
+echo "geo fix 56.1539333 27.3599833 940.0 12"
+sleep 0.95
+echo "geo fix 56.1538333 27.3600167 940.0 12"
+sleep 0.95
+echo "geo fix 56.1537167 27.36005 940.0 12"
+sleep 0.95
+echo "geo fix 56.1536167 27.3600667 940.0 12"
+sleep 0.95
+echo "geo fix 56.1535167 27.3601167 940.0 12"
+sleep 0.95
+echo "geo fix 56.1534 27.3601333 941.0 12"
+sleep 0.95
+echo "geo fix 56.1533 27.3601667 941.0 12"
+sleep 0.95
+echo "geo fix 56.1532 27.3602 942.0 12"
+sleep 0.95
+echo "geo fix 56.1531 27.3602167 942.0 12"
+sleep 0.95
+echo "geo fix 56.153 27.36025 942.0 12"
+sleep 0.95
+echo "geo fix 56.1529 27.3602667 942.0 12"
+sleep 0.95
+echo "geo fix 56.1527833 27.3603 942.0 12"
+sleep 0.95
+echo "geo fix 56.1526833 27.3603333 942.0 12"
+sleep 0.95
+echo "geo fix 56.1525833 27.3603667 942.0 12"
+sleep 0.95
+echo "geo fix 56.1525 27.3604 942.0 12"
+sleep 0.95
+echo "geo fix 56.1524 27.3604167 942.0 12"
+sleep 0.95
+echo "geo fix 56.1523167 27.3604333 940.0 12"
+sleep 0.95
+echo "geo fix 56.1522333 27.3604667 938.0 12"
+sleep 0.95
+echo "geo fix 56.1521167 27.3605 936.0 12"
+sleep 0.95
+echo "geo fix 56.152 27.3605333 934.0 12"
+sleep 0.95
+echo "geo fix 56.1518833 27.3605833 934.0 12"
+sleep 0.95
+echo "geo fix 56.1517833 27.3606333 934.0 12"
+sleep 0.95
+echo "geo fix 56.1517 27.3607 934.0 12"
+sleep 0.95
+echo "geo fix 56.1516 27.3607667 934.0 12"
+sleep 0.95
+echo "geo fix 56.1515167 27.36085 934.0 12"
+sleep 0.95
+echo "geo fix 56.15145 27.3609333 934.0 12"
+sleep 0.95
+echo "geo fix 56.1513833 27.3610167 934.0 12"
+sleep 0.95
+echo "geo fix 56.1513167 27.3611167 935.0 12"
+sleep 0.95
+echo "geo fix 56.15125 27.3612167 935.0 12"
+sleep 0.95
+echo "geo fix 56.1511833 27.3613 935.0 12"
+sleep 0.95
+echo "geo fix 56.1511167 27.3613833 936.0 12"
+sleep 0.95
+echo "geo fix 56.1510333 27.3614333 937.0 12"
+sleep 0.95
+echo "geo fix 56.1509667 27.3615 938.0 12"
+sleep 0.95
+echo "geo fix 56.1509 27.3615667 938.0 12"
+sleep 0.95
+echo "geo fix 56.1508333 27.3616167 938.0 12"
+sleep 0.95
+echo "geo fix 56.1507667 27.3616833 938.0 12"
+sleep 0.95
+echo "geo fix 56.1506833 27.36175 938.0 12"
+sleep 0.95
+echo "geo fix 56.1506167 27.3618167 940.0 12"
+sleep 0.95
+echo "geo fix 56.1505333 27.3618667 941.0 12"
+sleep 0.95
+echo "geo fix 56.1504833 27.3619333 942.0 12"
+sleep 0.95
+echo "geo fix 56.15045 27.3620167 943.0 12"
+sleep 0.95
+echo "geo fix 56.1504667 27.3621333 942.0 12"
+sleep 0.95
+echo "geo fix 56.1505 27.36225 942.0 12"
+sleep 0.95
+echo "geo fix 56.1505667 27.36235 943.0 12"
+sleep 0.95
+echo "geo fix 56.1506333 27.3624333 945.0 12"
+sleep 0.95
+echo "geo fix 56.1507167 27.3624667 947.0 12"
+sleep 0.95
+echo "geo fix 56.1507833 27.3624833 947.0 12"
+sleep 0.95
+echo "geo fix 56.1508667 27.3625 948.0 12"
+sleep 0.95
+echo "geo fix 56.1509333 27.3625 947.0 12"
+sleep 0.95
+echo "geo fix 56.1510167 27.3625167 947.0 12"
+sleep 0.95
+echo "geo fix 56.1511167 27.3625333 947.0 12"
+sleep 0.95
+echo "geo fix 56.1512167 27.3625333 946.0 12"
+sleep 0.95
+echo "geo fix 56.1513167 27.3625167 945.0 12"
+sleep 0.95
+echo "geo fix 56.1514167 27.3624833 945.0 12"
+sleep 0.95
+echo "geo fix 56.1515 27.3624667 945.0 12"
+sleep 0.95
+echo "geo fix 56.1515833 27.3624333 945.0 12"
+sleep 0.95
+echo "geo fix 56.15165 27.3624333 944.0 12"
+sleep 0.95
+echo "geo fix 56.1517333 27.3624167 941.0 12"
+sleep 0.95
+echo "geo fix 56.1518333 27.3623833 937.0 12"
+sleep 0.95
+echo "geo fix 56.15195 27.36235 933.0 12"
+sleep 0.95
+echo "geo fix 56.1521 27.3623333 929.0 12"
+sleep 0.95
+echo "geo fix 56.1522333 27.3623167 929.0 12"
+sleep 0.95
+echo "geo fix 56.15235 27.3623 929.0 12"
+sleep 0.95
+echo "geo fix 56.15245 27.3622833 928.0 12"
+sleep 0.95
+echo "geo fix 56.1525667 27.36225 926.0 12"
+sleep 0.95
+echo "geo fix 56.1526833 27.3622333 924.0 12"
+sleep 0.95
+echo "geo fix 56.1528167 27.3622167 922.0 12"
+sleep 0.95
+echo "geo fix 56.1529333 27.3621833 921.0 12"
+sleep 0.95
+echo "geo fix 56.1530333 27.36215 922.0 12"
+sleep 0.95
+echo "geo fix 56.1531333 27.3621167 923.0 12"
+sleep 0.95
+echo "geo fix 56.1532167 27.3621 921.0 12"
+sleep 0.95
+echo "geo fix 56.1533167 27.3620667 919.0 12"
+sleep 0.95
+echo "geo fix 56.1534333 27.3620333 917.0 12"
+sleep 0.95
+echo "geo fix 56.1535667 27.362 915.0 12"
+sleep 0.95
+echo "geo fix 56.1537 27.3619833 913.0 12"
+sleep 0.95
+echo "geo fix 56.1538167 27.36195 913.0 12"
+sleep 0.95
+echo "geo fix 56.1539333 27.3619333 912.0 12"
+sleep 0.95
+echo "geo fix 56.1540333 27.3619 911.0 12"
+sleep 0.95
+echo "geo fix 56.15415 27.3618833 908.0 12"
+sleep 0.95
+echo "geo fix 56.1542667 27.3618833 907.0 12"
+sleep 0.95
+echo "geo fix 56.1543833 27.3618833 905.0 12"
+sleep 0.95
+echo "geo fix 56.1545 27.3618667 905.0 12"
+sleep 0.95
+echo "geo fix 56.1546167 27.3618333 905.0 12"
+sleep 0.95
+echo "geo fix 56.1547333 27.3618167 904.0 12"
+sleep 0.95
+echo "geo fix 56.15485 27.3618167 903.0 12"
+sleep 0.95
+echo "geo fix 56.1549667 27.3618 901.0 12"
+sleep 0.95
+echo "geo fix 56.1551 27.3617833 899.0 12"
+sleep 0.95
+echo "geo fix 56.1552167 27.3617667 898.0 12"
+sleep 0.95
+echo "geo fix 56.1553333 27.36175 897.0 12"
+sleep 0.95
+echo "geo fix 56.1554333 27.3617333 896.0 12"
+sleep 0.95
+echo "geo fix 56.1555333 27.3617 893.0 12"
+sleep 0.95
+echo "geo fix 56.15565 27.3616833 890.0 12"
+sleep 0.95
+echo "geo fix 56.15575 27.36165 886.0 12"
+sleep 0.95
+echo "geo fix 56.1558833 27.3616333 882.0 12"
+sleep 0.95
+echo "geo fix 56.156 27.3616 878.0 12"
+sleep 0.95
+echo "geo fix 56.1561333 27.3615667 874.0 12"
+sleep 0.95
+echo "geo fix 56.15625 27.3615333 872.0 12"
+sleep 0.95
+echo "geo fix 56.1563667 27.3614833 871.0 12"
+sleep 0.95
+echo "geo fix 56.1564833 27.3614333 869.0 12"
+sleep 0.95
+echo "geo fix 56.1565833 27.3613833 868.0 12"
+sleep 0.95
+echo "geo fix 56.1567 27.3613333 867.0 12"
+sleep 0.95
+echo "geo fix 56.1568167 27.3613 866.0 12"
+sleep 0.95
+echo "geo fix 56.1569167 27.36125 865.0 12"
+sleep 0.95
+echo "geo fix 56.1570167 27.3611833 863.0 12"
+sleep 0.95
+echo "geo fix 56.1571333 27.3611333 860.0 12"
+sleep 0.95
+echo "geo fix 56.15725 27.3610667 859.0 12"
+sleep 0.95
+echo "geo fix 56.1573833 27.3610167 857.0 12"
+sleep 0.95
+echo "geo fix 56.1575167 27.3609667 855.0 12"
+sleep 0.95
+echo "geo fix 56.1576333 27.36095 854.0 12"
+sleep 0.95
+echo "geo fix 56.15775 27.3609167 854.0 12"
+sleep 0.95
+echo "geo fix 56.15785 27.3608833 853.0 12"
+sleep 0.95
+echo "geo fix 56.15795 27.36085 851.0 12"
+sleep 0.95
+echo "geo fix 56.15805 27.3608167 848.0 12"
+sleep 0.95
+echo "geo fix 56.1581833 27.3607667 846.0 12"
+sleep 0.95
+echo "geo fix 56.1583 27.3607333 846.0 12"
+sleep 0.95
+echo "geo fix 56.1584167 27.3607 846.0 12"
+sleep 0.95
+echo "geo fix 56.1585333 27.3606667 846.0 12"
+sleep 0.95
+echo "geo fix 56.15865 27.36065 846.0 12"
+sleep 0.95
+echo "geo fix 56.15875 27.3606167 846.0 12"
+sleep 0.95
+echo "geo fix 56.15885 27.3606167 846.0 12"
+sleep 0.95
+echo "geo fix 56.15895 27.3606 846.0 12"
+sleep 0.95
+echo "geo fix 56.1590333 27.3605667 846.0 12"
+sleep 0.95
+echo "geo fix 56.1591167 27.36055 845.0 12"
+sleep 0.95
+echo "geo fix 56.1592 27.3605167 844.0 12"
+sleep 0.95
+echo "geo fix 56.1593 27.3605 842.0 12"
+sleep 0.95
+echo "geo fix 56.1594 27.3604667 840.0 12"
+sleep 0.95
+echo "geo fix 56.1595167 27.36045 838.0 12"
+sleep 0.95
+echo "geo fix 56.1596167 27.3604333 837.0 12"
+sleep 0.95
+echo "geo fix 56.15975 27.3604167 835.0 12"
+sleep 0.95
+echo "geo fix 56.1598667 27.3604 832.0 12"
+sleep 0.95
+echo "geo fix 56.16 27.3603833 831.0 12"
+sleep 0.95
+echo "geo fix 56.1601333 27.3603667 829.0 12"
+sleep 0.95
+echo "geo fix 56.16025 27.36035 828.0 12"
+sleep 0.95
+echo "geo fix 56.16035 27.3603333 828.0 12"
+sleep 0.95
+echo "geo fix 56.1604667 27.3603167 826.0 12"
+sleep 0.95
+echo "geo fix 56.1605833 27.3603167 825.0 12"
+sleep 0.95
+echo "geo fix 56.1607167 27.3603167 823.0 12"
+sleep 0.95
+echo "geo fix 56.1608333 27.3603167 823.0 12"
+sleep 0.95
+echo "geo fix 56.16095 27.3603167 823.0 12"
+sleep 0.95
+echo "geo fix 56.1610667 27.3603333 823.0 12"
+sleep 0.95
+echo "geo fix 56.1611833 27.36035 823.0 12"
+sleep 0.95
+echo "geo fix 56.1613 27.36035 823.0 12"
+sleep 0.95
+echo "geo fix 56.1614167 27.3603667 823.0 12"
+sleep 0.95
+echo "geo fix 56.1615333 27.3603833 824.0 12"
+sleep 0.95
+echo "geo fix 56.16165 27.3604 826.0 12"
+sleep 0.95
+echo "geo fix 56.16175 27.3604167 827.0 12"
+sleep 0.95
+echo "geo fix 56.16185 27.36045 828.0 12"
+sleep 0.95
+echo "geo fix 56.16195 27.3604833 828.0 12"
+sleep 0.95
+echo "geo fix 56.1620667 27.3605333 829.0 12"
+sleep 0.95
+echo "geo fix 56.1621667 27.3605667 829.0 12"
+sleep 0.95
+echo "geo fix 56.1622667 27.3606 829.0 12"
+sleep 0.95
+echo "geo fix 56.1623667 27.3606333 830.0 12"
+sleep 0.95
+echo "geo fix 56.1624667 27.3606667 831.0 12"
+sleep 0.95
+echo "geo fix 56.16255 27.3607 831.0 12"
+sleep 0.95
+echo "geo fix 56.16265 27.36075 832.0 12"
+sleep 0.95
+echo "geo fix 56.1627333 27.3608167 832.0 12"
+sleep 0.95
+echo "geo fix 56.1628333 27.3608667 832.0 12"
+sleep 0.95
+echo "geo fix 56.1629167 27.3609167 833.0 12"
+sleep 0.95
+echo "geo fix 56.1630167 27.3609333 833.0 12"
+sleep 0.95
+echo "geo fix 56.1631 27.3609333 832.0 12"
+sleep 0.95
+echo "geo fix 56.1632 27.3609333 832.0 12"
+sleep 0.95
+echo "geo fix 56.1633 27.3609167 833.0 12"
+sleep 0.95
+echo "geo fix 56.1633667 27.3609 833.0 12"
+sleep 0.95
+echo "geo fix 56.1634333 27.3608833 834.0 12"
+sleep 0.95
+echo "geo fix 56.1635 27.3608667 834.0 12"
+sleep 0.95
+echo "geo fix 56.1635667 27.3608333 833.0 12"
+sleep 0.95
+echo "geo fix 56.1636333 27.3607833 832.0 12"
+sleep 0.95
+echo "geo fix 56.1637167 27.3607667 832.0 12"
+sleep 0.95
+echo "geo fix 56.1638 27.36075 832.0 12"
+sleep 0.95
+echo "geo fix 56.1639 27.3607667 832.0 12"
+sleep 0.95
+echo "geo fix 56.1639833 27.3608 831.0 12"
+sleep 0.95
+echo "geo fix 56.1640833 27.36085 831.0 12"
+sleep 0.95
+echo "geo fix 56.1641667 27.3609167 830.0 12"
+sleep 0.95
+echo "geo fix 56.1642667 27.3609667 830.0 12"
+sleep 0.95
+echo "geo fix 56.16435 27.3610167 829.0 12"
+sleep 0.95
+echo "geo fix 56.1644333 27.3610667 829.0 12"
+sleep 0.95
+echo "geo fix 56.1645333 27.3611 828.0 12"
+sleep 0.95
+echo "geo fix 56.1646167 27.3611333 827.0 12"
+sleep 0.95
+echo "geo fix 56.1647167 27.36115 826.0 12"
+sleep 0.95
+echo "geo fix 56.1648167 27.36115 826.0 12"
+sleep 0.95
+echo "geo fix 56.1649167 27.3611333 825.0 12"
+sleep 0.95
+echo "geo fix 56.1650333 27.3611167 826.0 12"
+sleep 0.95
+echo "geo fix 56.1651333 27.3611 827.0 12"
+sleep 0.95
+echo "geo fix 56.1652333 27.3610833 830.0 12"
+sleep 0.95
+echo "geo fix 56.1653167 27.3610667 832.0 12"
+sleep 0.95
+echo "geo fix 56.1653833 27.36105 834.0 12"
+sleep 0.95
+echo "geo fix 56.1654667 27.3610333 836.0 12"
+sleep 0.95
+echo "geo fix 56.1655333 27.3610167 837.0 12"
+sleep 0.95
+echo "geo fix 56.1656167 27.361 839.0 12"
+sleep 0.95
+echo "geo fix 56.1657 27.3609833 842.0 12"
+sleep 0.95
+echo "geo fix 56.1657833 27.36095 845.0 12"
+sleep 0.95
+echo "geo fix 56.16585 27.3609167 847.0 12"
+sleep 0.95
+echo "geo fix 56.1658667 27.3609 849.0 12"
+sleep 0.95
+echo "geo fix 56.1658833 27.3608667 849.0 12"
+sleep 0.95
+echo "geo fix 56.1658833 27.3608 849.0 12"
+sleep 0.95
+echo "geo fix 56.1658333 27.3607333 849.0 12"
+sleep 0.95
+echo "geo fix 56.16575 27.3607 850.0 12"
+sleep 0.95
+echo "geo fix 56.1656333 27.3607 851.0 12"
+sleep 0.95
+echo "geo fix 56.1655167 27.3607333 852.0 12"
+sleep 0.95
+echo "geo fix 56.1654167 27.3608333 853.0 12"
+sleep 0.95
+echo "geo fix 56.16535 27.36095 855.0 12"
+sleep 0.95
+echo "geo fix 56.1653333 27.3610667 858.0 12"
+sleep 0.95
+echo "geo fix 56.16535 27.3611833 862.0 12"
+sleep 0.95
+echo "geo fix 56.1654 27.3612833 865.0 12"
+sleep 0.95
+echo "geo fix 56.1654667 27.3613833 868.0 12"
+sleep 0.95
+echo "geo fix 56.1655667 27.36145 869.0 12"
+sleep 0.95
+echo "geo fix 56.16565 27.3615 870.0 12"
+sleep 0.95
+echo "geo fix 56.1657333 27.36155 872.0 12"
+sleep 0.95
+echo "geo fix 56.1658167 27.3616 873.0 12"
+sleep 0.95
+echo "geo fix 56.1658833 27.3616333 874.0 12"
+sleep 0.95
+echo "geo fix 56.1659667 27.3616667 875.0 12"
+sleep 0.95
+echo "geo fix 56.16605 27.3616667 876.0 12"
+sleep 0.95
+echo "geo fix 56.1661333 27.3616667 877.0 12"
+sleep 0.95
+echo "geo fix 56.1662 27.3616333 879.0 12"
+sleep 0.95
+echo "geo fix 56.16625 27.3616 881.0 12"
+sleep 0.95
+echo "geo fix 56.1662833 27.36155 883.0 12"
+sleep 0.95
+echo "geo fix 56.1662667 27.3615 884.0 12"
+sleep 0.95
+echo "geo fix 56.1662333 27.3614667 884.0 12"
+sleep 0.95
+echo "geo fix 56.1661833 27.3614167 884.0 12"
+sleep 0.95
+echo "geo fix 56.1660833 27.3614 885.0 12"
+sleep 0.95
+echo "geo fix 56.1659833 27.3614167 885.0 12"
+sleep 0.95
+echo "geo fix 56.1658833 27.3614833 886.0 12"
+sleep 0.95
+echo "geo fix 56.1657833 27.3615667 887.0 12"
+sleep 0.95
+echo "geo fix 56.1657333 27.3616667 888.0 12"
+sleep 0.95
+echo "geo fix 56.1657 27.3617833 889.0 12"
+sleep 0.95
+echo "geo fix 56.1656667 27.3619 891.0 12"
+sleep 0.95
+echo "geo fix 56.1656833 27.362 893.0 12"
+sleep 0.95
+echo "geo fix 56.1657167 27.3621167 893.0 12"
+sleep 0.95
+echo "geo fix 56.1657667 27.3622167 894.0 12"
+sleep 0.95
+echo "geo fix 56.16585 27.3623 895.0 12"
+sleep 0.95
+echo "geo fix 56.1659333 27.3623667 897.0 12"
+sleep 0.95
+echo "geo fix 56.1660167 27.3624167 899.0 12"
+sleep 0.95
+echo "geo fix 56.1660833 27.3624333 901.0 12"
+sleep 0.95
+echo "geo fix 56.16615 27.3624333 902.0 12"
+sleep 0.95
+echo "geo fix 56.1662167 27.3624333 902.0 12"
+sleep 0.95
+echo "geo fix 56.1662833 27.3624167 903.0 12"
+sleep 0.95
+echo "geo fix 56.1663333 27.3623833 904.0 12"
+sleep 0.95
+echo "geo fix 56.1663667 27.36235 904.0 12"
+sleep 0.95
+echo "geo fix 56.1663833 27.3623167 904.0 12"
+sleep 0.95
+echo "geo fix 56.1663833 27.3622667 905.0 12"
+sleep 0.95
+echo "geo fix 56.16635 27.3622333 905.0 12"
+sleep 0.95
+echo "geo fix 56.1663 27.3621833 906.0 12"
+sleep 0.95
+echo "geo fix 56.1662167 27.3621667 906.0 12"
+sleep 0.95
+echo "geo fix 56.1661333 27.36215 907.0 12"
+sleep 0.95
+echo "geo fix 56.1660167 27.3621833 908.0 12"
+sleep 0.95
+echo "geo fix 56.1659 27.3622333 909.0 12"
+sleep 0.95
+echo "geo fix 56.1658 27.3623333 912.0 12"
+sleep 0.95
+echo "geo fix 56.16575 27.36245 913.0 12"
+sleep 0.95
+echo "geo fix 56.16575 27.3625833 915.0 12"
+sleep 0.95
+echo "geo fix 56.1657833 27.3627 916.0 12"
+sleep 0.95
+echo "geo fix 56.1658333 27.3628 916.0 12"
+sleep 0.95
+echo "geo fix 56.1659167 27.3629 917.0 12"
+sleep 0.95
+echo "geo fix 56.166 27.3629667 919.0 12"
+sleep 0.95
+echo "geo fix 56.1660833 27.3629833 920.0 12"
+sleep 0.95
+echo "geo fix 56.1661667 27.3629833 921.0 12"
+sleep 0.95
+echo "geo fix 56.1662167 27.3629667 922.0 12"
+sleep 0.95
+echo "geo fix 56.16625 27.3629333 922.0 12"
+sleep 0.95
+echo "geo fix 56.16625 27.3629 922.0 12"
+sleep 0.95
+echo "geo fix 56.1662333 27.36285 922.0 12"
+sleep 0.95
+echo "geo fix 56.1662 27.3628 923.0 12"
+sleep 0.95
+echo "geo fix 56.16615 27.3627667 924.0 12"
+sleep 0.95
+echo "geo fix 56.1660833 27.3627333 925.0 12"
+sleep 0.95
+echo "geo fix 56.1660167 27.3627167 926.0 12"
+sleep 0.95
+echo "geo fix 56.1659333 27.3627167 926.0 12"
+sleep 0.95
+echo "geo fix 56.1658167 27.36275 927.0 12"
+sleep 0.95
+echo "geo fix 56.1657167 27.3628333 930.0 12"
+sleep 0.95
+echo "geo fix 56.1656333 27.3629333 933.0 12"
+sleep 0.95
+echo "geo fix 56.1656167 27.36305 935.0 12"
+sleep 0.95
+echo "geo fix 56.1656167 27.3631667 937.0 12"
+sleep 0.95
+echo "geo fix 56.16565 27.3633 939.0 12"
+sleep 0.95
+echo "geo fix 56.1657167 27.3634 941.0 12"
+sleep 0.95
+echo "geo fix 56.1658 27.3635 943.0 12"
+sleep 0.95
+echo "geo fix 56.1658833 27.3635667 944.0 12"
+sleep 0.95
+echo "geo fix 56.1659667 27.3636 946.0 12"
+sleep 0.95
+echo "geo fix 56.16605 27.3636333 947.0 12"
+sleep 0.95
+echo "geo fix 56.1661333 27.36365 947.0 12"
+sleep 0.95
+echo "geo fix 56.1662 27.36365 947.0 12"
+sleep 0.95
+echo "geo fix 56.1662833 27.3636333 947.0 12"
+sleep 0.95
+echo "geo fix 56.16635 27.3636167 947.0 12"
+sleep 0.95
+echo "geo fix 56.1664333 27.3635833 948.0 12"
+sleep 0.95
+echo "geo fix 56.1665167 27.36355 948.0 12"
+sleep 0.95
+echo "geo fix 56.1666 27.3635167 948.0 12"
+sleep 0.95
+echo "geo fix 56.1667 27.3634833 947.0 12"
+sleep 0.95
+echo "geo fix 56.1668 27.3634333 946.0 12"
+sleep 0.95
+echo "geo fix 56.1668833 27.3634 947.0 12"
+sleep 0.95
+echo "geo fix 56.1669667 27.3633667 947.0 12"
+sleep 0.95
+echo "geo fix 56.1670333 27.36335 947.0 12"
+sleep 0.95
+echo "geo fix 56.1671167 27.3633167 945.0 12"
+sleep 0.95
+echo "geo fix 56.1672167 27.3633 942.0 12"
+sleep 0.95
+echo "geo fix 56.1673167 27.36325 939.0 12"
+sleep 0.95
+echo "geo fix 56.1674167 27.3632167 938.0 12"
+sleep 0.95
+echo "geo fix 56.1675 27.3631667 939.0 12"
+sleep 0.95
+echo "geo fix 56.1676 27.3631333 938.0 12"
+sleep 0.95
+echo "geo fix 56.1676667 27.3631167 937.0 12"
+sleep 0.95
+echo "geo fix 56.1677667 27.3631 935.0 12"
+sleep 0.95
+echo "geo fix 56.1678667 27.3630833 933.0 12"
+sleep 0.95
+echo "geo fix 56.1679667 27.3630667 930.0 12"
+sleep 0.95
+echo "geo fix 56.1680833 27.3630667 928.0 12"
+sleep 0.95
+echo "geo fix 56.1682167 27.36305 925.0 12"
+sleep 0.95
+echo "geo fix 56.1683333 27.3630333 923.0 12"
+sleep 0.95
+echo "geo fix 56.16845 27.3630167 923.0 12"
+sleep 0.95
+echo "geo fix 56.1685667 27.363 922.0 12"
+sleep 0.95
+echo "geo fix 56.1686667 27.3629833 922.0 12"
+sleep 0.95
+echo "geo fix 56.1687667 27.3629667 920.0 12"
+sleep 0.95
+echo "geo fix 56.1688833 27.3629667 918.0 12"
+sleep 0.95
+echo "geo fix 56.169 27.3629333 914.0 12"
+sleep 0.95
+echo "geo fix 56.1691333 27.3629 912.0 12"
+sleep 0.95
+echo "geo fix 56.16925 27.3628333 912.0 12"
+sleep 0.95
+echo "geo fix 56.16935 27.3627833 913.0 12"
+sleep 0.95
+echo "geo fix 56.16945 27.3627333 914.0 12"
+sleep 0.95
+echo "geo fix 56.1695333 27.3627 914.0 12"
+sleep 0.95
+echo "geo fix 56.1696167 27.36265 913.0 12"
+sleep 0.95
+echo "geo fix 56.1697 27.3626 910.0 12"
+sleep 0.95
+echo "geo fix 56.1698 27.3625167 908.0 12"
+sleep 0.95
+echo "geo fix 56.1698833 27.3624333 906.0 12"
+sleep 0.95
+echo "geo fix 56.17 27.3623667 906.0 12"
+sleep 0.95
+echo "geo fix 56.1701 27.3623 907.0 12"
+sleep 0.95
+echo "geo fix 56.1701833 27.36225 907.0 12"
+sleep 0.95
+echo "geo fix 56.1702667 27.3622 907.0 12"
+sleep 0.95
+echo "geo fix 56.1703667 27.36215 905.0 12"
+sleep 0.95
+echo "geo fix 56.17045 27.3621 902.0 12"
+sleep 0.95
+echo "geo fix 56.17055 27.36205 899.0 12"
+sleep 0.95
+echo "geo fix 56.1706667 27.3619833 896.0 12"
+sleep 0.95
+echo "geo fix 56.1707667 27.3619 894.0 12"
+sleep 0.95
+echo "geo fix 56.1708667 27.3618333 894.0 12"
+sleep 0.95
+echo "geo fix 56.1709667 27.3617833 893.0 12"
+sleep 0.95
+echo "geo fix 56.1710667 27.3617333 893.0 12"
+sleep 0.95
+echo "geo fix 56.17115 27.3616833 892.0 12"
+sleep 0.95
+echo "geo fix 56.17125 27.3616167 890.0 12"
+sleep 0.95
+echo "geo fix 56.17135 27.36155 887.0 12"
+sleep 0.95
+echo "geo fix 56.17145 27.3614833 884.0 12"
+sleep 0.95
+echo "geo fix 56.17155 27.3614167 883.0 12"
+sleep 0.95
+echo "geo fix 56.1716667 27.36135 882.0 12"
+sleep 0.95
+echo "geo fix 56.1717667 27.3613 881.0 12"
+sleep 0.95
+echo "geo fix 56.1718667 27.36125 881.0 12"
+sleep 0.95
+echo "geo fix 56.17195 27.3611833 880.0 12"
+sleep 0.95
+echo "geo fix 56.17205 27.3611333 878.0 12"
+sleep 0.95
+echo "geo fix 56.1721333 27.3610833 876.0 12"
+sleep 0.95
+echo "geo fix 56.1722333 27.3610333 872.0 12"
+sleep 0.95
+echo "geo fix 56.17235 27.3609667 870.0 12"
+sleep 0.95
+echo "geo fix 56.1724667 27.3609167 870.0 12"
+sleep 0.95
+echo "geo fix 56.1725667 27.3608833 869.0 12"
+sleep 0.95
+echo "geo fix 56.17265 27.3608333 870.0 12"
+sleep 0.95
+echo "geo fix 56.1727333 27.3608 870.0 12"
+sleep 0.95
+echo "geo fix 56.1728167 27.3607333 868.0 12"
+sleep 0.95
+echo "geo fix 56.1728833 27.3606833 865.0 12"
+sleep 0.95
+echo "geo fix 56.1729667 27.3606167 862.0 12"
+sleep 0.95
+echo "geo fix 56.1730667 27.3605667 860.0 12"
+sleep 0.95
+echo "geo fix 56.1731667 27.3605 858.0 12"
+sleep 0.95
+echo "geo fix 56.17325 27.3604167 856.0 12"
+sleep 0.95
+echo "geo fix 56.17335 27.36035 855.0 12"
+sleep 0.95
+echo "geo fix 56.1734333 27.3602833 854.0 12"
+sleep 0.95
+echo "geo fix 56.1735333 27.3602167 853.0 12"
+sleep 0.95
+echo "geo fix 56.1736333 27.36015 851.0 12"
+sleep 0.95
+echo "geo fix 56.17375 27.3601 850.0 12"
+sleep 0.95
+echo "geo fix 56.17385 27.36005 849.0 12"
+sleep 0.95
+echo "geo fix 56.1739667 27.36 849.0 12"
+sleep 0.95
+echo "geo fix 56.1740667 27.35995 848.0 12"
+sleep 0.95
+echo "geo fix 56.1741667 27.3599 847.0 12"
+sleep 0.95
+echo "geo fix 56.1742667 27.35985 845.0 12"
+sleep 0.95
+echo "geo fix 56.1743667 27.3598 844.0 12"
+sleep 0.95
+echo "geo fix 56.17445 27.35975 842.0 12"
+sleep 0.95
+echo "geo fix 56.17455 27.3597167 840.0 12"
+sleep 0.95
+echo "geo fix 56.17465 27.3596667 838.0 12"
+sleep 0.95
+echo "geo fix 56.17475 27.3596333 836.0 12"
+sleep 0.95
+echo "geo fix 56.17485 27.3595833 835.0 12"
+sleep 0.95
+echo "geo fix 56.1749667 27.3595333 834.0 12"
+sleep 0.95
+echo "geo fix 56.1750667 27.3595 834.0 12"
+sleep 0.95
+echo "geo fix 56.1751833 27.35945 834.0 12"
+sleep 0.95
+echo "geo fix 56.1753 27.3594167 834.0 12"
+sleep 0.95
+echo "geo fix 56.1754 27.3593667 834.0 12"
+sleep 0.95
+echo "geo fix 56.1755167 27.3593333 835.0 12"
+sleep 0.95
+echo "geo fix 56.1756167 27.3593 836.0 12"
+sleep 0.95
+echo "geo fix 56.1757167 27.3592833 837.0 12"
+sleep 0.95
+echo "geo fix 56.1758167 27.3592667 836.0 12"
+sleep 0.95
+echo "geo fix 56.1759333 27.35925 835.0 12"
+sleep 0.95
+echo "geo fix 56.17605 27.3592167 835.0 12"
+sleep 0.95
+echo "geo fix 56.17615 27.3591667 836.0 12"
+sleep 0.95
+echo "geo fix 56.1762333 27.3591333 838.0 12"
+sleep 0.95
+echo "geo fix 56.1763 27.3591167 839.0 12"
+sleep 0.95
+echo "geo fix 56.17635 27.3591 839.0 12"
+sleep 0.95
+echo "geo fix 56.1764333 27.3590667 838.0 12"
+sleep 0.95
+echo "geo fix 56.1765333 27.3590333 837.0 12"
+sleep 0.95
+echo "geo fix 56.1766333 27.3589833 837.0 12"
+sleep 0.95
+echo "geo fix 56.1767167 27.3589333 838.0 12"
+sleep 0.95
+echo "geo fix 56.1767833 27.3589 840.0 12"
+sleep 0.95
+echo "geo fix 56.17685 27.3588667 841.0 12"
+sleep 0.95
+echo "geo fix 56.1769 27.3588333 840.0 12"
+sleep 0.95
+echo "geo fix 56.1769833 27.3588 839.0 12"
+sleep 0.95
+echo "geo fix 56.1770667 27.35875 838.0 12"
+sleep 0.95
+echo "geo fix 56.1771667 27.3587 838.0 12"
+sleep 0.95
+echo "geo fix 56.17725 27.35865 840.0 12"
+sleep 0.95
+echo "geo fix 56.1773 27.3586167 843.0 12"
+sleep 0.95
+echo "geo fix 56.17735 27.3585833 846.0 12"
+sleep 0.95
+echo "geo fix 56.1774 27.35855 846.0 12"
+sleep 0.95
+echo "geo fix 56.1774333 27.3585167 847.0 12"
+sleep 0.95
+echo "geo fix 56.1775 27.3584833 847.0 12"
+sleep 0.95
+echo "geo fix 56.17755 27.35845 847.0 12"
+sleep 0.95
+echo "geo fix 56.1776167 27.3584 848.0 12"
+sleep 0.95
+echo "geo fix 56.1777 27.35835 848.0 12"
+sleep 0.95
+echo "geo fix 56.1777667 27.3583167 848.0 12"
+sleep 0.95
+echo "geo fix 56.1778333 27.3582833 849.0 12"
+sleep 0.95
+echo "geo fix 56.1779167 27.3582333 850.0 12"
+sleep 0.95
+echo "geo fix 56.178 27.3582 851.0 12"
+sleep 0.95
+echo "geo fix 56.1780667 27.3581667 852.0 12"
+sleep 0.95
+echo "geo fix 56.17815 27.35815 853.0 12"
+sleep 0.95
+echo "geo fix 56.1782167 27.3581167 854.0 12"
+sleep 0.95
+echo "geo fix 56.1782833 27.3580833 854.0 12"
+sleep 0.95
+echo "geo fix 56.17835 27.3580333 854.0 12"
+sleep 0.95
+echo "geo fix 56.1784167 27.3579833 855.0 12"
+sleep 0.95
+echo "geo fix 56.1784833 27.35795 857.0 12"
+sleep 0.95
+echo "geo fix 56.17855 27.3579167 858.0 12"
+sleep 0.95
+echo "geo fix 56.1786167 27.3578833 859.0 12"
+sleep 0.95
+echo "geo fix 56.17865 27.3578333 859.0 12"
+sleep 0.95
+echo "geo fix 56.1787167 27.3578 860.0 12"
+sleep 0.95
+echo "geo fix 56.1787667 27.3577833 862.0 12"
+sleep 0.95
+echo "geo fix 56.1788333 27.3577667 864.0 12"
+sleep 0.95
+echo "geo fix 56.1788833 27.3577833 865.0 12"
+sleep 0.95
+echo "geo fix 56.17895 27.3578167 866.0 12"
+sleep 0.95
+echo "geo fix 56.1790333 27.3578833 866.0 12"
+sleep 0.95
+echo "geo fix 56.1790833 27.3579667 867.0 12"
+sleep 0.95
+echo "geo fix 56.1791333 27.35805 868.0 12"
+sleep 0.95
+echo "geo fix 56.1791833 27.3581333 869.0 12"
+sleep 0.95
+echo "geo fix 56.17925 27.3582 869.0 12"
+sleep 0.95
+echo "geo fix 56.1793167 27.35825 869.0 12"
+sleep 0.95
+echo "geo fix 56.1794 27.3582833 868.0 12"
+sleep 0.95
+echo "geo fix 56.1794833 27.3583 867.0 12"
+sleep 0.95
+echo "geo fix 56.1795667 27.3583167 868.0 12"
+sleep 0.95
+echo "geo fix 56.1796167 27.3583167 869.0 12"
+sleep 0.95
+echo "geo fix 56.1796667 27.3583 869.0 12"
+sleep 0.95
+echo "geo fix 56.1797167 27.3583 868.0 12"
+sleep 0.95
+echo "geo fix 56.1797667 27.3583 865.0 12"
+sleep 0.95
+echo "geo fix 56.17985 27.3582833 862.0 12"
+sleep 0.95
+echo "geo fix 56.1799167 27.35825 859.0 12"
+sleep 0.95
+echo "geo fix 56.1800167 27.3582167 856.0 12"
+sleep 0.95
+echo "geo fix 56.1801333 27.3582 856.0 12"
+sleep 0.95
+echo "geo fix 56.18025 27.3581833 856.0 12"
+sleep 0.95
+echo "geo fix 56.1803667 27.3581667 857.0 12"
+sleep 0.95
+echo "geo fix 56.1804667 27.3581667 857.0 12"
+sleep 0.95
+echo "geo fix 56.1805667 27.3581667 857.0 12"
+sleep 0.95
+echo "geo fix 56.1806667 27.35815 856.0 12"
+sleep 0.95
+echo "geo fix 56.1807667 27.3581333 855.0 12"
+sleep 0.95
+echo "geo fix 56.18085 27.3581167 855.0 12"
+sleep 0.95
+echo "geo fix 56.1809167 27.3580833 854.0 12"
+sleep 0.95
+echo "geo fix 56.181 27.35805 852.0 12"
+sleep 0.95
+echo "geo fix 56.1810833 27.3580167 849.0 12"
+sleep 0.95
+echo "geo fix 56.1811667 27.3579833 846.0 12"
+sleep 0.95
+echo "geo fix 56.1812667 27.3579333 844.0 12"
+sleep 0.95
+echo "geo fix 56.1813667 27.3579 842.0 12"
+sleep 0.95
+echo "geo fix 56.18145 27.3578667 840.0 12"
+sleep 0.95
+echo "geo fix 56.1815333 27.3578167 837.0 12"
+sleep 0.95
+echo "geo fix 56.1816 27.3577667 833.0 12"
+sleep 0.95
+echo "geo fix 56.1816833 27.3577 830.0 12"
+sleep 0.95
+echo "geo fix 56.1817833 27.3576333 828.0 12"
+sleep 0.95
+echo "geo fix 56.1818667 27.3575667 827.0 12"
+sleep 0.95
+echo "geo fix 56.18195 27.3575333 825.0 12"
+sleep 0.95
+echo "geo fix 56.18205 27.3575 823.0 12"
+sleep 0.95
+echo "geo fix 56.18215 27.3574833 820.0 12"
+sleep 0.95
+echo "geo fix 56.18225 27.35745 818.0 12"
+sleep 0.95
+echo "geo fix 56.18235 27.3574167 817.0 12"
+sleep 0.95
+echo "geo fix 56.18245 27.3573833 816.0 12"
+sleep 0.95
+echo "geo fix 56.1825333 27.35735 816.0 12"
+sleep 0.95
+echo "geo fix 56.1826167 27.3573333 815.0 12"
+sleep 0.95
+echo "geo fix 56.1827 27.3573 813.0 12"
+sleep 0.95
+echo "geo fix 56.1828 27.3572833 811.0 12"
+sleep 0.95
+echo "geo fix 56.1829 27.3572333 809.0 12"
+sleep 0.95
+echo "geo fix 56.183 27.3572 808.0 12"
+sleep 0.95
+echo "geo fix 56.1830833 27.35715 808.0 12"
+sleep 0.95
+echo "geo fix 56.1831833 27.3571167 807.0 12"
+sleep 0.95
+echo "geo fix 56.1832667 27.3570833 806.0 12"
+sleep 0.95
+echo "geo fix 56.18335 27.35705 804.0 12"
+sleep 0.95
+echo "geo fix 56.18345 27.3570167 802.0 12"
+sleep 0.95
+echo "geo fix 56.1835333 27.3569833 800.0 12"
+sleep 0.95
+echo "geo fix 56.18365 27.3569667 798.0 12"
+sleep 0.95
+echo "geo fix 56.1837667 27.35695 797.0 12"
+sleep 0.95
+echo "geo fix 56.1838833 27.35695 796.0 12"
+sleep 0.95
+echo "geo fix 56.1839667 27.35695 796.0 12"
+sleep 0.95
+echo "geo fix 56.1840667 27.3569333 795.0 12"
+sleep 0.95
+echo "geo fix 56.18415 27.3569167 794.0 12"
+sleep 0.95
+echo "geo fix 56.18425 27.3569167 792.0 12"
+sleep 0.95
+echo "geo fix 56.1843667 27.3569167 789.0 12"
+sleep 0.95
+echo "geo fix 56.1844833 27.3569333 787.0 12"
+sleep 0.95
+echo "geo fix 56.1845833 27.3569333 784.0 12"
+sleep 0.95
+echo "geo fix 56.1847 27.3569333 782.0 12"
+sleep 0.95
+echo "geo fix 56.1848 27.3569167 780.0 12"
+sleep 0.95
+echo "geo fix 56.1849 27.3569 778.0 12"
+sleep 0.95
+echo "geo fix 56.185 27.3568833 775.0 12"
+sleep 0.95
+echo "geo fix 56.1851 27.3568833 772.0 12"
+sleep 0.95
+echo "geo fix 56.1852 27.3568833 768.0 12"
+sleep 0.95
+echo "geo fix 56.1852833 27.3568667 765.0 12"
+sleep 0.95
+echo "geo fix 56.1853833 27.35685 763.0 12"
+sleep 0.95
+echo "geo fix 56.1854833 27.3568333 763.0 12"
+sleep 0.95
+echo "geo fix 56.1855833 27.3568333 765.0 12"
+sleep 0.95
+echo "geo fix 56.18565 27.35685 768.0 12"
+sleep 0.95
+echo "geo fix 56.1857 27.3568667 769.0 12"
+sleep 0.95
+echo "geo fix 56.18575 27.3568833 769.0 12"
+sleep 0.95
+echo "geo fix 56.1858 27.3569 767.0 12"
+sleep 0.95
+echo "geo fix 56.1858667 27.3568833 765.0 12"
+sleep 0.95
+echo "geo fix 56.18595 27.3568667 761.0 12"
+sleep 0.95
+echo "geo fix 56.18605 27.35685 756.0 12"
+sleep 0.95
+echo "geo fix 56.1861667 27.3568167 754.0 12"
+sleep 0.95
+echo "geo fix 56.1862833 27.3567833 756.0 12"
+sleep 0.95
+echo "geo fix 56.1863667 27.3567667 758.0 12"
+sleep 0.95
+echo "geo fix 56.1864167 27.3567667 758.0 12"
+sleep 0.95
+echo "geo fix 56.1864667 27.3567667 758.0 12"
+sleep 0.95
+echo "geo fix 56.1865167 27.35675 756.0 12"
+sleep 0.95
+echo "geo fix 56.1865833 27.3567333 753.0 12"
+sleep 0.95
+echo "geo fix 56.1866833 27.3567167 749.0 12"
+sleep 0.95
+echo "geo fix 56.1867833 27.3566833 746.0 12"
+sleep 0.95
+echo "geo fix 56.1868833 27.3566667 745.0 12"
+sleep 0.95
+echo "geo fix 56.1869667 27.35665 745.0 12"
+sleep 0.95
+echo "geo fix 56.18705 27.3566333 746.0 12"
+sleep 0.95
+echo "geo fix 56.1871167 27.3566167 746.0 12"
+sleep 0.95
+echo "geo fix 56.1871833 27.3566167 744.0 12"
+sleep 0.95
+echo "geo fix 56.1872667 27.3566 743.0 12"
+sleep 0.95
+echo "geo fix 56.1873333 27.3566 742.0 12"
+sleep 0.95
+echo "geo fix 56.1874 27.3566 741.0 12"
+sleep 0.95
+echo "geo fix 56.1874833 27.3566 739.0 12"
+sleep 0.95
+echo "geo fix 56.1875667 27.3565833 737.0 12"
+sleep 0.95
+echo "geo fix 56.1876833 27.3565667 734.0 12"
+sleep 0.95
+echo "geo fix 56.1878167 27.3565333 733.0 12"
+sleep 0.95
+echo "geo fix 56.1879333 27.3564833 732.0 12"
+sleep 0.95
+echo "geo fix 56.1880167 27.35645 733.0 12"
+sleep 0.95
+echo "geo fix 56.1881 27.3564167 734.0 12"
+sleep 0.95
+echo "geo fix 56.1881833 27.3563833 735.0 12"
+sleep 0.95
+echo "geo fix 56.1882667 27.3563667 736.0 12"
+sleep 0.95
+echo "geo fix 56.18835 27.35635 737.0 12"
+sleep 0.95
+echo "geo fix 56.1884167 27.3563333 737.0 12"
+sleep 0.95
+echo "geo fix 56.1885 27.3563167 737.0 12"
+sleep 0.95
+echo "geo fix 56.1885667 27.3563167 737.0 12"
+sleep 0.95
+echo "geo fix 56.1886333 27.3563167 737.0 12"
+sleep 0.95
+echo "geo fix 56.1887167 27.3563167 737.0 12"
+sleep 0.95
+echo "geo fix 56.1887833 27.3563333 736.0 12"
+sleep 0.95
+echo "geo fix 56.1888667 27.3563167 735.0 12"
+sleep 0.95
+echo "geo fix 56.1889333 27.3563 734.0 12"
+sleep 0.95
+echo "geo fix 56.1890167 27.3562833 734.0 12"
+sleep 0.95
+echo "geo fix 56.1890833 27.3562667 734.0 12"
+sleep 0.95
+echo "geo fix 56.18915 27.35625 735.0 12"
+sleep 0.95
+echo "geo fix 56.1892333 27.3562667 737.0 12"
+sleep 0.95
+echo "geo fix 56.1893 27.3562667 739.0 12"
+sleep 0.95
+echo "geo fix 56.1893667 27.3562667 741.0 12"
+sleep 0.95
+echo "geo fix 56.18945 27.35625 743.0 12"
+sleep 0.95
+echo "geo fix 56.1895167 27.35625 746.0 12"
+sleep 0.95
+echo "geo fix 56.1895833 27.35625 747.0 12"
+sleep 0.95
+echo "geo fix 56.18965 27.35625 748.0 12"
+sleep 0.95
+echo "geo fix 56.1897333 27.35625 749.0 12"
+sleep 0.95
+echo "geo fix 56.1898167 27.3562667 751.0 12"
+sleep 0.95
+echo "geo fix 56.1898833 27.3562667 751.0 12"
+sleep 0.95
+echo "geo fix 56.18995 27.3562833 751.0 12"
+sleep 0.95
+echo "geo fix 56.19 27.3562833 749.0 12"
+sleep 0.95
+echo "geo fix 56.1900833 27.3562833 746.0 12"
+sleep 0.95
+echo "geo fix 56.1901833 27.3562667 741.0 12"
+sleep 0.95
+echo "geo fix 56.1903 27.3562667 739.0 12"
+sleep 0.95
+echo "geo fix 56.1904167 27.3562667 740.0 12"
+sleep 0.95
+echo "geo fix 56.1905167 27.3562833 742.0 12"
+sleep 0.95
+echo "geo fix 56.1906 27.3563 742.0 12"
+sleep 0.95
+echo "geo fix 56.1906667 27.3563167 741.0 12"
+sleep 0.95
+echo "geo fix 56.1907333 27.35635 738.0 12"
+sleep 0.95
+echo "geo fix 56.1908167 27.3563667 735.0 12"
+sleep 0.95
+echo "geo fix 56.1909333 27.3563667 732.0 12"
+sleep 0.95
+echo "geo fix 56.1910333 27.3563667 730.0 12"
+sleep 0.95
+echo "geo fix 56.1911167 27.3563667 729.0 12"
+sleep 0.95
+echo "geo fix 56.1911833 27.35635 728.0 12"
+sleep 0.95
+echo "geo fix 56.19125 27.3563333 727.0 12"
+sleep 0.95
+echo "geo fix 56.1913333 27.3563 724.0 12"
+sleep 0.95
+echo "geo fix 56.1914167 27.3562667 720.0 12"
+sleep 0.95
+echo "geo fix 56.1915 27.3562167 718.0 12"
+sleep 0.95
+echo "geo fix 56.1916167 27.3561667 717.0 12"
+sleep 0.95
+echo "geo fix 56.1917 27.3561333 717.0 12"
+sleep 0.95
+echo "geo fix 56.1917667 27.3561 715.0 12"
+sleep 0.95
+echo "geo fix 56.1918333 27.3560667 714.0 12"
+sleep 0.95
+echo "geo fix 56.1919 27.3560333 712.0 12"
+sleep 0.95
+echo "geo fix 56.1919833 27.3560167 710.0 12"
+sleep 0.95
+echo "geo fix 56.19205 27.3559833 708.0 12"
+sleep 0.95
+echo "geo fix 56.1921167 27.35595 706.0 12"
+sleep 0.95
+echo "geo fix 56.1921833 27.3559167 705.0 12"
+sleep 0.95
+echo "geo fix 56.19225 27.3558667 704.0 12"
+sleep 0.95
+echo "geo fix 56.1923 27.3558333 702.0 12"
+sleep 0.95
+echo "geo fix 56.19235 27.3558 699.0 12"
+sleep 0.95
+echo "geo fix 56.1924167 27.35575 696.0 12"
+sleep 0.95
+echo "geo fix 56.1924833 27.3557 694.0 12"
+sleep 0.95
+echo "geo fix 56.1925667 27.35565 693.0 12"
+sleep 0.95
+echo "geo fix 56.1926333 27.3556 693.0 12"
+sleep 0.95
+echo "geo fix 56.1927 27.35555 693.0 12"
+sleep 0.95
+echo "geo fix 56.1927667 27.3555167 694.0 12"
+sleep 0.95
+echo "geo fix 56.1928167 27.3554833 694.0 12"
+sleep 0.95
+echo "geo fix 56.1928833 27.35545 693.0 12"
+sleep 0.95
+echo "geo fix 56.19295 27.3554167 692.0 12"
+sleep 0.95
+echo "geo fix 56.193 27.3553667 691.0 12"
+sleep 0.95
+echo "geo fix 56.1930667 27.3553333 689.0 12"
+sleep 0.95
+echo "geo fix 56.1931333 27.3552833 689.0 12"
+sleep 0.95
+echo "geo fix 56.1931833 27.3552333 689.0 12"
+sleep 0.95
+echo "geo fix 56.19325 27.3551833 689.0 12"
+sleep 0.95
+echo "geo fix 56.1933 27.35515 687.0 12"
+sleep 0.95
+echo "geo fix 56.1933667 27.3551167 685.0 12"
+sleep 0.95
+echo "geo fix 56.1934333 27.3550833 684.0 12"
+sleep 0.95
+echo "geo fix 56.1935 27.3550333 683.0 12"
+sleep 0.95
+echo "geo fix 56.1935667 27.355 682.0 12"
+sleep 0.95
+echo "geo fix 56.1936167 27.3549333 682.0 12"
+sleep 0.95
+echo "geo fix 56.1936667 27.3548833 681.0 12"
+sleep 0.95
+echo "geo fix 56.1937167 27.3548167 681.0 12"
+sleep 0.95
+echo "geo fix 56.19375 27.3547667 681.0 12"
+sleep 0.95
+echo "geo fix 56.1937833 27.3547 681.0 12"
+sleep 0.95
+echo "geo fix 56.1937833 27.3546333 682.0 12"
+sleep 0.95
+echo "geo fix 56.1938 27.3545667 684.0 12"
+sleep 0.95
+echo "geo fix 56.1938 27.3545 686.0 12"
+sleep 0.95
+echo "geo fix 56.1938333 27.35445 688.0 12"
+sleep 0.95
+echo "geo fix 56.1938833 27.3544333 689.0 12"
+sleep 0.95
+echo "geo fix 56.1939667 27.3544 689.0 12"
+sleep 0.95
+echo "geo fix 56.1940667 27.3544333 690.0 12"
+sleep 0.95
+echo "geo fix 56.1941667 27.3545 690.0 12"
+sleep 0.95
+echo "geo fix 56.1942333 27.3546167 690.0 12"
+sleep 0.95
+echo "geo fix 56.1942333 27.3547333 690.0 12"
+sleep 0.95
+echo "geo fix 56.1942167 27.35485 690.0 12"
+sleep 0.95
+echo "geo fix 56.1941333 27.3549667 690.0 12"
+sleep 0.95
+echo "geo fix 56.1940333 27.35505 690.0 12"
+sleep 0.95
+echo "geo fix 56.1939333 27.3551 691.0 12"
+sleep 0.95
+echo "geo fix 56.1938333 27.3551 692.0 12"
+sleep 0.95
+echo "geo fix 56.1937333 27.3550667 693.0 12"
+sleep 0.95
+echo "geo fix 56.1936833 27.3550167 694.0 12"
+sleep 0.95
+echo "geo fix 56.1937 27.35495 696.0 12"
+sleep 0.95
+echo "geo fix 56.1937333 27.3549 698.0 12"
+sleep 0.95
+echo "geo fix 56.1938167 27.3548667 699.0 12"
+sleep 0.95
+echo "geo fix 56.1939167 27.3548667 699.0 12"
+sleep 0.95
+echo "geo fix 56.1940167 27.3549333 700.0 12"
+sleep 0.95
+echo "geo fix 56.1941 27.3550167 700.0 12"
+sleep 0.95
+echo "geo fix 56.19415 27.3551167 700.0 12"
+sleep 0.95
+echo "geo fix 56.19415 27.3552333 699.0 12"
+sleep 0.95
+echo "geo fix 56.1941333 27.35535 698.0 12"
+sleep 0.95
+echo "geo fix 56.1940833 27.35545 699.0 12"
+sleep 0.95
+echo "geo fix 56.194 27.35555 699.0 12"
+sleep 0.95
+echo "geo fix 56.1939 27.3556 700.0 12"
+sleep 0.95
+echo "geo fix 56.1937833 27.3556167 701.0 12"
+sleep 0.95
+echo "geo fix 56.1936833 27.3556167 702.0 12"
+sleep 0.95
+echo "geo fix 56.1936333 27.3555833 704.0 12"
+sleep 0.95
+echo "geo fix 56.1936 27.3555167 705.0 12"
+sleep 0.95
+echo "geo fix 56.1936167 27.3554667 706.0 12"
+sleep 0.95
+echo "geo fix 56.1936667 27.3554167 708.0 12"
+sleep 0.95
+echo "geo fix 56.1937333 27.3553667 710.0 12"
+sleep 0.95
+echo "geo fix 56.1938167 27.3553667 713.0 12"
+sleep 0.95
+echo "geo fix 56.1938833 27.3553833 714.0 12"
+sleep 0.95
+echo "geo fix 56.19395 27.35545 713.0 12"
+sleep 0.95
+echo "geo fix 56.1940167 27.3555333 712.0 12"
+sleep 0.95
+echo "geo fix 56.1940667 27.3556167 712.0 12"
+sleep 0.95
+echo "geo fix 56.1941 27.3557167 712.0 12"
+sleep 0.95
+echo "geo fix 56.1941 27.35585 711.0 12"
+sleep 0.95
+echo "geo fix 56.1940667 27.35595 711.0 12"
+sleep 0.95
+echo "geo fix 56.1939833 27.35605 712.0 12"
+sleep 0.95
+echo "geo fix 56.1939 27.3561333 713.0 12"
+sleep 0.95
+echo "geo fix 56.1937833 27.3561667 714.0 12"
+sleep 0.95
+echo "geo fix 56.1936833 27.3561833 716.0 12"
+sleep 0.95
+echo "geo fix 56.1936 27.3561667 717.0 12"
+sleep 0.95
+echo "geo fix 56.1935333 27.3561333 719.0 12"
+sleep 0.95
+echo "geo fix 56.1934833 27.3560833 720.0 12"
+sleep 0.95
+echo "geo fix 56.1934833 27.3560333 720.0 12"
+sleep 0.95
+echo "geo fix 56.1935 27.3559833 720.0 12"
+sleep 0.95
+echo "geo fix 56.19355 27.3559333 721.0 12"
+sleep 0.95
+echo "geo fix 56.1936167 27.3559167 723.0 12"
+sleep 0.95
+echo "geo fix 56.1936833 27.3559333 725.0 12"
+sleep 0.95
+echo "geo fix 56.1937833 27.3559667 724.0 12"
+sleep 0.95
+echo "geo fix 56.1938333 27.35605 724.0 12"
+sleep 0.95
+echo "geo fix 56.1939 27.35615 723.0 12"
+sleep 0.95
+echo "geo fix 56.1939167 27.3562667 723.0 12"
+sleep 0.95
+echo "geo fix 56.1939333 27.3563833 724.0 12"
+sleep 0.95
+echo "geo fix 56.1938667 27.3565 725.0 12"
+sleep 0.95
+echo "geo fix 56.1937833 27.3566 727.0 12"
+sleep 0.95
+echo "geo fix 56.1936833 27.35665 729.0 12"
+sleep 0.95
+echo "geo fix 56.1935833 27.3566333 729.0 12"
+sleep 0.95
+echo "geo fix 56.1935 27.3566167 731.0 12"
+sleep 0.95
+echo "geo fix 56.1934333 27.35655 731.0 12"
+sleep 0.95
+echo "geo fix 56.1934167 27.3565 731.0 12"
+sleep 0.95
+echo "geo fix 56.1934333 27.3564333 730.0 12"
+sleep 0.95
+echo "geo fix 56.1935 27.3563833 730.0 12"
+sleep 0.95
+echo "geo fix 56.1935833 27.35635 731.0 12"
+sleep 0.95
+echo "geo fix 56.1936833 27.3563667 732.0 12"
+sleep 0.95
+echo "geo fix 56.1937667 27.3564167 733.0 12"
+sleep 0.95
+echo "geo fix 56.1938333 27.3565167 732.0 12"
+sleep 0.95
+echo "geo fix 56.19385 27.3566333 732.0 12"
+sleep 0.95
+echo "geo fix 56.1938333 27.3567667 731.0 12"
+sleep 0.95
+echo "geo fix 56.1937833 27.3568667 732.0 12"
+sleep 0.95
+echo "geo fix 56.1936833 27.35695 733.0 12"
+sleep 0.95
+echo "geo fix 56.1935833 27.3569667 734.0 12"
+sleep 0.95
+echo "geo fix 56.1934667 27.35695 734.0 12"
+sleep 0.95
+echo "geo fix 56.1934 27.3569167 735.0 12"
+sleep 0.95
+echo "geo fix 56.1933667 27.35685 735.0 12"
+sleep 0.95
+echo "geo fix 56.1933833 27.3567833 735.0 12"
+sleep 0.95
+echo "geo fix 56.1934667 27.3567333 736.0 12"
+sleep 0.95
+echo "geo fix 56.1935667 27.3567167 736.0 12"
+sleep 0.95
+echo "geo fix 56.1936833 27.3567167 735.0 12"
+sleep 0.95
+echo "geo fix 56.1937667 27.3567833 735.0 12"
+sleep 0.95
+echo "geo fix 56.1938333 27.3568833 735.0 12"
+sleep 0.95
+echo "geo fix 56.1938667 27.357 736.0 12"
+sleep 0.95
+echo "geo fix 56.1938333 27.3571167 735.0 12"
+sleep 0.95
+echo "geo fix 56.1937833 27.3572167 736.0 12"
+sleep 0.95
+echo "geo fix 56.1937 27.3573 738.0 12"
+sleep 0.95
+echo "geo fix 56.1936 27.3573333 739.0 12"
+sleep 0.95
+echo "geo fix 56.1934833 27.3573333 739.0 12"
+sleep 0.95
+echo "geo fix 56.1934167 27.3572833 740.0 12"
+sleep 0.95
+echo "geo fix 56.1933833 27.3572333 741.0 12"
+sleep 0.95
+echo "geo fix 56.1933833 27.3571667 741.0 12"
+sleep 0.95
+echo "geo fix 56.1934167 27.3571 742.0 12"
+sleep 0.95
+echo "geo fix 56.1934833 27.35705 742.0 12"
+sleep 0.95
+echo "geo fix 56.1935833 27.3570333 744.0 12"
+sleep 0.95
+echo "geo fix 56.1936833 27.35705 744.0 12"
+sleep 0.95
+echo "geo fix 56.1937667 27.3571167 744.0 12"
+sleep 0.95
+echo "geo fix 56.1938333 27.3572167 744.0 12"
+sleep 0.95
+echo "geo fix 56.19385 27.3573333 744.0 12"
+sleep 0.95
+echo "geo fix 56.1938333 27.35745 744.0 12"
+sleep 0.95
+echo "geo fix 56.1938 27.3575667 744.0 12"
+sleep 0.95
+echo "geo fix 56.1937167 27.3576667 746.0 12"
+sleep 0.95
+echo "geo fix 56.1936167 27.3577167 748.0 12"
+sleep 0.95
+echo "geo fix 56.1935333 27.3577333 749.0 12"
+sleep 0.95
+echo "geo fix 56.19345 27.3577333 751.0 12"
+sleep 0.95
+echo "geo fix 56.1933833 27.3576833 749.0 12"
+sleep 0.95
+echo "geo fix 56.1933333 27.3576333 750.0 12"
+sleep 0.95
+echo "geo fix 56.1933 27.3575833 750.0 12"
+sleep 0.95
+echo "geo fix 56.19325 27.3575167 751.0 12"
+sleep 0.95
+echo "geo fix 56.1932333 27.3574667 752.0 12"
+sleep 0.95
+echo "geo fix 56.1932167 27.3574 753.0 12"
+sleep 0.95
+echo "geo fix 56.1932167 27.35735 754.0 12"
+sleep 0.95
+echo "geo fix 56.1932333 27.3573 755.0 12"
+sleep 0.95
+echo "geo fix 56.1932833 27.3572667 755.0 12"
+sleep 0.95
+echo "geo fix 56.19335 27.3572167 755.0 12"
+sleep 0.95
+echo "geo fix 56.1934167 27.3571667 756.0 12"
+sleep 0.95
+echo "geo fix 56.1934833 27.35715 757.0 12"
+sleep 0.95
+echo "geo fix 56.1935333 27.3571167 758.0 12"
+sleep 0.95
+echo "geo fix 56.1936 27.3571 759.0 12"
+sleep 0.95
+echo "geo fix 56.19365 27.3570833 759.0 12"
+sleep 0.95
+echo "geo fix 56.1937 27.35705 760.0 12"
+sleep 0.95
+echo "geo fix 56.1937833 27.3570333 760.0 12"
+sleep 0.95
+echo "geo fix 56.19385 27.3570167 762.0 12"
+sleep 0.95
+echo "geo fix 56.1939 27.357 764.0 12"
+sleep 0.95
+echo "geo fix 56.19395 27.3569667 766.0 12"
+sleep 0.95
+echo "geo fix 56.1939833 27.3569333 767.0 12"
+sleep 0.95
+echo "geo fix 56.1940333 27.3568833 768.0 12"
+sleep 0.95
+echo "geo fix 56.1941 27.3568333 769.0 12"
+sleep 0.95
+echo "geo fix 56.1941833 27.3568167 771.0 12"
+sleep 0.95
+echo "geo fix 56.1942833 27.3568 774.0 12"
+sleep 0.95
+echo "geo fix 56.1943833 27.3567833 777.0 12"
+sleep 0.95
+echo "geo fix 56.19445 27.3567667 781.0 12"
+sleep 0.95
+echo "geo fix 56.1944833 27.3567333 783.0 12"
+sleep 0.95
+echo "geo fix 56.1945333 27.3567167 783.0 12"
+sleep 0.95
+echo "geo fix 56.19455 27.3566667 782.0 12"
+sleep 0.95
+echo "geo fix 56.1945833 27.3566167 782.0 12"
+sleep 0.95
+echo "geo fix 56.19455 27.3565333 784.0 12"
+sleep 0.95
+echo "geo fix 56.1945 27.3564667 786.0 12"
+sleep 0.95
+echo "geo fix 56.1944333 27.3564333 788.0 12"
+sleep 0.95
+echo "geo fix 56.1943333 27.35645 788.0 12"
+sleep 0.95
+echo "geo fix 56.1942 27.3564833 788.0 12"
+sleep 0.95
+echo "geo fix 56.1941 27.3565667 788.0 12"
+sleep 0.95
+echo "geo fix 56.1940167 27.35665 790.0 12"
+sleep 0.95
+echo "geo fix 56.1939833 27.35675 792.0 12"
+sleep 0.95
+echo "geo fix 56.1939667 27.35685 793.0 12"
+sleep 0.95
+echo "geo fix 56.1939833 27.35695 793.0 12"
+sleep 0.95
+echo "geo fix 56.194 27.35705 794.0 12"
+sleep 0.95
+echo "geo fix 56.1940333 27.3571667 795.0 12"
+sleep 0.95
+echo "geo fix 56.1941 27.35725 797.0 12"
+sleep 0.95
+echo "geo fix 56.1941667 27.3573167 800.0 12"
+sleep 0.95
+echo "geo fix 56.19425 27.3573833 801.0 12"
+sleep 0.95
+echo "geo fix 56.19435 27.3574167 802.0 12"
+sleep 0.95
+echo "geo fix 56.19445 27.3574167 803.0 12"
+sleep 0.95
+echo "geo fix 56.1945333 27.3574 805.0 12"
+sleep 0.95
+echo "geo fix 56.1946167 27.35735 806.0 12"
+sleep 0.95
+echo "geo fix 56.19465 27.3572833 808.0 12"
+sleep 0.95
+echo "geo fix 56.1946833 27.3572333 811.0 12"
+sleep 0.95
+echo "geo fix 56.1946833 27.35715 813.0 12"
+sleep 0.95
+echo "geo fix 56.1946833 27.3570833 815.0 12"
+sleep 0.95
+echo "geo fix 56.1946333 27.3570333 818.0 12"
+sleep 0.95
+echo "geo fix 56.1945333 27.3570167 821.0 12"
+sleep 0.95
+echo "geo fix 56.1944333 27.3570333 821.0 12"
+sleep 0.95
+echo "geo fix 56.1943167 27.3570833 822.0 12"
+sleep 0.95
+echo "geo fix 56.1942167 27.3571667 823.0 12"
+sleep 0.95
+echo "geo fix 56.19415 27.3572667 826.0 12"
+sleep 0.95
+echo "geo fix 56.1941333 27.3573667 828.0 12"
+sleep 0.95
+echo "geo fix 56.1941333 27.3574667 829.0 12"
+sleep 0.95
+echo "geo fix 56.1941667 27.3575833 829.0 12"
+sleep 0.95
+echo "geo fix 56.1942 27.3577 830.0 12"
+sleep 0.95
+echo "geo fix 56.19425 27.3578 833.0 12"
+sleep 0.95
+echo "geo fix 56.1943333 27.3578667 837.0 12"
+sleep 0.95
+echo "geo fix 56.1944333 27.3579167 839.0 12"
+sleep 0.95
+echo "geo fix 56.1945167 27.3579333 840.0 12"
+sleep 0.95
+echo "geo fix 56.1946167 27.3579333 842.0 12"
+sleep 0.95
+echo "geo fix 56.1947167 27.35795 843.0 12"
+sleep 0.95
+echo "geo fix 56.1948167 27.3579333 846.0 12"
+sleep 0.95
+echo "geo fix 56.1948833 27.3578833 847.0 12"
+sleep 0.95
+echo "geo fix 56.1949167 27.3578167 848.0 12"
+sleep 0.95
+echo "geo fix 56.1949167 27.35775 850.0 12"
+sleep 0.95
+echo "geo fix 56.1949 27.3576833 853.0 12"
+sleep 0.95
+echo "geo fix 56.1948333 27.35765 855.0 12"
+sleep 0.95
+echo "geo fix 56.19475 27.3576333 857.0 12"
+sleep 0.95
+echo "geo fix 56.1946667 27.3576333 859.0 12"
+sleep 0.95
+echo "geo fix 56.1945833 27.35765 862.0 12"
+sleep 0.95
+echo "geo fix 56.1945 27.3577167 863.0 12"
+sleep 0.95
+echo "geo fix 56.19445 27.3578 865.0 12"
+sleep 0.95
+echo "geo fix 56.1944 27.3579167 868.0 12"
+sleep 0.95
+echo "geo fix 56.1943833 27.3580333 871.0 12"
+sleep 0.95
+echo "geo fix 56.1943833 27.3581333 874.0 12"
+sleep 0.95
+echo "geo fix 56.1944333 27.35825 874.0 12"
+sleep 0.95
+echo "geo fix 56.1945 27.3583333 876.0 12"
+sleep 0.95
+echo "geo fix 56.1945833 27.3584167 876.0 12"
+sleep 0.95
+echo "geo fix 56.1946833 27.3584667 878.0 12"
+sleep 0.95
+echo "geo fix 56.1947833 27.3585167 879.0 12"
+sleep 0.95
+echo "geo fix 56.1949 27.3585167 880.0 12"
+sleep 0.95
+echo "geo fix 56.1950167 27.3585 882.0 12"
+sleep 0.95
+echo "geo fix 56.1951 27.35845 884.0 12"
+sleep 0.95
+echo "geo fix 56.1951667 27.3584 886.0 12"
+sleep 0.95
+echo "geo fix 56.1951833 27.3583333 888.0 12"
+sleep 0.95
+echo "geo fix 56.1951667 27.3582833 889.0 12"
+sleep 0.95
+echo "geo fix 56.1951333 27.3582167 891.0 12"
+sleep 0.95
+echo "geo fix 56.1950667 27.3581833 892.0 12"
+sleep 0.95
+echo "geo fix 56.1950167 27.35815 893.0 12"
+sleep 0.95
+echo "geo fix 56.1949333 27.35815 896.0 12"
+sleep 0.95
+echo "geo fix 56.1948667 27.3581667 897.0 12"
+sleep 0.95
+echo "geo fix 56.1947833 27.3582 898.0 12"
+sleep 0.95
+echo "geo fix 56.1947 27.35825 899.0 12"
+sleep 0.95
+echo "geo fix 56.1946167 27.3583 901.0 12"
+sleep 0.95
+echo "geo fix 56.1945667 27.3583833 906.0 12"
+sleep 0.95
+echo "geo fix 56.1945167 27.3584667 909.0 12"
+sleep 0.95
+echo "geo fix 56.1945 27.3585667 911.0 12"
+sleep 0.95
+echo "geo fix 56.1945167 27.35865 911.0 12"
+sleep 0.95
+echo "geo fix 56.1945833 27.35875 912.0 12"
+sleep 0.95
+echo "geo fix 56.19465 27.3588333 912.0 12"
+sleep 0.95
+echo "geo fix 56.19475 27.3589167 913.0 12"
+sleep 0.95
+echo "geo fix 56.19485 27.3589333 915.0 12"
+sleep 0.95
+echo "geo fix 56.1949667 27.3589333 916.0 12"
+sleep 0.95
+echo "geo fix 56.19505 27.3589167 918.0 12"
+sleep 0.95
+echo "geo fix 56.1951333 27.3588667 919.0 12"
+sleep 0.95
+echo "geo fix 56.1951833 27.3588 921.0 12"
+sleep 0.95
+echo "geo fix 56.1952167 27.35875 922.0 12"
+sleep 0.95
+echo "geo fix 56.1952 27.3586833 923.0 12"
+sleep 0.95
+echo "geo fix 56.1951833 27.3586333 923.0 12"
+sleep 0.95
+echo "geo fix 56.1951333 27.3585833 924.0 12"
+sleep 0.95
+echo "geo fix 56.19505 27.35855 924.0 12"
+sleep 0.95
+echo "geo fix 56.19495 27.3585333 924.0 12"
+sleep 0.95
+echo "geo fix 56.19485 27.35855 925.0 12"
+sleep 0.95
+echo "geo fix 56.19475 27.3585833 928.0 12"
+sleep 0.95
+echo "geo fix 56.1946833 27.3586333 932.0 12"
+sleep 0.95
+echo "geo fix 56.1946667 27.3587 935.0 12"
+sleep 0.95
+echo "geo fix 56.19465 27.3587833 937.0 12"
+sleep 0.95
+echo "geo fix 56.19465 27.3588667 939.0 12"
+sleep 0.95
+echo "geo fix 56.1946833 27.3589667 940.0 12"
+sleep 0.95
+echo "geo fix 56.1947333 27.35905 941.0 12"
+sleep 0.95
+echo "geo fix 56.1948333 27.3591333 942.0 12"
+sleep 0.95
+echo "geo fix 56.1949333 27.3591667 943.0 12"
+sleep 0.95
+echo "geo fix 56.1950667 27.3591667 944.0 12"
+sleep 0.95
+echo "geo fix 56.1951833 27.35915 945.0 12"
+sleep 0.95
+echo "geo fix 56.1952833 27.3591 947.0 12"
+sleep 0.95
+echo "geo fix 56.1953333 27.3590333 950.0 12"
+sleep 0.95
+echo "geo fix 56.19535 27.3589833 951.0 12"
+sleep 0.95
+echo "geo fix 56.19535 27.3589167 952.0 12"
+sleep 0.95
+echo "geo fix 56.1953167 27.3588667 952.0 12"
+sleep 0.95
+echo "geo fix 56.1952667 27.3588167 951.0 12"
+sleep 0.95
+echo "geo fix 56.1952 27.35875 951.0 12"
+sleep 0.95
+echo "geo fix 56.1951167 27.3587 951.0 12"
+sleep 0.95
+echo "geo fix 56.1950333 27.35865 951.0 12"
+sleep 0.95
+echo "geo fix 56.1949667 27.3586167 952.0 12"
+sleep 0.95
+echo "geo fix 56.1949 27.3585833 953.0 12"
+sleep 0.95
+echo "geo fix 56.1948167 27.3585667 952.0 12"
+sleep 0.95
+echo "geo fix 56.1947333 27.3585667 950.0 12"
+sleep 0.95
+echo "geo fix 56.1946333 27.3585833 950.0 12"
+sleep 0.95
+echo "geo fix 56.1945333 27.3586 950.0 12"
+sleep 0.95
+echo "geo fix 56.19445 27.3586167 950.0 12"
+sleep 0.95
+echo "geo fix 56.1943667 27.35865 950.0 12"
+sleep 0.95
+echo "geo fix 56.1942833 27.3586833 949.0 12"
+sleep 0.95
+echo "geo fix 56.1942 27.35875 949.0 12"
+sleep 0.95
+echo "geo fix 56.1941 27.3588167 949.0 12"
+sleep 0.95
+echo "geo fix 56.194 27.3588833 948.0 12"
+sleep 0.95
+echo "geo fix 56.1939167 27.3589333 948.0 12"
+sleep 0.95
+echo "geo fix 56.19385 27.3589833 948.0 12"
+sleep 0.95
+echo "geo fix 56.1937667 27.35905 947.0 12"
+sleep 0.95
+echo "geo fix 56.1937 27.3591167 947.0 12"
+sleep 0.95
+echo "geo fix 56.1936167 27.3591833 947.0 12"
+sleep 0.95
+echo "geo fix 56.1935333 27.3592667 948.0 12"
+sleep 0.95
+echo "geo fix 56.19345 27.3593167 949.0 12"
+sleep 0.95
+echo "geo fix 56.1933667 27.3593833 951.0 12"
+sleep 0.95
+echo "geo fix 56.1932667 27.35945 952.0 12"
+sleep 0.95
+echo "geo fix 56.1931833 27.3595 954.0 12"
+sleep 0.95
+echo "geo fix 56.1930833 27.35955 956.0 12"
+sleep 0.95
+echo "geo fix 56.1929833 27.3595833 959.0 12"
+sleep 0.95
+echo "geo fix 56.1929 27.3596167 962.0 12"
+sleep 0.95
+echo "geo fix 56.1928167 27.35965 965.0 12"
+sleep 0.95
+echo "geo fix 56.1927333 27.3596667 966.0 12"
+sleep 0.95
+echo "geo fix 56.19265 27.3596833 966.0 12"
+sleep 0.95
+echo "geo fix 56.19255 27.3596833 966.0 12"
+sleep 0.95
+echo "geo fix 56.19245 27.3596667 966.0 12"
+sleep 0.95
+echo "geo fix 56.19235 27.35965 967.0 12"
+sleep 0.95
+echo "geo fix 56.1922833 27.3596333 967.0 12"
+sleep 0.95
+echo "geo fix 56.1922 27.3596 968.0 12"
+sleep 0.95
+echo "geo fix 56.1921333 27.3595667 968.0 12"
+sleep 0.95
+echo "geo fix 56.1920667 27.3595167 969.0 12"
+sleep 0.95
+echo "geo fix 56.1920167 27.3595 971.0 12"
+sleep 0.95
+echo "geo fix 56.1919667 27.3594667 972.0 12"
+sleep 0.95
+echo "geo fix 56.1919 27.35945 972.0 12"
+sleep 0.95
+echo "geo fix 56.1918167 27.3594333 972.0 12"
+sleep 0.95
+echo "geo fix 56.1917 27.3594667 972.0 12"
+sleep 0.95
+echo "geo fix 56.1916 27.3595167 973.0 12"
+sleep 0.95
+echo "geo fix 56.1915333 27.3596167 973.0 12"
+sleep 0.95
+echo "geo fix 56.1915 27.3597333 973.0 12"
+sleep 0.95
+echo "geo fix 56.1915 27.35985 973.0 12"
+sleep 0.95
+echo "geo fix 56.19155 27.35995 973.0 12"
+sleep 0.95
+echo "geo fix 56.1916167 27.36005 973.0 12"
+sleep 0.95
+echo "geo fix 56.1917 27.3601167 974.0 12"
+sleep 0.95
+echo "geo fix 56.1918 27.3601667 976.0 12"
+sleep 0.95
+echo "geo fix 56.1918667 27.3601833 978.0 12"
+sleep 0.95
+echo "geo fix 56.1919333 27.3601667 979.0 12"
+sleep 0.95
+echo "geo fix 56.192 27.3601333 980.0 12"
+sleep 0.95
+echo "geo fix 56.1920333 27.3601 980.0 12"
+sleep 0.95
+echo "geo fix 56.19205 27.3600667 981.0 12"
+sleep 0.95
+echo "geo fix 56.19205 27.3600167 981.0 12"
+sleep 0.95
+echo "geo fix 56.1920333 27.3599667 981.0 12"
+sleep 0.95
+echo "geo fix 56.192 27.3599167 981.0 12"
+sleep 0.95
+echo "geo fix 56.1919333 27.3598833 980.0 12"
+sleep 0.95
+echo "geo fix 56.1918333 27.3598667 980.0 12"
+sleep 0.95
+echo "geo fix 56.19175 27.35985 980.0 12"
+sleep 0.95
+echo "geo fix 56.1916333 27.3598833 981.0 12"
+sleep 0.95
+echo "geo fix 56.1915333 27.3599167 983.0 12"
+sleep 0.95
+echo "geo fix 56.19145 27.3599667 983.0 12"
+sleep 0.95
+echo "geo fix 56.1913667 27.36005 984.0 12"
+sleep 0.95
+echo "geo fix 56.1913167 27.3601333 983.0 12"
+sleep 0.95
+echo "geo fix 56.1912833 27.3602333 983.0 12"
+sleep 0.95
+echo "geo fix 56.1912833 27.36035 983.0 12"
+sleep 0.95
+echo "geo fix 56.1913 27.36045 984.0 12"
+sleep 0.95
+echo "geo fix 56.1913333 27.3605333 984.0 12"
+sleep 0.95
+echo "geo fix 56.1913667 27.3606167 984.0 12"
+sleep 0.95
+echo "geo fix 56.1914333 27.3607167 983.0 12"
+sleep 0.95
+echo "geo fix 56.1915167 27.3607833 983.0 12"
+sleep 0.95
+echo "geo fix 56.1916 27.3608167 983.0 12"
+sleep 0.95
+echo "geo fix 56.1916833 27.3608167 983.0 12"
+sleep 0.95
+echo "geo fix 56.19175 27.3607833 984.0 12"
+sleep 0.95
+echo "geo fix 56.1917833 27.3607333 983.0 12"
+sleep 0.95
+echo "geo fix 56.1917833 27.36065 984.0 12"
+sleep 0.95
+echo "geo fix 56.1917667 27.3605833 985.0 12"
+sleep 0.95
+echo "geo fix 56.1917167 27.3605333 987.0 12"
+sleep 0.95
+echo "geo fix 56.1916667 27.3605 988.0 12"
+sleep 0.95
+echo "geo fix 56.1916167 27.3604667 988.0 12"
+sleep 0.95
+echo "geo fix 56.19155 27.3604167 989.0 12"
+sleep 0.95
+echo "geo fix 56.1914833 27.3603667 989.0 12"
+sleep 0.95
+echo "geo fix 56.1914167 27.3603167 990.0 12"
+sleep 0.95
+echo "geo fix 56.19135 27.3602667 990.0 12"
+sleep 0.95
+echo "geo fix 56.1912833 27.3602333 991.0 12"
+sleep 0.95
+echo "geo fix 56.1912167 27.3602167 991.0 12"
+sleep 0.95
+echo "geo fix 56.1911833 27.3601833 990.0 12"
+sleep 0.95
+echo "geo fix 56.1911333 27.3601333 989.0 12"
+sleep 0.95
+echo "geo fix 56.1910667 27.3601 988.0 12"
+sleep 0.95
+echo "geo fix 56.191 27.3600333 988.0 12"
+sleep 0.95
+echo "geo fix 56.1909333 27.3599833 988.0 12"
+sleep 0.95
+echo "geo fix 56.1908833 27.3599167 990.0 12"
+sleep 0.95
+echo "geo fix 56.1908333 27.3598667 990.0 12"
+sleep 0.95
+echo "geo fix 56.1908 27.3598167 990.0 12"
+sleep 0.95
+echo "geo fix 56.19075 27.3597667 989.0 12"
+sleep 0.95
+echo "geo fix 56.1907 27.3597 988.0 12"
+sleep 0.95
+echo "geo fix 56.19065 27.3596333 987.0 12"
+sleep 0.95
+echo "geo fix 56.1905833 27.3595667 987.0 12"
+sleep 0.95
+echo "geo fix 56.1905333 27.3595 988.0 12"
+sleep 0.95
+echo "geo fix 56.1904833 27.3594333 988.0 12"
+sleep 0.95
+echo "geo fix 56.1904333 27.3593833 988.0 12"
+sleep 0.95
+echo "geo fix 56.1903667 27.3593333 988.0 12"
+sleep 0.95
+echo "geo fix 56.1902833 27.3592833 988.0 12"
+sleep 0.95
+echo "geo fix 56.1902 27.35925 987.0 12"
+sleep 0.95
+echo "geo fix 56.1901167 27.3592167 988.0 12"
+sleep 0.95
+echo "geo fix 56.1900333 27.3591833 988.0 12"
+sleep 0.95
+echo "geo fix 56.18995 27.35915 989.0 12"
+sleep 0.95
+echo "geo fix 56.1898833 27.3591 989.0 12"
+sleep 0.95
+echo "geo fix 56.1898167 27.3590667 989.0 12"
+sleep 0.95
+echo "geo fix 56.18975 27.3590167 989.0 12"
+sleep 0.95
+echo "geo fix 56.1897 27.35895 989.0 12"
+sleep 0.95
+echo "geo fix 56.18965 27.3588833 989.0 12"
+sleep 0.95
+echo "geo fix 56.1896 27.3588333 989.0 12"
+sleep 0.95
+echo "geo fix 56.18955 27.3587667 989.0 12"
+sleep 0.95
+echo "geo fix 56.1895 27.3587167 989.0 12"
+sleep 0.95
+echo "geo fix 56.1894333 27.3586667 988.0 12"
+sleep 0.95
+echo "geo fix 56.18935 27.3586333 988.0 12"
+sleep 0.95
+echo "geo fix 56.1892667 27.3586 987.0 12"
+sleep 0.95
+echo "geo fix 56.1891667 27.3585833 988.0 12"
+sleep 0.95
+echo "geo fix 56.1890833 27.35855 988.0 12"
+sleep 0.95
+echo "geo fix 56.1889833 27.3585333 989.0 12"
+sleep 0.95
+echo "geo fix 56.1889 27.3585333 989.0 12"
+sleep 0.95
+echo "geo fix 56.1888167 27.3585167 988.0 12"
+sleep 0.95
+echo "geo fix 56.1887333 27.3584833 988.0 12"
+sleep 0.95
+echo "geo fix 56.1886333 27.35845 989.0 12"
+sleep 0.95
+echo "geo fix 56.1885667 27.3584167 988.0 12"
+sleep 0.95
+echo "geo fix 56.1884833 27.3583833 989.0 12"
+sleep 0.95
+echo "geo fix 56.1883833 27.3583667 988.0 12"
+sleep 0.95
+echo "geo fix 56.1883 27.3583333 988.0 12"
+sleep 0.95
+echo "geo fix 56.1882 27.3583 988.0 12"
+sleep 0.95
+echo "geo fix 56.1881167 27.3582667 988.0 12"
+sleep 0.95
+echo "geo fix 56.18805 27.3582167 988.0 12"
+sleep 0.95
+echo "geo fix 56.1879833 27.3581833 988.0 12"
+sleep 0.95
+echo "geo fix 56.1879 27.35815 986.0 12"
+sleep 0.95
+echo "geo fix 56.1878167 27.3581167 984.0 12"
+sleep 0.95
+echo "geo fix 56.1877167 27.3580833 981.0 12"
+sleep 0.95
+echo "geo fix 56.1876167 27.35805 979.0 12"
+sleep 0.95
+echo "geo fix 56.1875167 27.358 977.0 12"
+sleep 0.95
+echo "geo fix 56.1874167 27.35795 975.0 12"
+sleep 0.95
+echo "geo fix 56.1873167 27.3579167 975.0 12"
+sleep 0.95
+echo "geo fix 56.1872167 27.3578667 975.0 12"
+sleep 0.95
+echo "geo fix 56.1871167 27.3578333 975.0 12"
+sleep 0.95
+echo "geo fix 56.1870333 27.3578 974.0 12"
+sleep 0.95
+echo "geo fix 56.18695 27.35775 973.0 12"
+sleep 0.95
+echo "geo fix 56.18685 27.3577 972.0 12"
+sleep 0.95
+echo "geo fix 56.18675 27.35765 971.0 12"
+sleep 0.95
+echo "geo fix 56.18665 27.3576 971.0 12"
+sleep 0.95
+echo "geo fix 56.1865833 27.3575333 971.0 12"
+sleep 0.95
+echo "geo fix 56.1865 27.3574667 971.0 12"
+sleep 0.95
+echo "geo fix 56.1864333 27.3574167 971.0 12"
+sleep 0.95
+echo "geo fix 56.1863667 27.35735 969.0 12"
+sleep 0.95
+echo "geo fix 56.1863 27.3573 967.0 12"
+sleep 0.95
+echo "geo fix 56.1862333 27.3572167 964.0 12"
+sleep 0.95
+echo "geo fix 56.18615 27.35715 962.0 12"
+sleep 0.95
+echo "geo fix 56.1860667 27.3570833 962.0 12"
+sleep 0.95
+echo "geo fix 56.186 27.3570167 961.0 12"
+sleep 0.95
+echo "geo fix 56.1859333 27.3569667 961.0 12"
+sleep 0.95
+echo "geo fix 56.1858667 27.3569167 959.0 12"
+sleep 0.95
+echo "geo fix 56.1857833 27.3568667 957.0 12"
+sleep 0.95
+echo "geo fix 56.1857 27.3567833 957.0 12"
+sleep 0.95
+echo "geo fix 56.1856167 27.3567167 956.0 12"
+sleep 0.95
+echo "geo fix 56.1855667 27.3566333 956.0 12"
+sleep 0.95
+echo "geo fix 56.1855 27.3565667 956.0 12"
+sleep 0.95
+echo "geo fix 56.18545 27.3565167 955.0 12"
+sleep 0.95
+echo "geo fix 56.1854 27.35645 952.0 12"
+sleep 0.95
+echo "geo fix 56.1853333 27.3563833 949.0 12"
+sleep 0.95
+echo "geo fix 56.1852833 27.3563 946.0 12"
+sleep 0.95
+echo "geo fix 56.1852167 27.3562167 944.0 12"
+sleep 0.95
+echo "geo fix 56.18515 27.35615 944.0 12"
+sleep 0.95
+echo "geo fix 56.1851 27.3560833 943.0 12"
+sleep 0.95
+echo "geo fix 56.18505 27.3560167 941.0 12"
+sleep 0.95
+echo "geo fix 56.1849833 27.35595 939.0 12"
+sleep 0.95
+echo "geo fix 56.1849167 27.3558833 936.0 12"
+sleep 0.95
+echo "geo fix 56.1848333 27.3558167 933.0 12"
+sleep 0.95
+echo "geo fix 56.18475 27.35575 931.0 12"
+sleep 0.95
+echo "geo fix 56.1846667 27.3556833 930.0 12"
+sleep 0.95
+echo "geo fix 56.1845833 27.3556333 929.0 12"
+sleep 0.95
+echo "geo fix 56.1845 27.3555833 927.0 12"
+sleep 0.95
+echo "geo fix 56.1844167 27.3555333 925.0 12"
+sleep 0.95
+echo "geo fix 56.1843333 27.3554833 923.0 12"
+sleep 0.95
+echo "geo fix 56.1842333 27.3554333 921.0 12"
+sleep 0.95
+echo "geo fix 56.1841333 27.3553833 919.0 12"
+sleep 0.95
+echo "geo fix 56.1840333 27.3553167 918.0 12"
+sleep 0.95
+echo "geo fix 56.1839333 27.3552833 916.0 12"
+sleep 0.95
+echo "geo fix 56.1838333 27.3552333 915.0 12"
+sleep 0.95
+echo "geo fix 56.1837333 27.3551833 914.0 12"
+sleep 0.95
+echo "geo fix 56.1836333 27.35515 912.0 12"
+sleep 0.95
+echo "geo fix 56.1835333 27.3551 911.0 12"
+sleep 0.95
+echo "geo fix 56.1834167 27.3550667 911.0 12"
+sleep 0.95
+echo "geo fix 56.1833167 27.3550333 910.0 12"
+sleep 0.95
+echo "geo fix 56.1832167 27.355 909.0 12"
+sleep 0.95
+echo "geo fix 56.1831333 27.3549667 908.0 12"
+sleep 0.95
+echo "geo fix 56.1830333 27.3549167 907.0 12"
+sleep 0.95
+echo "geo fix 56.18295 27.3548833 906.0 12"
+sleep 0.95
+echo "geo fix 56.18285 27.3548167 905.0 12"
+sleep 0.95
+echo "geo fix 56.1827833 27.35475 905.0 12"
+sleep 0.95
+echo "geo fix 56.1827 27.3547 904.0 12"
+sleep 0.95
+echo "geo fix 56.1826333 27.3546333 903.0 12"
+sleep 0.95
+echo "geo fix 56.1825333 27.3545667 902.0 12"
+sleep 0.95
+echo "geo fix 56.18245 27.3545167 900.0 12"
+sleep 0.95
+echo "geo fix 56.1823667 27.35445 898.0 12"
+sleep 0.95
+echo "geo fix 56.1822667 27.3543833 897.0 12"
+sleep 0.95
+echo "geo fix 56.1822 27.3543333 897.0 12"
+sleep 0.95
+echo "geo fix 56.1821167 27.3542667 896.0 12"
+sleep 0.95
+echo "geo fix 56.1820333 27.3542167 895.0 12"
+sleep 0.95
+echo "geo fix 56.1819667 27.3541667 893.0 12"
+sleep 0.95
+echo "geo fix 56.1818833 27.3541167 891.0 12"
+sleep 0.95
+echo "geo fix 56.1817833 27.3540667 890.0 12"
+sleep 0.95
+echo "geo fix 56.1817 27.354 889.0 12"
+sleep 0.95
+echo "geo fix 56.1816 27.3539333 887.0 12"
+sleep 0.95
+echo "geo fix 56.1815167 27.3538667 885.0 12"
+sleep 0.95
+echo "geo fix 56.1814167 27.3538 883.0 12"
+sleep 0.95
+echo "geo fix 56.1813167 27.35375 882.0 12"
+sleep 0.95
+echo "geo fix 56.1812167 27.3536833 881.0 12"
+sleep 0.95
+echo "geo fix 56.1811167 27.3536167 880.0 12"
+sleep 0.95
+echo "geo fix 56.1810167 27.35355 878.0 12"
+sleep 0.95
+echo "geo fix 56.1809167 27.3535 876.0 12"
+sleep 0.95
+echo "geo fix 56.1808167 27.3534333 875.0 12"
+sleep 0.95
+echo "geo fix 56.1807167 27.3533667 874.0 12"
+sleep 0.95
+echo "geo fix 56.1806167 27.3533167 873.0 12"
+sleep 0.95
+echo "geo fix 56.1805 27.35325 872.0 12"
+sleep 0.95
+echo "geo fix 56.1804 27.3532 871.0 12"
+sleep 0.95
+echo "geo fix 56.1803 27.3531333 870.0 12"
+sleep 0.95
+echo "geo fix 56.1802 27.3530833 868.0 12"
+sleep 0.95
+echo "geo fix 56.1801 27.3530333 867.0 12"
+sleep 0.95
+echo "geo fix 56.18 27.3529667 865.0 12"
+sleep 0.95
+echo "geo fix 56.1799 27.3529167 863.0 12"
+sleep 0.95
+echo "geo fix 56.1798 27.35285 861.0 12"
+sleep 0.95
+echo "geo fix 56.1797 27.3528 859.0 12"
+sleep 0.95
+echo "geo fix 56.1796167 27.3527333 856.0 12"
+sleep 0.95
+echo "geo fix 56.1795167 27.3526667 854.0 12"
+sleep 0.95
+echo "geo fix 56.1794167 27.3526 852.0 12"
+sleep 0.95
+echo "geo fix 56.1793333 27.3525333 851.0 12"
+sleep 0.95
+echo "geo fix 56.1792333 27.3524667 849.0 12"
+sleep 0.95
+echo "geo fix 56.17915 27.3524167 847.0 12"
+sleep 0.95
+echo "geo fix 56.17905 27.35235 845.0 12"
+sleep 0.95
+echo "geo fix 56.17895 27.3523 842.0 12"
+sleep 0.95
+echo "geo fix 56.17885 27.3522333 840.0 12"
+sleep 0.95
+echo "geo fix 56.17875 27.3521667 837.0 12"
+sleep 0.95
+echo "geo fix 56.17865 27.3521 835.0 12"
+sleep 0.95
+echo "geo fix 56.17855 27.3520333 833.0 12"
+sleep 0.95
+echo "geo fix 56.17845 27.3519667 832.0 12"
+sleep 0.95
+echo "geo fix 56.17835 27.3519 831.0 12"
+sleep 0.95
+echo "geo fix 56.1782667 27.3518333 830.0 12"
+sleep 0.95
+echo "geo fix 56.1781833 27.3517667 829.0 12"
+sleep 0.95
+echo "geo fix 56.1781 27.3517 828.0 12"
+sleep 0.95
+echo "geo fix 56.1780167 27.3516333 827.0 12"
+sleep 0.95
+echo "geo fix 56.17795 27.3515667 825.0 12"
+sleep 0.95
+echo "geo fix 56.1778667 27.3515 823.0 12"
+sleep 0.95
+echo "geo fix 56.1778 27.3514333 823.0 12"
+sleep 0.95
+echo "geo fix 56.1777333 27.3513667 822.0 12"
+sleep 0.95
+echo "geo fix 56.1776833 27.3512833 821.0 12"
+sleep 0.95
+echo "geo fix 56.1776167 27.3512 821.0 12"
+sleep 0.95
+echo "geo fix 56.17755 27.3511333 819.0 12"
+sleep 0.95
+echo "geo fix 56.1774833 27.3510667 819.0 12"
+sleep 0.95
+echo "geo fix 56.1774167 27.3510167 818.0 12"
+sleep 0.95
+echo "geo fix 56.17735 27.3509667 818.0 12"
+sleep 0.95
+echo "geo fix 56.1772833 27.35095 818.0 12"
+sleep 0.95
+echo "geo fix 56.1772167 27.3509333 818.0 12"
+sleep 0.95
+echo "geo fix 56.17715 27.3509333 816.0 12"
+sleep 0.95
+echo "geo fix 56.1770833 27.3509167 814.0 12"
+sleep 0.95
+echo "geo fix 56.1770167 27.3508833 813.0 12"
+sleep 0.95
+echo "geo fix 56.1769333 27.35085 812.0 12"
+sleep 0.95
+echo "geo fix 56.1768667 27.3508333 812.0 12"
+sleep 0.95
+echo "geo fix 56.1768 27.3508167 812.0 12"
+sleep 0.95
+echo "geo fix 56.17675 27.3508 812.0 12"
+sleep 0.95
+echo "geo fix 56.1767 27.3507833 811.0 12"
+sleep 0.95
+echo "geo fix 56.17665 27.35075 809.0 12"
+sleep 0.95
+echo "geo fix 56.1765833 27.3507167 807.0 12"
+sleep 0.95
+echo "geo fix 56.1765 27.3506833 806.0 12"
+sleep 0.95
+echo "geo fix 56.1764167 27.3506333 807.0 12"
+sleep 0.95
+echo "geo fix 56.17635 27.3506167 808.0 12"
+sleep 0.95
+echo "geo fix 56.1763 27.3505833 809.0 12"
+sleep 0.95
+echo "geo fix 56.1762667 27.35055 809.0 12"
+sleep 0.95
+echo "geo fix 56.1762333 27.3505 809.0 12"
+sleep 0.95
+echo "geo fix 56.1761833 27.35045 809.0 12"
+sleep 0.95
+echo "geo fix 56.1761333 27.3504 809.0 12"
+sleep 0.95
+echo "geo fix 56.1760833 27.3503667 809.0 12"
+sleep 0.95
+echo "geo fix 56.1760167 27.3503167 810.0 12"
+sleep 0.95
+echo "geo fix 56.17595 27.3502667 810.0 12"
+sleep 0.95
+echo "geo fix 56.1759167 27.3502333 811.0 12"
+sleep 0.95
+echo "geo fix 56.1758833 27.3501833 812.0 12"
+sleep 0.95
+echo "geo fix 56.17585 27.35015 812.0 12"
+sleep 0.95
+echo "geo fix 56.1758 27.3500833 813.0 12"
+sleep 0.95
+echo "geo fix 56.1757667 27.3500333 813.0 12"
+sleep 0.95
+echo "geo fix 56.1757167 27.3499667 813.0 12"
+sleep 0.95
+echo "geo fix 56.1756667 27.3499 813.0 12"
+sleep 0.95
+echo "geo fix 56.1756167 27.3498333 815.0 12"
+sleep 0.95
+echo "geo fix 56.1755833 27.3497833 817.0 12"
+sleep 0.95
+echo "geo fix 56.1755333 27.3497333 818.0 12"
+sleep 0.95
+echo "geo fix 56.1755 27.3496833 818.0 12"
+sleep 0.95
+echo "geo fix 56.17545 27.3496167 818.0 12"
+sleep 0.95
+echo "geo fix 56.1754167 27.3495667 818.0 12"
+sleep 0.95
+echo "geo fix 56.1753667 27.3495 819.0 12"
+sleep 0.95
+echo "geo fix 56.1753333 27.34945 821.0 12"
+sleep 0.95
+echo "geo fix 56.1753 27.3493833 823.0 12"
+sleep 0.95
+echo "geo fix 56.1753 27.3493333 824.0 12"
+sleep 0.95
+echo "geo fix 56.1753167 27.3492833 825.0 12"
+sleep 0.95
+echo "geo fix 56.1753667 27.34925 826.0 12"
+sleep 0.95
+echo "geo fix 56.1754333 27.3492167 827.0 12"
+sleep 0.95
+echo "geo fix 56.1755167 27.3492167 828.0 12"
+sleep 0.95
+echo "geo fix 56.1755833 27.3492667 829.0 12"
+sleep 0.95
+echo "geo fix 56.1756667 27.34935 829.0 12"
+sleep 0.95
+echo "geo fix 56.1756833 27.3494833 830.0 12"
+sleep 0.95
+echo "geo fix 56.17565 27.3496 832.0 12"
+sleep 0.95
+echo "geo fix 56.1755833 27.3497 832.0 12"
+sleep 0.95
+echo "geo fix 56.1754667 27.34975 833.0 12"
+sleep 0.95
+echo "geo fix 56.17535 27.3497667 834.0 12"
+sleep 0.95
+echo "geo fix 56.1752333 27.34975 835.0 12"
+sleep 0.95
+echo "geo fix 56.17515 27.3497167 838.0 12"
+sleep 0.95
+echo "geo fix 56.1750667 27.3496833 841.0 12"
+sleep 0.95
+echo "geo fix 56.175 27.3496667 843.0 12"
+sleep 0.95
+echo "geo fix 56.1749333 27.3496333 844.0 12"
+sleep 0.95
+echo "geo fix 56.1748667 27.3495833 844.0 12"
+sleep 0.95
+echo "geo fix 56.17485 27.3495 844.0 12"
+sleep 0.95
+echo "geo fix 56.17485 27.3494333 845.0 12"
+sleep 0.95
+echo "geo fix 56.1749 27.3493667 847.0 12"
+sleep 0.95
+echo "geo fix 56.1749833 27.3493333 850.0 12"
+sleep 0.95
+echo "geo fix 56.1750667 27.3493333 852.0 12"
+sleep 0.95
+echo "geo fix 56.17515 27.3493833 854.0 12"
+sleep 0.95
+echo "geo fix 56.1752333 27.34945 856.0 12"
+sleep 0.95
+echo "geo fix 56.17525 27.34955 858.0 12"
+sleep 0.95
+echo "geo fix 56.1752333 27.34965 859.0 12"
+sleep 0.95
+echo "geo fix 56.1751833 27.3497667 860.0 12"
+sleep 0.95
+echo "geo fix 56.1751 27.34985 862.0 12"
+sleep 0.95
+echo "geo fix 56.1750167 27.3499 863.0 12"
+sleep 0.95
+echo "geo fix 56.1749 27.3499333 865.0 12"
+sleep 0.95
+echo "geo fix 56.1747833 27.3499 866.0 12"
+sleep 0.95
+echo "geo fix 56.1747 27.3498667 868.0 12"
+sleep 0.95
+echo "geo fix 56.1746333 27.3498 871.0 12"
+sleep 0.95
+echo "geo fix 56.1746 27.3497333 872.0 12"
+sleep 0.95
+echo "geo fix 56.1746 27.34965 874.0 12"
+sleep 0.95
+echo "geo fix 56.1746167 27.3495833 876.0 12"
+sleep 0.95
+echo "geo fix 56.1746667 27.3495167 879.0 12"
+sleep 0.95
+echo "geo fix 56.17475 27.3494833 881.0 12"
+sleep 0.95
+echo "geo fix 56.17485 27.3495 882.0 12"
+sleep 0.95
+echo "geo fix 56.1749333 27.34955 883.0 12"
+sleep 0.95
+echo "geo fix 56.1749833 27.34965 884.0 12"
+sleep 0.95
+echo "geo fix 56.1749833 27.34975 886.0 12"
+sleep 0.95
+echo "geo fix 56.17495 27.34985 887.0 12"
+sleep 0.95
+echo "geo fix 56.1748833 27.34995 890.0 12"
+sleep 0.95
+echo "geo fix 56.1747667 27.35 891.0 12"
+sleep 0.95
+echo "geo fix 56.17465 27.3500167 893.0 12"
+sleep 0.95
+echo "geo fix 56.17455 27.35 896.0 12"
+sleep 0.95
+echo "geo fix 56.17445 27.3499667 899.0 12"
+sleep 0.95
+echo "geo fix 56.1743667 27.3499333 903.0 12"
+sleep 0.95
+echo "geo fix 56.1742833 27.3499 905.0 12"
+sleep 0.95
+echo "geo fix 56.1742167 27.3498667 906.0 12"
+sleep 0.95
+echo "geo fix 56.1741333 27.3498167 908.0 12"
+sleep 0.95
+echo "geo fix 56.17405 27.3497667 908.0 12"
+sleep 0.95
+echo "geo fix 56.174 27.3497 909.0 12"
+sleep 0.95
+echo "geo fix 56.174 27.3496167 911.0 12"
+sleep 0.95
+echo "geo fix 56.1740167 27.34955 912.0 12"
+sleep 0.95
+echo "geo fix 56.1740833 27.3494833 912.0 12"
+sleep 0.95
+echo "geo fix 56.17415 27.34945 914.0 12"
+sleep 0.95
+echo "geo fix 56.1742333 27.3494667 915.0 12"
+sleep 0.95
+echo "geo fix 56.1742833 27.3495167 916.0 12"
+sleep 0.95
+echo "geo fix 56.1743333 27.3495833 916.0 12"
+sleep 0.95
+echo "geo fix 56.1743667 27.34965 916.0 12"
+sleep 0.95
+echo "geo fix 56.1743833 27.3497333 917.0 12"
+sleep 0.95
+echo "geo fix 56.1743833 27.3498167 917.0 12"
+sleep 0.95
+echo "geo fix 56.17435 27.3499 917.0 12"
+sleep 0.95
+echo "geo fix 56.1743167 27.35 917.0 12"
+sleep 0.95
+echo "geo fix 56.1742333 27.3501 917.0 12"
+sleep 0.95
+echo "geo fix 56.1741333 27.3501667 919.0 12"
+sleep 0.95
+echo "geo fix 56.1740333 27.3502167 922.0 12"
+sleep 0.95
+echo "geo fix 56.1739333 27.35025 926.0 12"
+sleep 0.95
+echo "geo fix 56.1738333 27.35025 929.0 12"
+sleep 0.95
+echo "geo fix 56.1737333 27.3502333 930.0 12"
+sleep 0.95
+echo "geo fix 56.1736333 27.3502167 931.0 12"
+sleep 0.95
+echo "geo fix 56.1735333 27.3502 933.0 12"
+sleep 0.95
+echo "geo fix 56.1734333 27.3501667 935.0 12"
+sleep 0.95
+echo "geo fix 56.1733333 27.3501333 936.0 12"
+sleep 0.95
+echo "geo fix 56.1732333 27.3501 937.0 12"
+sleep 0.95
+echo "geo fix 56.1731167 27.35005 937.0 12"
+sleep 0.95
+echo "geo fix 56.173 27.35 938.0 12"
+sleep 0.95
+echo "geo fix 56.1728833 27.34995 939.0 12"
+sleep 0.95
+echo "geo fix 56.1728 27.3499 941.0 12"
+sleep 0.95
+echo "geo fix 56.1727167 27.34985 941.0 12"
+sleep 0.95
+echo "geo fix 56.1726167 27.3498167 941.0 12"
+sleep 0.95
+echo "geo fix 56.1725167 27.3497667 941.0 12"
+sleep 0.95
+echo "geo fix 56.1724 27.3497167 940.0 12"
+sleep 0.95
+echo "geo fix 56.1723 27.3496667 940.0 12"
+sleep 0.95
+echo "geo fix 56.1722167 27.3496167 939.0 12"
+sleep 0.95
+echo "geo fix 56.1721 27.3495833 938.0 12"
+sleep 0.95
+echo "geo fix 56.172 27.3495333 936.0 12"
+sleep 0.95
+echo "geo fix 56.1719 27.3494833 935.0 12"
+sleep 0.95
+echo "geo fix 56.1718 27.34945 935.0 12"
+sleep 0.95
+echo "geo fix 56.1717 27.3494 933.0 12"
+sleep 0.95
+echo "geo fix 56.1715833 27.34935 930.0 12"
+sleep 0.95
+echo "geo fix 56.17145 27.3492833 926.0 12"
+sleep 0.95
+echo "geo fix 56.1713167 27.3492167 924.0 12"
+sleep 0.95
+echo "geo fix 56.1711833 27.34915 923.0 12"
+sleep 0.95
+echo "geo fix 56.17105 27.3490833 923.0 12"
+sleep 0.95
+echo "geo fix 56.17095 27.3490167 923.0 12"
+sleep 0.95
+echo "geo fix 56.1708333 27.34895 922.0 12"
+sleep 0.95
+echo "geo fix 56.1707167 27.3489 921.0 12"
+sleep 0.95
+echo "geo fix 56.1706 27.3488333 918.0 12"
+sleep 0.95
+echo "geo fix 56.1704833 27.3487833 915.0 12"
+sleep 0.95
+echo "geo fix 56.17035 27.3487167 913.0 12"
+sleep 0.95
+echo "geo fix 56.1702333 27.34865 911.0 12"
+sleep 0.95
+echo "geo fix 56.1701333 27.3485833 910.0 12"
+sleep 0.95
+echo "geo fix 56.1700333 27.3485167 909.0 12"
+sleep 0.95
+echo "geo fix 56.16995 27.3484333 908.0 12"
+sleep 0.95
+echo "geo fix 56.1698667 27.3483833 905.0 12"
+sleep 0.95
+echo "geo fix 56.1697667 27.3483167 902.0 12"
+sleep 0.95
+echo "geo fix 56.1696667 27.3482667 897.0 12"
+sleep 0.95
+echo "geo fix 56.16955 27.3482 893.0 12"
+sleep 0.95
+echo "geo fix 56.1694167 27.34815 890.0 12"
+sleep 0.95
+echo "geo fix 56.1692667 27.3480833 888.0 12"
+sleep 0.95
+echo "geo fix 56.1691167 27.348 887.0 12"
+sleep 0.95
+echo "geo fix 56.1689667 27.3479333 887.0 12"
+sleep 0.95
+echo "geo fix 56.16885 27.3478667 887.0 12"
+sleep 0.95
+echo "geo fix 56.16875 27.3478167 888.0 12"
+sleep 0.95
+echo "geo fix 56.16865 27.3477667 889.0 12"
+sleep 0.95
+echo "geo fix 56.16855 27.3477167 889.0 12"
+sleep 0.95
+echo "geo fix 56.16845 27.3476667 888.0 12"
+sleep 0.95
+echo "geo fix 56.16835 27.3476167 887.0 12"
+sleep 0.95
+echo "geo fix 56.16825 27.34755 885.0 12"
+sleep 0.95
+echo "geo fix 56.1681333 27.3474833 883.0 12"
+sleep 0.95
+echo "geo fix 56.1680167 27.3474167 883.0 12"
+sleep 0.95
+echo "geo fix 56.1679 27.3473667 882.0 12"
+sleep 0.95
+echo "geo fix 56.1678 27.3473 881.0 12"
+sleep 0.95
+echo "geo fix 56.1677 27.34725 880.0 12"
+sleep 0.95
+echo "geo fix 56.1675833 27.3471833 878.0 12"
+sleep 0.95
+echo "geo fix 56.1674833 27.3471333 876.0 12"
+sleep 0.95
+echo "geo fix 56.16735 27.3470833 876.0 12"
+sleep 0.95
+echo "geo fix 56.16725 27.3470333 877.0 12"
+sleep 0.95
+echo "geo fix 56.1671333 27.3469833 878.0 12"
+sleep 0.95
+echo "geo fix 56.16705 27.34695 878.0 12"
+sleep 0.95
+echo "geo fix 56.16695 27.3469 877.0 12"
+sleep 0.95
+echo "geo fix 56.1668333 27.34685 876.0 12"
+sleep 0.95
+echo "geo fix 56.1667333 27.3467833 874.0 12"
+sleep 0.95
+echo "geo fix 56.1666167 27.3467167 874.0 12"
+sleep 0.95
+echo "geo fix 56.1665167 27.3466667 874.0 12"
+sleep 0.95
+echo "geo fix 56.1664 27.3466 874.0 12"
+sleep 0.95
+echo "geo fix 56.1663 27.34655 874.0 12"
+sleep 0.95
+echo "geo fix 56.1661833 27.3465 874.0 12"
+sleep 0.95
+echo "geo fix 56.1660667 27.3464333 873.0 12"
+sleep 0.95
+echo "geo fix 56.16595 27.3463833 872.0 12"
+sleep 0.95
+echo "geo fix 56.1658333 27.3463333 872.0 12"
+sleep 0.95
+echo "geo fix 56.1657167 27.3462667 872.0 12"
+sleep 0.95
+echo "geo fix 56.1656 27.3462 872.0 12"
+sleep 0.95
+echo "geo fix 56.1655 27.34615 871.0 12"
+sleep 0.95
+echo "geo fix 56.1654 27.3461 870.0 12"
+sleep 0.95
+echo "geo fix 56.1652833 27.34605 869.0 12"
+sleep 0.95
+echo "geo fix 56.1651833 27.346 867.0 12"
+sleep 0.95
+echo "geo fix 56.1650667 27.3459333 865.0 12"
+sleep 0.95
+echo "geo fix 56.16495 27.3458667 864.0 12"
+sleep 0.95
+echo "geo fix 56.1648333 27.3458167 864.0 12"
+sleep 0.95
+echo "geo fix 56.1647167 27.34575 863.0 12"
+sleep 0.95
+echo "geo fix 56.1645833 27.3457 862.0 12"
+sleep 0.95
+echo "geo fix 56.1644667 27.34565 862.0 12"
+sleep 0.95
+echo "geo fix 56.16435 27.3456 861.0 12"
+sleep 0.95
+echo "geo fix 56.1642167 27.34555 859.0 12"
+sleep 0.95
+echo "geo fix 56.1640667 27.3455 858.0 12"
+sleep 0.95
+echo "geo fix 56.16395 27.3454333 857.0 12"
+sleep 0.95
+echo "geo fix 56.1638167 27.3453667 857.0 12"
+sleep 0.95
+echo "geo fix 56.1637 27.3453167 857.0 12"
+sleep 0.95
+echo "geo fix 56.1635833 27.34525 856.0 12"
+sleep 0.95
+echo "geo fix 56.1634667 27.3452 856.0 12"
+sleep 0.95
+echo "geo fix 56.16335 27.3451333 855.0 12"
+sleep 0.95
+echo "geo fix 56.16325 27.3450833 853.0 12"
+sleep 0.95
+echo "geo fix 56.1631333 27.3450333 851.0 12"
+sleep 0.95
+echo "geo fix 56.163 27.3449833 847.0 12"
+sleep 0.95
+echo "geo fix 56.1628667 27.3449333 845.0 12"
+sleep 0.95
+echo "geo fix 56.1627167 27.3448667 844.0 12"
+sleep 0.95
+echo "geo fix 56.1625833 27.3448167 843.0 12"
+sleep 0.95
+echo "geo fix 56.1624667 27.34475 842.0 12"
+sleep 0.95
+echo "geo fix 56.1623667 27.3447 841.0 12"
+sleep 0.95
+echo "geo fix 56.16225 27.34465 838.0 12"
+sleep 0.95
+echo "geo fix 56.1621333 27.3445833 835.0 12"
+sleep 0.95
+echo "geo fix 56.1620167 27.3445167 831.0 12"
+sleep 0.95
+echo "geo fix 56.1618833 27.3444333 827.0 12"
+sleep 0.95
+echo "geo fix 56.1617333 27.3443667 826.0 12"
+sleep 0.95
+echo "geo fix 56.1616 27.3443 827.0 12"
+sleep 0.95
+echo "geo fix 56.1614833 27.3442333 826.0 12"
+sleep 0.95
+echo "geo fix 56.1613667 27.3441667 826.0 12"
+sleep 0.95
+echo "geo fix 56.16125 27.3441167 825.0 12"
+sleep 0.95
+echo "geo fix 56.1611333 27.3440667 822.0 12"
+sleep 0.95
+echo "geo fix 56.1610167 27.344 818.0 12"
+sleep 0.95
+echo "geo fix 56.1608833 27.34395 815.0 12"
+sleep 0.95
+echo "geo fix 56.16075 27.3438833 814.0 12"
+sleep 0.95
+echo "geo fix 56.1606167 27.3438333 813.0 12"
+sleep 0.95
+echo "geo fix 56.1605 27.3437833 812.0 12"
+sleep 0.95
+echo "geo fix 56.1604 27.3437167 810.0 12"
+sleep 0.95
+echo "geo fix 56.1602833 27.3436667 807.0 12"
+sleep 0.95
+echo "geo fix 56.1601667 27.3436167 803.0 12"
+sleep 0.95
+echo "geo fix 56.1600333 27.34355 800.0 12"
+sleep 0.95
+echo "geo fix 56.1599 27.3434833 797.0 12"
+sleep 0.95
+echo "geo fix 56.1597667 27.3434167 795.0 12"
+sleep 0.95
+echo "geo fix 56.1596333 27.3433667 794.0 12"
+sleep 0.95
+echo "geo fix 56.1595167 27.3433167 793.0 12"
+sleep 0.95
+echo "geo fix 56.1594 27.3432667 791.0 12"
+sleep 0.95
+echo "geo fix 56.1592667 27.3432167 789.0 12"
+sleep 0.95
+echo "geo fix 56.1591333 27.3431667 787.0 12"
+sleep 0.95
+echo "geo fix 56.1590167 27.3431167 786.0 12"
+sleep 0.95
+echo "geo fix 56.1588833 27.3430667 785.0 12"
+sleep 0.95
+echo "geo fix 56.1587667 27.3430167 784.0 12"
+sleep 0.95
+echo "geo fix 56.15865 27.34295 783.0 12"
+sleep 0.95
+echo "geo fix 56.1585333 27.3429 781.0 12"
+sleep 0.95
+echo "geo fix 56.1584333 27.34285 779.0 12"
+sleep 0.95
+echo "geo fix 56.1583167 27.3428 778.0 12"
+sleep 0.95
+echo "geo fix 56.1582 27.34275 776.0 12"
+sleep 0.95
+echo "geo fix 56.1581 27.3427 775.0 12"
+sleep 0.95
+echo "geo fix 56.1579833 27.34265 774.0 12"
+sleep 0.95
+echo "geo fix 56.1578667 27.3426 773.0 12"
+sleep 0.95
+echo "geo fix 56.15775 27.3425667 773.0 12"
+sleep 0.95
+echo "geo fix 56.1576333 27.34255 772.0 12"
+sleep 0.95
+echo "geo fix 56.1575167 27.3425333 771.0 12"
+sleep 0.95
+echo "geo fix 56.1573833 27.3425 769.0 12"
+sleep 0.95
+echo "geo fix 56.15725 27.3424667 767.0 12"
+sleep 0.95
+echo "geo fix 56.1571167 27.3424167 765.0 12"
+sleep 0.95
+echo "geo fix 56.1569667 27.3423667 764.0 12"
+sleep 0.95
+echo "geo fix 56.1568333 27.3423333 764.0 12"
+sleep 0.95
+echo "geo fix 56.1567167 27.3422833 763.0 12"
+sleep 0.95
+echo "geo fix 56.1565833 27.34225 762.0 12"
+sleep 0.95
+echo "geo fix 56.1564667 27.3422 759.0 12"
+sleep 0.95
+echo "geo fix 56.1563333 27.34215 757.0 12"
+sleep 0.95
+echo "geo fix 56.1562 27.3421 754.0 12"
+sleep 0.95
+echo "geo fix 56.1560667 27.3420333 753.0 12"
+sleep 0.95
+echo "geo fix 56.1559167 27.3419833 752.0 12"
+sleep 0.95
+echo "geo fix 56.1558 27.3419333 751.0 12"
+sleep 0.95
+echo "geo fix 56.1556667 27.3418667 749.0 12"
+sleep 0.95
+echo "geo fix 56.1555333 27.3418167 748.0 12"
+sleep 0.95
+echo "geo fix 56.1553833 27.34175 746.0 12"
+sleep 0.95
+echo "geo fix 56.15525 27.3417 745.0 12"
+sleep 0.95
+echo "geo fix 56.1551167 27.34165 744.0 12"
+sleep 0.95
+echo "geo fix 56.155 27.3416 743.0 12"
+sleep 0.95
+echo "geo fix 56.1548667 27.34155 742.0 12"
+sleep 0.95
+echo "geo fix 56.15475 27.3415 740.0 12"
+sleep 0.95
+echo "geo fix 56.1546333 27.3414667 737.0 12"
+sleep 0.95
+echo "geo fix 56.1545167 27.3414 735.0 12"
+sleep 0.95
+echo "geo fix 56.1544 27.3413333 735.0 12"
+sleep 0.95
+echo "geo fix 56.1543 27.3412667 734.0 12"
+sleep 0.95
+echo "geo fix 56.1542 27.3412167 732.0 12"
+sleep 0.95
+echo "geo fix 56.1541 27.3411667 730.0 12"
+sleep 0.95
+echo "geo fix 56.1539833 27.3411333 727.0 12"
+sleep 0.95
+echo "geo fix 56.15385 27.3410833 725.0 12"
+sleep 0.95
+echo "geo fix 56.1537167 27.3410333 725.0 12"
+sleep 0.95
+echo "geo fix 56.1536167 27.3409667 726.0 12"
+sleep 0.95
+echo "geo fix 56.1535167 27.3409333 728.0 12"
+sleep 0.95
+echo "geo fix 56.1534167 27.3409 729.0 12"
+sleep 0.95
+echo "geo fix 56.1533333 27.3408833 729.0 12"
+sleep 0.95
+echo "geo fix 56.1532333 27.3408667 728.0 12"
+sleep 0.95
+echo "geo fix 56.1531333 27.3408333 726.0 12"
+sleep 0.95
+echo "geo fix 56.1530333 27.3408 725.0 12"
+sleep 0.95
+echo "geo fix 56.1529167 27.34075 723.0 12"
+sleep 0.95
+echo "geo fix 56.1528 27.3407167 721.0 12"
+sleep 0.95
+echo "geo fix 56.1526833 27.3406667 720.0 12"
+sleep 0.95
+echo "geo fix 56.1525667 27.3406167 719.0 12"
+sleep 0.95
+echo "geo fix 56.15245 27.3405833 719.0 12"
+sleep 0.95
+echo "geo fix 56.1523333 27.3405333 719.0 12"
+sleep 0.95
+echo "geo fix 56.1522333 27.3405 718.0 12"
+sleep 0.95
+echo "geo fix 56.1521333 27.34045 716.0 12"
+sleep 0.95
+echo "geo fix 56.1520333 27.3403833 714.0 12"
+sleep 0.95
+echo "geo fix 56.1519167 27.3403333 712.0 12"
+sleep 0.95
+echo "geo fix 56.1518167 27.3402833 712.0 12"
+sleep 0.95
+echo "geo fix 56.1517167 27.34025 713.0 12"
+sleep 0.95
+echo "geo fix 56.1516333 27.3402167 714.0 12"
+sleep 0.95
+echo "geo fix 56.15155 27.3401833 712.0 12"
+sleep 0.95
+echo "geo fix 56.15145 27.34015 710.0 12"
+sleep 0.95
+echo "geo fix 56.1513333 27.3401167 709.0 12"
+sleep 0.95
+echo "geo fix 56.1512167 27.3400667 708.0 12"
+sleep 0.95
+echo "geo fix 56.1511167 27.3400167 708.0 12"
+sleep 0.95
+echo "geo fix 56.1510167 27.3399667 709.0 12"
+sleep 0.95
+echo "geo fix 56.1509333 27.3399167 709.0 12"
+sleep 0.95
+echo "geo fix 56.1508333 27.3399 708.0 12"
+sleep 0.95
+echo "geo fix 56.1507333 27.3398667 707.0 12"
+sleep 0.95
+echo "geo fix 56.1506167 27.3398333 706.0 12"
+sleep 0.95
+echo "geo fix 56.1505 27.3398167 705.0 12"
+sleep 0.95
+echo "geo fix 56.1504 27.3397833 705.0 12"
+sleep 0.95
+echo "geo fix 56.1503 27.33975 704.0 12"
+sleep 0.95
+echo "geo fix 56.1502167 27.3397167 704.0 12"
+sleep 0.95
+echo "geo fix 56.1501333 27.3396833 703.0 12"
+sleep 0.95
+echo "geo fix 56.1500333 27.3396333 703.0 12"
+sleep 0.95
+echo "geo fix 56.14995 27.3396 704.0 12"
+sleep 0.95
+echo "geo fix 56.14985 27.3395833 706.0 12"
+sleep 0.95
+echo "geo fix 56.1497667 27.33955 708.0 12"
+sleep 0.95
+echo "geo fix 56.1497 27.3395333 708.0 12"
+sleep 0.95
+echo "geo fix 56.1496333 27.3395 706.0 12"
+sleep 0.95
+echo "geo fix 56.1495333 27.3394667 703.0 12"
+sleep 0.95
+echo "geo fix 56.1494333 27.3394333 700.0 12"
+sleep 0.95
+echo "geo fix 56.1493167 27.3394 697.0 12"
+sleep 0.95
+echo "geo fix 56.1492 27.3393667 696.0 12"
+sleep 0.95
+echo "geo fix 56.1490833 27.3393167 695.0 12"
+sleep 0.95
+echo "geo fix 56.1489667 27.3392833 696.0 12"
+sleep 0.95
+echo "geo fix 56.1488667 27.33925 695.0 12"
+sleep 0.95
+echo "geo fix 56.1487833 27.3392167 695.0 12"
+sleep 0.95
+echo "geo fix 56.1486833 27.3391667 694.0 12"
+sleep 0.95
+echo "geo fix 56.1486 27.3391167 692.0 12"
+sleep 0.95
+echo "geo fix 56.1485 27.3390667 689.0 12"
+sleep 0.95
+echo "geo fix 56.1483667 27.3390167 687.0 12"
+sleep 0.95
+echo "geo fix 56.14825 27.3389833 685.0 12"
+sleep 0.95
+echo "geo fix 56.1481167 27.33895 684.0 12"
+sleep 0.95
+echo "geo fix 56.148 27.3389 684.0 12"
+sleep 0.95
+echo "geo fix 56.1479 27.33885 683.0 12"
+sleep 0.95
+echo "geo fix 56.1477833 27.3387833 680.0 12"
+sleep 0.95
+echo "geo fix 56.1476833 27.3387167 677.0 12"
+sleep 0.95
+echo "geo fix 56.1475667 27.33865 675.0 12"
+sleep 0.95
+echo "geo fix 56.1474333 27.3386 673.0 12"
+sleep 0.95
+echo "geo fix 56.1473167 27.3385333 672.0 12"
+sleep 0.95
+echo "geo fix 56.1472167 27.3384667 671.0 12"
+sleep 0.95
+echo "geo fix 56.1471 27.3383833 671.0 12"
+sleep 0.95
+echo "geo fix 56.1470167 27.3383 670.0 12"
+sleep 0.95
+echo "geo fix 56.1469 27.3382167 668.0 12"
+sleep 0.95
+echo "geo fix 56.1468 27.33815 667.0 12"
+sleep 0.95
+echo "geo fix 56.1466833 27.3380833 665.0 12"
+sleep 0.95
+echo "geo fix 56.1465833 27.3380167 663.0 12"
+sleep 0.95
+echo "geo fix 56.1464667 27.3379333 660.0 12"
+sleep 0.95
+echo "geo fix 56.1463667 27.3378667 658.0 12"
+sleep 0.95
+echo "geo fix 56.14625 27.3378 657.0 12"
+sleep 0.95
+echo "geo fix 56.14615 27.3377333 655.0 12"
+sleep 0.95
+echo "geo fix 56.1460333 27.33765 654.0 12"
+sleep 0.95
+echo "geo fix 56.1459167 27.3375833 654.0 12"
+sleep 0.95
+echo "geo fix 56.1458 27.3375333 653.0 12"
+sleep 0.95
+echo "geo fix 56.1457 27.3374667 653.0 12"
+sleep 0.95
+echo "geo fix 56.1455833 27.3374 652.0 12"
+sleep 0.95
+echo "geo fix 56.1454833 27.3373333 650.0 12"
+sleep 0.95
+echo "geo fix 56.1453667 27.3372667 648.0 12"
+sleep 0.95
+echo "geo fix 56.1452667 27.3372 646.0 12"
+sleep 0.95
+echo "geo fix 56.14515 27.3371167 644.0 12"
+sleep 0.95
+echo "geo fix 56.1450167 27.33705 644.0 12"
+sleep 0.95
+echo "geo fix 56.1449 27.3369833 643.0 12"
+sleep 0.95
+echo "geo fix 56.1447833 27.3369167 642.0 12"
+sleep 0.95
+echo "geo fix 56.14465 27.33685 641.0 12"
+sleep 0.95
+echo "geo fix 56.1445333 27.3368 639.0 12"
+sleep 0.95
+echo "geo fix 56.1444 27.3367333 638.0 12"
+sleep 0.95
+echo "geo fix 56.1442833 27.3366667 637.0 12"
+sleep 0.95
+echo "geo fix 56.1441833 27.3365833 636.0 12"
+sleep 0.95
+echo "geo fix 56.1440833 27.3365167 635.0 12"
+sleep 0.95
+echo "geo fix 56.1439667 27.33645 633.0 12"
+sleep 0.95
+echo "geo fix 56.1438667 27.3363833 632.0 12"
+sleep 0.95
+echo "geo fix 56.1437333 27.3363333 630.0 12"
+sleep 0.95
+echo "geo fix 56.1436167 27.3362667 628.0 12"
+sleep 0.95
+echo "geo fix 56.1435 27.3362 626.0 12"
+sleep 0.95
+echo "geo fix 56.1434 27.3361333 625.0 12"
+sleep 0.95
+echo "geo fix 56.1432833 27.33605 624.0 12"
+sleep 0.95
+echo "geo fix 56.1431667 27.336 623.0 12"
+sleep 0.95
+echo "geo fix 56.1430667 27.33595 623.0 12"
+sleep 0.95
+echo "geo fix 56.1429667 27.3359 623.0 12"
+sleep 0.95
+echo "geo fix 56.1428833 27.3358667 623.0 12"
+sleep 0.95
+echo "geo fix 56.1428 27.3358667 622.0 12"
+sleep 0.95
+echo "geo fix 56.1427167 27.3359167 618.0 12"
+sleep 0.95
+echo "geo fix 56.14265 27.336 612.0 12"
+sleep 0.95
+echo "geo fix 56.1426167 27.3361333 608.0 12"
+sleep 0.95
+echo "geo fix 56.1426333 27.33625 606.0 12"
+sleep 0.95
+echo "geo fix 56.1427 27.33635 605.0 12"
+sleep 0.95
+echo "geo fix 56.1427667 27.3364167 604.0 12"
+sleep 0.95
+echo "geo fix 56.1428333 27.3364833 602.0 12"
+sleep 0.95
+echo "geo fix 56.1428667 27.33655 600.0 12"
+sleep 0.95
+echo "geo fix 56.1429167 27.33665 597.0 12"
+sleep 0.95
+echo "geo fix 56.1429833 27.33675 595.0 12"
+sleep 0.95
+echo "geo fix 56.14305 27.3368333 595.0 12"
+sleep 0.95
+echo "geo fix 56.1431167 27.3369167 595.0 12"
+sleep 0.95
+echo "geo fix 56.1431833 27.3369667 595.0 12"
+sleep 0.95
+echo "geo fix 56.1432333 27.3370333 594.0 12"
+sleep 0.95
+echo "geo fix 56.1432833 27.3371 593.0 12"
+sleep 0.95
+echo "geo fix 56.1433333 27.3371667 591.0 12"
+sleep 0.95
+echo "geo fix 56.1434 27.33725 588.0 12"
+sleep 0.95
+echo "geo fix 56.1434667 27.3373333 587.0 12"
+sleep 0.95
+echo "geo fix 56.1435333 27.3374 586.0 12"
+sleep 0.95
+echo "geo fix 56.1436 27.3374833 586.0 12"
+sleep 0.95
+echo "geo fix 56.1436667 27.33755 584.0 12"
+sleep 0.95
+echo "geo fix 56.1437333 27.3376 583.0 12"
+sleep 0.95
+echo "geo fix 56.1438 27.3376667 582.0 12"
+sleep 0.95
+echo "geo fix 56.1438833 27.3377333 580.0 12"
+sleep 0.95
+echo "geo fix 56.1439667 27.3378167 579.0 12"
+sleep 0.95
+echo "geo fix 56.1440333 27.3379 578.0 12"
+sleep 0.95
+echo "geo fix 56.1441167 27.3379833 578.0 12"
+sleep 0.95
+echo "geo fix 56.1442 27.33805 578.0 12"
+sleep 0.95
+echo "geo fix 56.1442667 27.3381 578.0 12"
+sleep 0.95
+echo "geo fix 56.1443333 27.33815 576.0 12"
+sleep 0.95
+echo "geo fix 56.1444167 27.3382167 574.0 12"
+sleep 0.95
+echo "geo fix 56.1444833 27.3383 572.0 12"
+sleep 0.95
+echo "geo fix 56.1445667 27.3383667 571.0 12"
+sleep 0.95
+echo "geo fix 56.1446333 27.3384333 570.0 12"
+sleep 0.95
+echo "geo fix 56.1447 27.3385 570.0 12"
+sleep 0.95
+echo "geo fix 56.1447667 27.3385667 569.0 12"
+sleep 0.95
+echo "geo fix 56.1448333 27.3386333 568.0 12"
+sleep 0.95
+echo "geo fix 56.1449167 27.3387 567.0 12"
+sleep 0.95
+echo "geo fix 56.1449833 27.3387667 566.0 12"
+sleep 0.95
+echo "geo fix 56.14505 27.3388333 566.0 12"
+sleep 0.95
+echo "geo fix 56.1451167 27.3389167 565.0 12"
+sleep 0.95
+echo "geo fix 56.1451667 27.339 564.0 12"
+sleep 0.95
+echo "geo fix 56.1452333 27.3390667 564.0 12"
+sleep 0.95
+echo "geo fix 56.1453167 27.3391333 563.0 12"
+sleep 0.95
+echo "geo fix 56.1453833 27.3392 562.0 12"
+sleep 0.95
+echo "geo fix 56.1454833 27.3392833 561.0 12"
+sleep 0.95
+echo "geo fix 56.1455667 27.33935 560.0 12"
+sleep 0.95
+echo "geo fix 56.1456333 27.3394167 561.0 12"
+sleep 0.95
+echo "geo fix 56.1456833 27.3394833 560.0 12"
+sleep 0.95
+echo "geo fix 56.14575 27.3395667 559.0 12"
+sleep 0.95
+echo "geo fix 56.1458 27.3396333 558.0 12"
+sleep 0.95
+echo "geo fix 56.14585 27.3397 558.0 12"
+sleep 0.95
+echo "geo fix 56.1459 27.3397667 558.0 12"
+sleep 0.95
+echo "geo fix 56.1459667 27.3398333 556.0 12"
+sleep 0.95
+echo "geo fix 56.1460333 27.3399167 555.0 12"
+sleep 0.95
+echo "geo fix 56.1460833 27.34 555.0 12"
+sleep 0.95
+echo "geo fix 56.1461333 27.3400833 555.0 12"
+sleep 0.95
+echo "geo fix 56.1461833 27.34015 555.0 12"
+sleep 0.95
+echo "geo fix 56.1462333 27.3402 555.0 12"
+sleep 0.95
+echo "geo fix 56.1463 27.3402333 555.0 12"
+sleep 0.95
+echo "geo fix 56.1463667 27.34025 555.0 12"
+sleep 0.95
+echo "geo fix 56.14645 27.3402667 555.0 12"
+sleep 0.95
+echo "geo fix 56.1465 27.3403 557.0 12"
+sleep 0.95
+echo "geo fix 56.1465667 27.3403333 557.0 12"
+sleep 0.95
+echo "geo fix 56.1466 27.3403667 557.0 12"
+sleep 0.95
+echo "geo fix 56.1466667 27.3404167 556.0 12"
+sleep 0.95
+echo "geo fix 56.1467167 27.3404667 554.0 12"
+sleep 0.95
+echo "geo fix 56.1467833 27.3405167 553.0 12"
+sleep 0.95
+echo "geo fix 56.1468667 27.3406 553.0 12"
+sleep 0.95
+echo "geo fix 56.1469333 27.3406667 553.0 12"
+sleep 0.95
+echo "geo fix 56.1470167 27.34075 553.0 12"
+sleep 0.95
+echo "geo fix 56.1470833 27.3408167 553.0 12"
+sleep 0.95
+echo "geo fix 56.1471667 27.3409 553.0 12"
+sleep 0.95
+echo "geo fix 56.14725 27.3409667 552.0 12"
+sleep 0.95
+echo "geo fix 56.1473333 27.34105 550.0 12"
+sleep 0.95
+echo "geo fix 56.1474167 27.3411333 549.0 12"
+sleep 0.95
+echo "geo fix 56.1475 27.3412167 548.0 12"
+sleep 0.95
+echo "geo fix 56.1475833 27.3413 548.0 12"
+sleep 0.95
+echo "geo fix 56.1476667 27.3413833 548.0 12"
+sleep 0.95
+echo "geo fix 56.1477333 27.3414667 547.0 12"
+sleep 0.95
+echo "geo fix 56.1478 27.34155 547.0 12"
+sleep 0.95
+echo "geo fix 56.1478833 27.3416333 546.0 12"
+sleep 0.95
+echo "geo fix 56.14795 27.3417333 545.0 12"
+sleep 0.95
+echo "geo fix 56.1480167 27.3418167 545.0 12"
+sleep 0.95
+echo "geo fix 56.1481 27.3418833 547.0 12"
+sleep 0.95
+echo "geo fix 56.1481667 27.34195 549.0 12"
+sleep 0.95
+echo "geo fix 56.1482167 27.3420167 551.0 12"
+sleep 0.95
+echo "geo fix 56.1482667 27.3420833 551.0 12"
+sleep 0.95
+echo "geo fix 56.1483167 27.34215 550.0 12"
+sleep 0.95
+echo "geo fix 56.1484 27.3422333 549.0 12"
+sleep 0.95
+echo "geo fix 56.1485 27.3423 549.0 12"
+sleep 0.95
+echo "geo fix 56.1485833 27.3423833 550.0 12"
+sleep 0.95
+echo "geo fix 56.1486667 27.3424667 552.0 12"
+sleep 0.95
+echo "geo fix 56.1487167 27.3425333 551.0 12"
+sleep 0.95
+echo "geo fix 56.1487667 27.3426 550.0 12"
+sleep 0.95
+echo "geo fix 56.1488333 27.3426833 548.0 12"
+sleep 0.95
+echo "geo fix 56.1489167 27.3427667 546.0 12"
+sleep 0.95
+echo "geo fix 56.149 27.34285 544.0 12"
+sleep 0.95
+echo "geo fix 56.1490667 27.3429333 544.0 12"
+sleep 0.95
+echo "geo fix 56.1491333 27.343 543.0 12"
+sleep 0.95
+echo "geo fix 56.1491833 27.3430667 542.0 12"
+sleep 0.95
+echo "geo fix 56.14925 27.34315 540.0 12"
+sleep 0.95
+echo "geo fix 56.1493167 27.3432167 536.0 12"
+sleep 0.95
+echo "geo fix 56.1493833 27.3433 534.0 12"
+sleep 0.95
+echo "geo fix 56.1494667 27.3433833 532.0 12"
+sleep 0.95
+echo "geo fix 56.1495333 27.3434667 530.0 12"
+sleep 0.95
+echo "geo fix 56.1496 27.34355 529.0 12"
+sleep 0.95
+echo "geo fix 56.1496667 27.3436333 529.0 12"
+sleep 0.95
+echo "geo fix 56.1497333 27.3437 528.0 12"
+sleep 0.95
+echo "geo fix 56.1498 27.3437833 528.0 12"
+sleep 0.95
+echo "geo fix 56.14985 27.34385 528.0 12"
+sleep 0.95
+echo "geo fix 56.1499167 27.3439333 527.0 12"
+sleep 0.95
+echo "geo fix 56.1499833 27.3440167 527.0 12"
+sleep 0.95
+echo "geo fix 56.15005 27.3440833 527.0 12"
+sleep 0.95
+echo "geo fix 56.1501167 27.3441667 527.0 12"
+sleep 0.95
+echo "geo fix 56.1501833 27.34425 526.0 12"
+sleep 0.95
+echo "geo fix 56.1502333 27.3443333 526.0 12"
+sleep 0.95
+echo "geo fix 56.1503167 27.3444333 526.0 12"
+sleep 0.95
+echo "geo fix 56.1503667 27.3445167 527.0 12"
+sleep 0.95
+echo "geo fix 56.15045 27.3446 527.0 12"
+sleep 0.95
+echo "geo fix 56.1505167 27.3446833 528.0 12"
+sleep 0.95
+echo "geo fix 56.1505667 27.34475 530.0 12"
+sleep 0.95
+echo "geo fix 56.1506 27.3448167 531.0 12"
+sleep 0.95
+echo "geo fix 56.1506333 27.3448667 530.0 12"
+sleep 0.95
+echo "geo fix 56.1506667 27.3449333 529.0 12"
+sleep 0.95
+echo "geo fix 56.1507167 27.345 526.0 12"
+sleep 0.95
+echo "geo fix 56.1507833 27.3450833 524.0 12"
+sleep 0.95
+echo "geo fix 56.1508333 27.3451667 523.0 12"
+sleep 0.95
+echo "geo fix 56.1508833 27.3452667 523.0 12"
+sleep 0.95
+echo "geo fix 56.1509167 27.3453333 524.0 12"
+sleep 0.95
+echo "geo fix 56.15095 27.3454 524.0 12"
+sleep 0.95
+echo "geo fix 56.1509833 27.3454667 522.0 12"
+sleep 0.95
+echo "geo fix 56.1510333 27.3455167 520.0 12"
+sleep 0.95
+echo "geo fix 56.1510833 27.3455833 519.0 12"
+sleep 0.95
+echo "geo fix 56.15115 27.34565 517.0 12"
+sleep 0.95
+echo "geo fix 56.1512 27.3457167 517.0 12"
+sleep 0.95
+echo "geo fix 56.15125 27.3457833 515.0 12"
+sleep 0.95
+echo "geo fix 56.1513 27.34585 513.0 12"
+sleep 0.95
+echo "geo fix 56.15135 27.3459 511.0 12"
+sleep 0.95
+echo "geo fix 56.1514167 27.3459833 509.0 12"
+sleep 0.95
+echo "geo fix 56.1514667 27.34605 507.0 12"
+sleep 0.95
+echo "geo fix 56.1515333 27.3461 505.0 12"
+sleep 0.95
+echo "geo fix 56.1515833 27.3461667 504.0 12"
+sleep 0.95
+echo "geo fix 56.1516333 27.3462333 502.0 12"
+sleep 0.95
+echo "geo fix 56.1516833 27.3463 499.0 12"
+sleep 0.95
+echo "geo fix 56.1517333 27.3463833 497.0 12"
+sleep 0.95
+echo "geo fix 56.1518 27.3464667 497.0 12"
+sleep 0.95
+echo "geo fix 56.15185 27.3465333 495.0 12"
+sleep 0.95
+echo "geo fix 56.1519 27.3466 494.0 12"
+sleep 0.95
+echo "geo fix 56.1519667 27.3466667 492.0 12"
+sleep 0.95
+echo "geo fix 56.1520167 27.3467333 489.0 12"
+sleep 0.95
+echo "geo fix 56.15205 27.3468167 487.0 12"
+sleep 0.95
+echo "geo fix 56.1521 27.3469 485.0 12"
+sleep 0.95
+echo "geo fix 56.1521333 27.3469833 483.0 12"
+sleep 0.95
+echo "geo fix 56.1521667 27.3470667 482.0 12"
+sleep 0.95
+echo "geo fix 56.1522167 27.3471333 480.0 12"
+sleep 0.95
+echo "geo fix 56.15225 27.3472 478.0 12"
+sleep 0.95
+echo "geo fix 56.1523 27.34725 475.0 12"
+sleep 0.95
+echo "geo fix 56.1523667 27.3473 473.0 12"
+sleep 0.95
+echo "geo fix 56.1524167 27.34735 471.0 12"
+sleep 0.95
+echo "geo fix 56.1524667 27.3474167 471.0 12"
+sleep 0.95
+echo "geo fix 56.1525333 27.3474833 471.0 12"
+sleep 0.95
+echo "geo fix 56.1525833 27.3475667 470.0 12"
+sleep 0.95
+echo "geo fix 56.1526167 27.3476333 468.0 12"
+sleep 0.95
+echo "geo fix 56.1526833 27.3477167 467.0 12"
+sleep 0.95
+echo "geo fix 56.1527333 27.3478 466.0 12"
+sleep 0.95
+echo "geo fix 56.1528 27.3478667 466.0 12"
+sleep 0.95
+echo "geo fix 56.1528667 27.34795 465.0 12"
+sleep 0.95
+echo "geo fix 56.1529167 27.34805 464.0 12"
+sleep 0.95
+echo "geo fix 56.15295 27.3481333 464.0 12"
+sleep 0.95
+echo "geo fix 56.1529667 27.3482333 464.0 12"
+sleep 0.95
+echo "geo fix 56.1529833 27.3483167 464.0 12"
+sleep 0.95
+echo "geo fix 56.1530167 27.3484 463.0 12"
+sleep 0.95
+echo "geo fix 56.15305 27.3485 462.0 12"
+sleep 0.95
+echo "geo fix 56.1530667 27.3486167 461.0 12"
+sleep 0.95
+echo "geo fix 56.1530667 27.3487167 461.0 12"
+sleep 0.95
+echo "geo fix 56.1530667 27.3488333 461.0 12"
+sleep 0.95
+echo "geo fix 56.1530667 27.3489333 461.0 12"
+sleep 0.95
+echo "geo fix 56.1530333 27.3490167 461.0 12"
+sleep 0.95
+echo "geo fix 56.1530167 27.3491 460.0 12"
+sleep 0.95
+echo "geo fix 56.1530167 27.3492 458.0 12"
+sleep 0.95
+echo "geo fix 56.153 27.3493 456.0 12"
+sleep 0.95
+echo "geo fix 56.1529833 27.3494167 455.0 12"
+sleep 0.95
+echo "geo fix 56.1529667 27.3495333 454.0 12"
+sleep 0.95
+echo "geo fix 56.1529667 27.3496333 454.0 12"
+sleep 0.95
+echo "geo fix 56.1529667 27.34975 454.0 12"
+sleep 0.95
+echo "geo fix 56.153 27.34985 454.0 12"
+sleep 0.95
+echo "geo fix 56.1530333 27.3499167 453.0 12"
+sleep 0.95
+echo "geo fix 56.1531 27.3499833 451.0 12"
+sleep 0.95
+echo "geo fix 56.1531667 27.3500167 448.0 12"
+sleep 0.95
+echo "geo fix 56.15325 27.35005 445.0 12"
+sleep 0.95
+echo "geo fix 56.1533333 27.3500333 444.0 12"
+sleep 0.95
+echo "geo fix 56.1533833 27.35 444.0 12"
+sleep 0.95
+echo "geo fix 56.1534167 27.3499667 443.0 12"
+sleep 0.95
+echo "geo fix 56.1534 27.3499 440.0 12"
+sleep 0.95
+echo "geo fix 56.1533833 27.34985 438.0 12"
+sleep 0.95
+echo "geo fix 56.1533667 27.3497833 436.0 12"
+sleep 0.95
+echo "geo fix 56.1533333 27.34975 435.0 12"
+sleep 0.95
+echo "geo fix 56.1532833 27.3497 434.0 12"
+sleep 0.95
+echo "geo fix 56.1532 27.3496667 432.0 12"
+sleep 0.95
+echo "geo fix 56.1531 27.3496667 429.0 12"
+sleep 0.95
+echo "geo fix 56.1529833 27.3496833 427.0 12"
+sleep 0.95
+echo "geo fix 56.1528833 27.34975 427.0 12"
+sleep 0.95
+echo "geo fix 56.1527833 27.3498333 427.0 12"
+sleep 0.95
+echo "geo fix 56.15275 27.34995 427.0 12"
+sleep 0.95
+echo "geo fix 56.1527667 27.3500667 426.0 12"
+sleep 0.95
+echo "geo fix 56.1528167 27.3501833 426.0 12"
+sleep 0.95
+echo "geo fix 56.1528833 27.3502667 425.0 12"
+sleep 0.95
+echo "geo fix 56.1529333 27.3503333 425.0 12"
+sleep 0.95
+echo "geo fix 56.1529667 27.3503667 423.0 12"
+sleep 0.95
+echo "geo fix 56.1530333 27.3504167 419.0 12"
+sleep 0.95
+echo "geo fix 56.1531 27.3504667 417.0 12"
+sleep 0.95
+echo "geo fix 56.1531833 27.3505167 415.0 12"
+sleep 0.95
+echo "geo fix 56.1532667 27.35055 413.0 12"
+sleep 0.95
+echo "geo fix 56.1533667 27.3505833 411.0 12"
+sleep 0.95
+echo "geo fix 56.1534667 27.3506 411.0 12"
+sleep 0.95
+echo "geo fix 56.1535667 27.3506333 411.0 12"
+sleep 0.95
+echo "geo fix 56.15365 27.3506667 411.0 12"
+sleep 0.95
+echo "geo fix 56.1537333 27.3507 409.0 12"
+sleep 0.95
+echo "geo fix 56.1538167 27.3507333 408.0 12"
+sleep 0.95
+echo "geo fix 56.1539 27.3507833 406.0 12"
+sleep 0.95
+echo "geo fix 56.1539667 27.35085 404.0 12"
+sleep 0.95
+echo "geo fix 56.1540167 27.3509167 402.0 12"
+sleep 0.95
+echo "geo fix 56.1540667 27.351 399.0 12"
+sleep 0.95
+echo "geo fix 56.1541 27.3511 397.0 12"
+sleep 0.95
+echo "geo fix 56.15415 27.3511833 394.0 12"
+sleep 0.95
+echo "geo fix 56.1541833 27.3512833 392.0 12"
+sleep 0.95
+echo "geo fix 56.1542167 27.3514 391.0 12"
+sleep 0.95
+echo "geo fix 56.15425 27.3515 390.0 12"
+sleep 0.95
+echo "geo fix 56.1542667 27.3516167 389.0 12"
+sleep 0.95
+echo "geo fix 56.1542667 27.3517167 388.0 12"
+sleep 0.95
+echo "geo fix 56.1542833 27.3518167 388.0 12"
+sleep 0.95
+echo "geo fix 56.1543167 27.3519 386.0 12"
+sleep 0.95
+echo "geo fix 56.1543333 27.3520167 383.0 12"
+sleep 0.95
+echo "geo fix 56.15435 27.3521167 381.0 12"
+sleep 0.95
+echo "geo fix 56.1543667 27.3522333 379.0 12"
+sleep 0.95
+echo "geo fix 56.1544 27.35235 379.0 12"
+sleep 0.95
+echo "geo fix 56.1544333 27.3524667 379.0 12"
+sleep 0.95
+echo "geo fix 56.1544667 27.3525667 380.0 12"
+sleep 0.95
+echo "geo fix 56.1545167 27.35265 379.0 12"
+sleep 0.95
+echo "geo fix 56.15455 27.35275 377.0 12"
+sleep 0.95
+echo "geo fix 56.1546 27.35285 375.0 12"
+sleep 0.95
+echo "geo fix 56.1546667 27.35295 375.0 12"
+sleep 0.95
+echo "geo fix 56.1547333 27.3530333 376.0 12"
+sleep 0.95
+echo "geo fix 56.1548 27.3531 378.0 12"
+sleep 0.95
+echo "geo fix 56.1548833 27.35315 381.0 12"
+sleep 0.95
+echo "geo fix 56.1549333 27.3531833 381.0 12"
+sleep 0.95
+echo "geo fix 56.155 27.3532167 382.0 12"
+sleep 0.95
+echo "geo fix 56.1550833 27.3532833 382.0 12"
+sleep 0.95
+echo "geo fix 56.15515 27.3533333 382.0 12"
+sleep 0.95
+echo "geo fix 56.15525 27.3533833 383.0 12"
+sleep 0.95
+echo "geo fix 56.1553167 27.3534333 384.0 12"
+sleep 0.95
+echo "geo fix 56.1554 27.3534833 384.0 12"
+sleep 0.95
+echo "geo fix 56.1554667 27.3535333 384.0 12"
+sleep 0.95
+echo "geo fix 56.1555333 27.3535833 383.0 12"
+sleep 0.95
+echo "geo fix 56.1556167 27.3536333 382.0 12"
+sleep 0.95
+echo "geo fix 56.1557 27.35365 382.0 12"
+sleep 0.95
+echo "geo fix 56.1557833 27.3536667 382.0 12"
+sleep 0.95
+echo "geo fix 56.15585 27.3536333 381.0 12"
+sleep 0.95
+echo "geo fix 56.1559 27.3535833 380.0 12"
+sleep 0.95
+echo "geo fix 56.1559333 27.3535167 380.0 12"
+sleep 0.95
+echo "geo fix 56.1559333 27.3534667 380.0 12"
+sleep 0.95
+echo "geo fix 56.1558667 27.3534333 380.0 12"
+sleep 0.95
+echo "geo fix 56.1558167 27.3534 379.0 12"
+sleep 0.95
+echo "geo fix 56.15575 27.3533667 378.0 12"
+sleep 0.95
+echo "geo fix 56.1556833 27.3533333 377.0 12"
+sleep 0.95
+echo "geo fix 56.1556333 27.3533 377.0 12"
+sleep 0.95
+echo "geo fix 56.1555833 27.3532667 377.0 12"
+sleep 0.95
+echo "geo fix 56.1555333 27.35325 376.0 12"
+sleep 0.95
+echo "geo fix 56.1554833 27.3532167 375.0 12"
+sleep 0.95
+echo "geo fix 56.15545 27.3531833 374.0 12"
+sleep 0.95
+echo "geo fix 56.1554 27.35315 372.0 12"
+sleep 0.95
+echo "geo fix 56.15535 27.3531167 372.0 12"
+sleep 0.95
+echo "geo fix 56.1552833 27.3531 371.0 12"
+sleep 0.95
+echo "geo fix 56.1552333 27.3530667 371.0 12"
+sleep 0.95
+echo "geo fix 56.1551667 27.35305 371.0 12"
+sleep 0.95
+echo "geo fix 56.1551 27.3530333 371.0 12"
+sleep 0.95
+echo "geo fix 56.15505 27.353 370.0 12"
+sleep 0.95
+echo "geo fix 56.1549833 27.3529833 370.0 12"
+sleep 0.95
+echo "geo fix 56.15495 27.35295 369.0 12"
+sleep 0.95
+echo "geo fix 56.1549 27.3529167 367.0 12"
+sleep 0.95
+echo "geo fix 56.15485 27.3529 365.0 12"
+sleep 0.95
+echo "geo fix 56.1548 27.3528667 364.0 12"
+sleep 0.95
+echo "geo fix 56.15475 27.3528333 363.0 12"
+sleep 0.95
+echo "geo fix 56.1546833 27.3528167 361.0 12"
+sleep 0.95
+echo "geo fix 56.1546333 27.3527833 359.0 12"
+sleep 0.95
+echo "geo fix 56.1545833 27.35275 358.0 12"
+sleep 0.95
+echo "geo fix 56.1545333 27.3527167 357.0 12"
+sleep 0.95
+echo "geo fix 56.1545167 27.3526667 356.0 12"
+sleep 0.95
+echo "geo fix 56.1545333 27.3526333 354.0 12"
+sleep 0.95
+echo "geo fix 56.15455 27.3525833 353.0 12"
+sleep 0.95
+echo "geo fix 56.1546 27.3525333 352.0 12"
+sleep 0.95
+echo "geo fix 56.1546667 27.3525 351.0 12"
+sleep 0.95
+echo "geo fix 56.1547333 27.3524667 350.0 12"
+sleep 0.95
+echo "geo fix 56.1548 27.3524667 349.0 12"
+sleep 0.95
+echo "geo fix 56.1548667 27.35245 347.0 12"
+sleep 0.95
+echo "geo fix 56.1549333 27.3524333 346.0 12"
+sleep 0.95
+echo "geo fix 56.1549833 27.3524167 343.0 12"
+sleep 0.95
+echo "geo fix 56.15505 27.3523833 341.0 12"
+sleep 0.95
+echo "geo fix 56.1551 27.35235 340.0 12"
+sleep 0.95
+echo "geo fix 56.15515 27.3523167 339.0 12"
+sleep 0.95
+echo "geo fix 56.1552 27.3523 339.0 12"
+sleep 0.95
+echo "geo fix 56.15525 27.3522833 338.0 12"
+sleep 0.95
+echo "geo fix 56.1553167 27.35225 337.0 12"
+sleep 0.95
+echo "geo fix 56.1553667 27.3522333 335.0 12"
+sleep 0.95
+echo "geo fix 56.1554167 27.3521833 333.0 12"
+sleep 0.95
+echo "geo fix 56.1554833 27.35215 332.0 12"
+sleep 0.95
+echo "geo fix 56.1555333 27.3521167 331.0 12"
+sleep 0.95
+echo "geo fix 56.1556 27.3521 331.0 12"
+sleep 0.95
+echo "geo fix 56.15565 27.3520833 329.0 12"
+sleep 0.95
+echo "geo fix 56.1557167 27.35205 327.0 12"
+sleep 0.95
+echo "geo fix 56.1557667 27.3520167 325.0 12"
+sleep 0.95
+echo "geo fix 56.1558167 27.3519667 324.0 12"
+sleep 0.95
+echo "geo fix 56.1558167 27.3519167 322.0 12"
+sleep 0.95
+echo "geo fix 56.1557667 27.35185 321.0 12"
+sleep 0.95
+echo "geo fix 56.1557 27.3518 320.0 12"
+sleep 0.95
+echo "geo fix 56.1556333 27.3517667 319.0 12"
+sleep 0.95
+echo "geo fix 56.15555 27.3517667 318.0 12"
+sleep 0.95
+echo "geo fix 56.1554833 27.35175 318.0 12"
+sleep 0.95
+echo "geo fix 56.1554 27.3517333 317.0 12"
+sleep 0.95
+echo "geo fix 56.1553167 27.3517167 317.0 12"
+sleep 0.95
+echo "geo fix 56.15525 27.3516833 317.0 12"
+sleep 0.95
+echo "geo fix 56.1552 27.3516667 317.0 12"
+sleep 0.95
+echo "geo fix 56.1551333 27.35165 317.0 12"
+sleep 0.95
+echo "geo fix 56.1550833 27.3516333 317.0 12"
+sleep 0.95
+echo "geo fix 56.1550333 27.3516 316.0 12"
+sleep 0.95
+echo "geo fix 56.1549833 27.3515833 317.0 12"
+sleep 0.95
+echo "geo fix 56.1549333 27.3515667 317.0 12"
+sleep 0.95
+echo "geo fix 56.1549 27.3515167 313.0 12"
+sleep 0.95
+echo "geo fix 56.15485 27.35145 310.0 12"
+sleep 0.95
+echo "geo fix 56.1548167 27.3513667 309.0 12"
+sleep 0.95
+echo "geo fix 56.1547833 27.3512833 308.0 12"
+sleep 0.95
+echo "geo fix 56.15475 27.3512167 308.0 12"
+sleep 0.95
+echo "geo fix 56.1547333 27.3511667 308.0 12"
+sleep 0.95
+echo "geo fix 56.1547 27.3511333 307.0 12"
+sleep 0.95
+echo "geo fix 56.1546667 27.3511 306.0 12"
+sleep 0.95
+echo "geo fix 56.15465 27.3510833 306.0 12"
+sleep 0.95
+echo "geo fix 56.1546333 27.3510667 306.0 12"
+sleep 0.95
+echo "geo fix 56.1546167 27.35105 306.0 12"
+sleep 0.95
+echo "geo fix 56.1546167 27.3510167 306.0 12"
+sleep 0.95
+echo "geo fix 56.1546167 27.351 305.0 12"
+sleep 0.95
+echo "geo fix 56.1546 27.351 305.0 12"
+sleep 0.95
+echo "geo fix 56.1546 27.3509833 306.0 12"
+sleep 0.95
+echo "geo fix 56.1546 27.3509667 305.0 12"
+sleep 0.95
+echo "geo fix 56.1546 27.35095 305.0 12"
+sleep 0.95
+echo "geo fix 56.1546 27.3509333 305.0 12"
+sleep 0.95
+echo "geo fix 56.1545833 27.3509167 305.0 12"
+sleep 0.95
+echo "geo fix 56.1545833 27.3509 305.0 12"
+sleep 0.95
+echo "geo fix 56.1545667 27.3508833 305.0 12"
+sleep 0.95
+echo "geo fix 56.1545667 27.3508667 305.0 12"
+sleep 0.95
+echo "geo fix 56.15455 27.3508667 305.0 12"
+sleep 0.95
+echo "geo fix 56.15455 27.35085 304.0 12"
+sleep 0.95
+echo "geo fix 56.15455 27.35085 304.0 12"
+sleep 0.95
+echo "geo fix 56.15455 27.3508333 304.0 12"
+sleep 0.95
+echo "geo fix 56.15455 27.3508167 304.0 12"
+sleep 0.95
+echo "geo fix 56.1545667 27.3508167 303.0 12"
+sleep 0.95
+echo "geo fix 56.1545667 27.3508167 303.0 12"
+sleep 0.95
+echo "geo fix 56.1545667 27.3508167 303.0 12"
+sleep 0.95
+echo "geo fix 56.1545667 27.3508167 303.0 12"
+sleep 0.95
+echo "geo fix 56.1545667 27.3508167 303.0 12"
+sleep 0.95
+echo "geo fix 56.1545667 27.3508167 303.0 12"
+sleep 0.95
+echo "geo fix 56.1545667 27.3508167 303.0 12"
+sleep 0.95
+echo "geo fix 56.1545667 27.3508167 303.0 12"
+sleep 0.95
+echo "geo fix 56.1545667 27.3508167 303.0 12"
+sleep 0.95
+echo "geo fix 56.1545667 27.3508167 303.0 12"
+sleep 0.95
+echo "geo fix 56.1545667 27.3508167 303.0 12"
+sleep 0.95
+echo "geo fix 56.1545667 27.3508167 303.0 12"
+sleep 0.95
