@@ -11,22 +11,22 @@ process.stdin.on('keypress', (str, key) => {
   if (key.ctrl && key.name === 'c') {
     process.exit();
   }else if (key.name === 'left') {
-    console.log(`got to left`);
+    // console.log(`got to left`);
     left();
   }else if (key.name === 'right') {
-    console.log(`got to right`);
+    // console.log(`got to right`);
     right();
   }else if (key.name === 'up') {
-    console.log(`got to faster`);
+    // console.log(`got to faster`);
     faster();
   }else if (key.name === 'down') {
-    console.log(`got to slower`);
+    // console.log(`got to slower`);
     slower();
   }else if (key.name === 'h') {
-    console.log(`got to higher`);
+    // console.log(`got to higher`);
     higher();
   }else if (key.name === 'l') {
-    console.log(`got to lower`);
+    // console.log(`got to lower`);
     lower();
   } else {
     console.log(key);
@@ -67,8 +67,11 @@ function lower(){
   vspeed = Math.round((vspeed - 0.2) * 10) / 10;
   printState();
 }
+
 function printState(){
-  console.log({speed, vspeed, bearing});
+  process.stdout.moveCursor(0, -1);
+  process.stdout.clearLine(0);
+  console.log(i, '| s:', speed, 'vs:', vspeed, 'bearing:', bearing, 'ele:', lastP.ele, 'lon:', lastP.lon, 'lat:', lastP.lat);
 }
 
 async function run() {
@@ -90,19 +93,22 @@ async function run() {
     send && await connection.connect(params)
     console.log('connected');
 
-    let i = 0;
+    // process.stdout.write("\x1B[?25l");
+    // process.stdout.cursorTo()
     while(true) {
       i++;
       const p = createNextPoint(lastP);
       lastP = p;
       const cmd = `geo fix ${p.lon} ${p.lat} ${p.ele} 12`;
-      console.log(i, cmd)
+      // process.stdout.moveCursor(0, -1);
+      // process.stdout.clearLine(0);
+      // console.log(i, cmd, '| s:', speed, 'vs:', vspeed, 'bearing:', bearing);
+      printState();
       try{
         send && await connection.send(cmd);
         !send && await wait(900);
       }catch(err){}
       await wait(100);
-      i = i + 1;
     }
 
   } catch(error) {
@@ -113,9 +119,10 @@ async function run() {
  
 }
 
+let i = 0;
 let send = true;
-// let lastP = {lat: 27.3625, lon: 56.1548, ele: 580.0} // Geno
-let lastP = {lat: 32.34615, lon: 51.03927, ele: 2683.0} //Rokh
+let lastP = {lat: 27.3625, lon: 56.1548, ele: 580.0} // Geno
+// let lastP = {lat: 32.34615, lon: 51.03927, ele: 2683.0} //Rokh
 let speed = 0;
 let vspeed = 0;
 let bearing = 90;
